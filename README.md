@@ -271,6 +271,4 @@ Infrastructure as Art
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacrex&theme=dark&background=0d0d0d&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&hide_border=true" alt="Top Languages" />
-
 </div>
