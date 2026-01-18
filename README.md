@@ -64,19 +64,40 @@ Indore, India · +91-9823497600 · kashvit@live.in
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CORE+INTELLIGENCE" alt="CORE INTELLIGENCE" />
 </div>
 
-> **Cloud Engineer / DevOps & Platform Engineer with 6+ years of experience designing, automating, and optimizing cloud infrastructure on AWS, GCP, and Azure.** Proven track record of **reducing cloud costs by up to 40%, cutting downtime by 60%, and delivering zero-downtime migrations** using Kubernetes and Terraform. Strong in **cloud security, CI/CD, Kubernetes platforms, and scalable cloud-native architectures** for production workloads.
+```diff
+! [IDENTITY]: Ashvit D. Khandare
++ ROLE: Cloud & DevOps Architect
+# LOCATION: Indore, India | CONTACT: kashvit@live.in
+
+- MISSION: Designing, automating, and optimizing cloud infrastructure.
+- SPECIALTY: Reducing cloud costs (40%), cutting downtime (60%), and zero-downtime migrations.
+- STACK: AWS, GCP, Azure, Kubernetes, Terraform.
+```
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=EXPERIENCE+%26+ACHIEVEMENTS" alt="EXPERIENCE & ACHIEVEMENTS" />
 </div>
 
+```diff
+! [SYSTEM_LOG]: Accessing Career Records...
 
-| Company | Role | Impact Highlights |
-|:---:|:---:|:---|
-| **Anaxee Digital Runners** | **Cloud Engineer** | 💸 **40% Cost Reduction** via Spot Instances & Rightsizing<br>⚡ **99.9% Uptime** for critical services<br>🔄 **Zero-Downtime** Migrations |
-| **Freelance** | **Cloud Consultant** | 🌐 Delivered secure cloud solutions<br>📧 Migrated 50+ business email accounts<br>🛠️ Troubleshoot scale issues |
++ [CURRENT]: Anaxee Digital Runners
+# ROLE: Cloud Engineer
+- IMPACT: 40% Cost Reduction via Spot Instances & Rightsizing
+- IMPACT: 99.9% Uptime for critical services
+- IMPACT: Zero-Downtime Migrations
 
-### 🏆 CERTIFICATIONS & AWARDS
++ [HISTORY]: Freelance Consultant
+# ROLE: Cloud Consultant
+- IMPACT: Delivered secure cloud solutions
+- IMPACT: Migrated 50+ business email accounts
+- IMPACT: Troubleshooting scale issues
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CERTIFICATIONS+%26+AWARDS" alt="CERTIFICATIONS & AWARDS" />
+</div>
+
 
 <div align="center">
 
@@ -91,14 +112,29 @@ Indore, India · +91-9823497600 · kashvit@live.in
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=SELECTED+PROJECTS" alt="SELECTED PROJECTS" />
 </div>
 
+```diff
+! [MODULES]: Loading Project Profiles...
 
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| **☁️ Opswork.cloud** | Multi-Cloud DevOps Portfolio & Automation Hub | `AWS EKS` `Terraform` `GitLab CI` |
-| **🤖 Toolsea AI** | AI-Powered Cloud Management Platform | `GCP Vertex AI` `K8s` `ArgoCD` |
-| **📱 DawnFit App** | Cloud-Native Fitness Platform | `Azure AKS` `Docker` `Prometheus` |
-| **📝 Hackunderroot** | Cybersecurity blog covering ethical hacking | `Static Site` `CloudFront` `S3` |
-| **💰 Crypto Tracker** | Real-time cryptocurrency dashboard | `Node.js` `React` `External APIs` |
++ [PROJECT]: Opswork.cloud
+# TYPE: Multi-Cloud DevOps Portfolio
+- STACK: AWS EKS | Terraform | GitLab CI
+
++ [PROJECT]: Toolsea AI
+# TYPE: AI-Powered Cloud Management
+- STACK: GCP Vertex AI | K8s | ArgoCD
+
++ [PROJECT]: DawnFit App
+# TYPE: Cloud-Native Fitness Platform
+- STACK: Azure AKS | Docker | Prometheus
+
++ [PROJECT]: Hackunderroot
+# TYPE: Cybersecurity Blog
+- STACK: Static Site | CloudFront | S3
+
++ [PROJECT]: Crypto Tracker
+# TYPE: Real-time Dashboard
+- STACK: Node.js | React | External APIs
+```
 
 ---
 
@@ -134,7 +170,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ---
 
-### 🛠️ TECHNICAL ARSENAL
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=TECHNICAL+ARSENAL" alt="TECHNICAL ARSENAL" />
+</div>
+
 
 | Category | Skills |
 |----------|--------|
@@ -157,7 +196,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ---
 
-## CONTINUOUS LEARNING & DEVELOPMENT
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CONTINUOUS+LEARNING" alt="CONTINUOUS LEARNING" />
+</div>
+
 
 **SKILL DEVELOPMENT PIPELINE:**
 
@@ -179,7 +221,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ---
 
-## COLLABORATION & PARTNERSHIPS
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=COLLABORATION+%26+PARTNERSHIPS" alt="COLLABORATION & PARTNERSHIPS" />
+</div>
+
 
 **SEEKING PARTNERSHIPS IN:**
 
@@ -193,7 +238,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ---
 
-## INNOVATION METHODOLOGY
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=INNOVATION+METHODOLOGY" alt="INNOVATION METHODOLOGY" />
+</div>
+
 
 **TECHNIQUE:** "Vibe Coding"
 
