@@ -201,22 +201,29 @@ Indore, India · +91-9823497600 · kashvit@live.in
 </div>
 
 
-**SKILL DEVELOPMENT PIPELINE:**
+```diff
+! [PIPELINE]: SKILL DEVELOPMENT SYNC
 
-- **MLOps & AIOps** ![90%](https://geps.dev/progress/90)
-- **Machine Learning** ![75%](https://geps.dev/progress/75)
-- **AI-Driven DevOps** ![85%](https://geps.dev/progress/85)
-- **Serverless Architecture** ![65%](https://geps.dev/progress/65)
++ [LOADING]: MLOps & AIOps
+- PROGRESS: [//////////////////..] 90%
 
-**CURRENT FOCUS:** Cloud-Native AI Integration  
-**NEXT MILESTONE:** Kubernetes AI Operator Development
++ [LOADING]: Machine Learning
+- PROGRESS: [///////////////.....] 75%
 
-```bash
-[hacrex@cloud-ops ~]$ cat /proc/learning/current_focus
-> Implementing MLOps pipelines on Kubernetes
-> AI-powered infrastructure cost optimization
-> Serverless computing with AWS Lambda & GCP Functions  
-> Advanced Terraform modules for multi-cloud deployments
++ [LOADING]: AI-Driven DevOps
+- PROGRESS: [/////////////////...] 85%
+
++ [LOADING]: Serverless Architecture
+- PROGRESS: [/////////////.......] 65%
+
+# [CURRENT_FOCUS]: Cloud-Native AI Integration
+# [MILESTONE]: Kubernetes AI Operator Development
+
+! [SYS_CHECK]: /proc/learning/current_focus
+- > Implementing MLOps pipelines on Kubernetes
+- > AI-powered infrastructure cost optimization
+- > Serverless computing with AWS Lambda & GCP Functions
+- > Advanced Terraform modules for multi-cloud deployments
 ```
 
 ---
