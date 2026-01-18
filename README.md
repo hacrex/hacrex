@@ -13,6 +13,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=900&height=50&lines=SENIOR+CLOUD+%26+DEVOPS+ENGINEER+%7C+6%2B+YEARS;AWS+%7C+GCP+%7C+AZURE+MULTI-CLOUD+ARCHITECT;KUBERNETES+%7C+TERRAFORM+%7C+CI%2FCD+AUTOMATION;BUILDING+ENTERPRISE-GRADE+INFRASTRUCTURE" alt="Typing SVG" />
 
+<div align="center">
+  <a href="mailto:kashvit@live.in">
+    <img src="https://img.shields.io/badge/Hire_Me-0d0d0d?style=for-the-badge&logo=handshake&logoColor=ff0033" alt="Hire Me"/>
+  </a>
+  <a href="https://opswork.cloud">
+    <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=ff0033" alt="Portfolio"/>
+  </a>
+  <a href="https://www.credly.com/users/hacrex/">
+    <img src="https://img.shields.io/badge/Verify_Credentials-0d0d0d?style=for-the-badge&logo=credly&logoColor=ff0033" alt="Credly"/>
+  </a>
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=hacrex&label=Profile+Views&color=ff0033&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Role-Senior_Cloud_DevOps-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=amazonwebservices&logoColor=ff0033" alt="Role" />
 <img src="https://img.shields.io/badge/Experience-6%2B_Years-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=kubernetes&logoColor=ff0033" alt="Experience" />
@@ -47,10 +59,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 <div align="center">
 
-![CEH](https://img.shields.io/badge/Certified-Ethical_Hacker_v8-0d0d0d?style=for-the-badge&logo=eccouncil&logoColor=ff0033) 
-![RHCSA](https://img.shields.io/badge/Red_Hat-System_Administrator-0d0d0d?style=for-the-badge&logo=redhat&logoColor=ff0033) 
-![HyperV](https://img.shields.io/badge/Microsoft-Server_Virtualization-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=ff0033) 
-![CISE](https://img.shields.io/badge/Security-Certified_Info_Sec_Expert-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033)
+<a href="https://www.credly.com/users/hacrex/">![CEH](https://img.shields.io/badge/Certified-Ethical_Hacker_v8-0d0d0d?style=for-the-badge&logo=eccouncil&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![RHCSA](https://img.shields.io/badge/Red_Hat-System_Administrator-0d0d0d?style=for-the-badge&logo=redhat&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![HyperV](https://img.shields.io/badge/Microsoft-Server_Virtualization-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![CISE](https://img.shields.io/badge/Security-Certified_Info_Sec_Expert-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033)</a>
 
 </div>
 
@@ -156,6 +168,25 @@ MISSION: Architect. Deploy. Scale. Optimize.
 
 **TECHNIQUE:** "Vibe Coding"
 
+**🏗️ ARCHITECTURE DESIGN**
+- Conceptual, logical & physical design for public cloud solutions (infrastructure & platforms)
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff0033', 'primaryTextColor': '#fff', 'primaryBorderColor': '#ff0033', 'lineColor': '#ff0033', 'secondaryColor': '#0d0d0d', 'tertiaryColor': '#0d0d0d'}}}%%
+graph LR
+    User((User)) -->|HTTPS| LB[Load Balancer]
+    subgraph Cloud [AWS / GCP Cloud]
+    LB --> K8s[Kubernetes Cluster]
+    K8s -->|Pods| App[Microservices]
+    App -->|Read/Write| DB[(Database)]
+    App -->|Cache| Redis[(Redis)]
+    end
+    style LB fill:#0d0d0d,stroke:#ff0033,stroke-width:2px,color:#fff
+    style K8s fill:#0d0d0d,stroke:#ff0033,stroke-width:2px,color:#fff
+    style App fill:#0d0d0d,stroke:#ff0033,stroke-width:2px,color:#fff
+    style DB fill:#0d0d0d,stroke:#ff0033,stroke-width:2px,color:#fff
+    style Redis fill:#0d0d0d,stroke:#ff0033,stroke-width:2px,color:#fff
+```
 **APPLICATION:** Rapid prototyping of cloud infrastructure and DevOps workflows using creative problem-solving approaches that accelerate development cycles beyond traditional methods.
 
 **RESULT:** 3x faster infrastructure deployment cycles
