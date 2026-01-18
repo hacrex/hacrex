@@ -34,7 +34,16 @@
 
 ---
 
-## ABOUT ME
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=435&lines=ABOUT+ME" alt="ABOUT ME" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=header&text=&fontSize=0&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" style="width:100%;" />
+</div>
+
 
 **Ashvit D. Khandare**
 
@@ -51,9 +60,16 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <!-- BLOG-POST-LIST:END -->
 
 
-**Cloud Engineer / DevOps & Platform Engineer with 6+ years of experience designing, automating, and optimizing cloud infrastructure on AWS, GCP, and Azure.** Proven track record of **reducing cloud costs by up to 40%, cutting downtime by 60%, and delivering zero-downtime migrations** using Kubernetes and Terraform. Strong in **cloud security, CI/CD, Kubernetes platforms, and scalable cloud-native architectures** for production workloads.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CORE+INTELLIGENCE" alt="CORE INTELLIGENCE" />
+</div>
 
-### 🚀 EXPERIENCE & ACHIEVEMENTS
+> **Cloud Engineer / DevOps & Platform Engineer with 6+ years of experience designing, automating, and optimizing cloud infrastructure on AWS, GCP, and Azure.** Proven track record of **reducing cloud costs by up to 40%, cutting downtime by 60%, and delivering zero-downtime migrations** using Kubernetes and Terraform. Strong in **cloud security, CI/CD, Kubernetes platforms, and scalable cloud-native architectures** for production workloads.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=EXPERIENCE+%26+ACHIEVEMENTS" alt="EXPERIENCE & ACHIEVEMENTS" />
+</div>
+
 
 | Company | Role | Impact Highlights |
 |:---:|:---:|:---|
@@ -71,7 +87,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 </div>
 
-### 🔮 SELECTED PROJECTS
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=SELECTED+PROJECTS" alt="SELECTED PROJECTS" />
+</div>
+
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
@@ -83,22 +102,26 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ---
 
-## CLOUD INFRASTRUCTURE COMMAND CENTER
+---
 
-```bash
-┌─[hacrex@cloud-ops]─[~/infrastructure]
-└──╼ $ kubectl get nodes --all-namespaces
-NAME                STATUS   ROLES    AGE     VERSION
-master-node-1       Ready    master   365d    v1.28.0
-worker-node-1       Ready    <none>   365d    v1.28.0
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CLOUD+INFRASTRUCTURE+COMMAND" alt="CLOUD INFRASTRUCTURE COMMAND" />
+</div>
 
-┌─[hacrex@cloud-ops]─[~/infrastructure]  
-└──╼ $ terraform plan | grep "Plan:"
-Plan: 847 to add, 23 to change, 12 to destroy.
+```diff
+! [hacrex@cloud-ops]─[~/infrastructure]
+- $ kubectl get nodes --all-namespaces
+# NAME                STATUS   ROLES    AGE     VERSION
+# master-node-1       Ready    master   365d    v1.28.0
+# worker-node-1       Ready    <none>   365d    v1.28.0
 
-┌─[hacrex@cloud-ops]─[~/infrastructure]
-└──╼ $ echo "MISSION: Architect. Deploy. Scale. Optimize."
-MISSION: Architect. Deploy. Scale. Optimize.
+! [hacrex@cloud-ops]─[~/infrastructure]  
+- $ terraform plan | grep "Plan:"
++ Plan: 847 to add, 23 to change, 12 to destroy.
+
+! [hacrex@cloud-ops]─[~/infrastructure]
+- $ echo "MISSION: Architect. Deploy. Scale. Optimize."
+- MISSION: Architect. Deploy. Scale. Optimize.
 ```
 
 **CORE COMPETENCIES**
