@@ -1,132 +1,231 @@
+```
+██╗  ██╗ █████╗  ██████╗██████╗ ███████╗██╗  ██╗
+██║  ██║██╔══██╗██╔════╝██╔══██╗██╔════╝╚██╗██╔╝
+███████║███████║██║     ██████╔╝█████╗   ╚███╔╝ 
+██╔══██║██╔══██║██║     ██╔══██╗██╔══╝   ██╔██╗ 
+██║  ██║██║  ██║╚██████╗██║  ██║███████╗██╔╝ ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=600&height=70&lines=HACREX;CLOUD+ENGINEER;PLATFORM+%26+DEVOPS;KUBERNETES+%7C+TERRAFORM;AI+%26+SECURITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=800&height=50&lines=%3E+CLOUD+ARCHITECT+%7C+PLATFORM+ENGINEER;%3E+KUBERNETES+ORCHESTRATOR+%7C+TERRAFORM+AUTOMATOR;%3E+AI+SECURITY+SPECIALIST+%7C+DEVOPS+HACKER;%3E+BREAKING+SYSTEMS+TO+BUILD+BETTER+ONES..." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hacrex&label=PROFILE+VIEWS&color=ff0033&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hacrex&label=INTRUSION+DETECTED&color=ff0033&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-ff0033?style=for-the-badge&labelColor=0d0d0d&logo=statuspage" alt="Status" />
+  <img src="https://img.shields.io/badge/CLEARANCE-TOP_SECRET-ff0033?style=for-the-badge&labelColor=0d0d0d&logo=shield" alt="Clearance" />
 </div>
 
 ---
 
-## ⚡ SYSTEM STATUS
+## 🔴 SYSTEM BREACH DETECTED
 
 ```bash
-$ whoami
-hacrex@cloud:~$ Senior Cloud Engineer | 6+ Years Combat Experience
-hacrex@cloud:~$ Specialization: Platform Engineering • DevOps • Kubernetes • AI Security
-hacrex@cloud:~$ Status: Building bulletproof cloud infrastructure
+┌─[hacrex@darknet]─[~/cloud-ops]
+└──╼ $ sudo su -
+[root@mainframe ~]# whoami
+root
+
+[root@mainframe ~]# cat /etc/passwd | grep hacrex
+hacrex:x:1337:1337:Cloud Infiltrator:/home/hacrex:/bin/zsh
+
+[root@mainframe ~]# ps aux | grep expertise
+├── 6+ years deep system penetration
+├── Multi-cloud infrastructure domination  
+├── Kubernetes cluster manipulation
+├── Terraform infrastructure weaponization
+├── AI-powered security bypass techniques
+└── Zero-downtime surgical operations
+
+[root@mainframe ~]# netstat -tulpn | grep LISTENING
+tcp    0.0.0.0:443    HTTPS_SECURE_CHANNEL    [ENCRYPTED]
+tcp    0.0.0.0:22     SSH_BACKDOOR           [AUTHENTICATED]
+tcp    0.0.0.0:6443   K8S_API_SERVER         [COMPROMISED]
+
+[root@mainframe ~]# echo "MISSION: Automate everything. Trust nothing."
+MISSION: Automate everything. Trust nothing.
 ```
 
-**MISSION CRITICAL EXPERTISE:**
-- ☁️ **Multi-Cloud Architect** → AWS | GCP | Azure production deployments
-- 🔧 **Infrastructure as Code** → Terraform automation at enterprise scale  
-- ⚙️ **Container Orchestration** → Kubernetes clusters, service mesh, GitOps
-- 🛡️ **Security-First Design** → Zero-trust architecture, compliance automation
-- 🤖 **AI-Driven Operations** → MLOps pipelines, intelligent monitoring, cost optimization
-- 📈 **Performance Engineering** → 40% cost reduction, 60% downtime elimination
+**⚠️ THREAT LEVEL: MAXIMUM**
+- 🎯 **Cloud Penetration Specialist** → AWS | GCP | Azure infrastructure takeover
+- 💀 **Infrastructure Weaponization** → Terraform scripts that deploy at light speed
+- 🔥 **Container Orchestration Ninja** → K8s clusters bend to my will
+- 🛡️ **Security Architect** → Building fortresses, then finding ways to break them
+- 🤖 **AI Automation Overlord** → Teaching machines to do the impossible
+- ⚡ **Performance Assassin** → Eliminating bottlenecks with surgical precision
 
-*Surgical precision in cloud migrations. Automation-first mindset. Reliability obsessed.*
+*"I don't just deploy infrastructure. I architect digital empires."*
 
 ---
 
-## 🔥 ARSENAL
+## 🔥 DIGITAL ARSENAL
 
 <div align="center">
 
-### ☁️ CLOUD PLATFORMS
-![AWS](https://img.shields.io/badge/AWS-FF0033?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d0d0d)
-![GCP](https://img.shields.io/badge/GCP-FF0033?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d0d0d)
-![Azure](https://img.shields.io/badge/Azure-FF0033?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0d0d0d)
+```
+    ╔══════════════════════════════════════════════════════════════╗
+    ║                    🏴‍☠️ HACKING TOOLKIT 🏴‍☠️                      ║
+    ╚══════════════════════════════════════════════════════════════╝
+```
 
-### 🐳 CONTAINERS & ORCHESTRATION
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FF0033?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0d0d)
-![Docker](https://img.shields.io/badge/Docker-FF0033?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d)
-![EKS](https://img.shields.io/badge/EKS-FF0033?style=for-the-badge&logo=amazon-eks&logoColor=white&labelColor=0d0d0d)
+### ☁️ CLOUD DOMINATION PLATFORMS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF0033&labelColor=0d0d0d)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=FF0033&labelColor=0d0d0d)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=FF0033&labelColor=0d0d0d)
 
-### 🏗️ INFRASTRUCTURE AS CODE
-![Terraform](https://img.shields.io/badge/Terraform-FF0033?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d0d0d)
-![Jenkins](https://img.shields.io/badge/Jenkins-FF0033?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d0d0d)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FF0033?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0d0d0d)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FF0033?style=for-the-badge&logo=argo&logoColor=white&labelColor=0d0d0d)
+### 🐳 CONTAINER WARFARE
+![Kubernetes](https://img.shields.io/badge/K8S-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FF0033&labelColor=0d0d0d)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=FF0033&labelColor=0d0d0d)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=FF0033&labelColor=0d0d0d)
+![CapRover](https://img.shields.io/badge/CAPROVER-1976D2?style=for-the-badge&logo=docker&logoColor=FF0033&labelColor=0d0d0d)
 
-### 📊 OBSERVABILITY & MONITORING
-![Prometheus](https://img.shields.io/badge/Prometheus-FF0033?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0d0d0d)
-![Grafana](https://img.shields.io/badge/Grafana-FF0033?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0d0d0d)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FF0033?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=0d0d0d)
+### 🏗️ INFRASTRUCTURE WEAPONIZATION
+![Terraform](https://img.shields.io/badge/TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=FF0033&labelColor=0d0d0d)
+![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=FF0033&labelColor=0d0d0d)
+![GitLab CI](https://img.shields.io/badge/GITLAB_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=FF0033&labelColor=0d0d0d)
+![ArgoCD](https://img.shields.io/badge/ARGOCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=FF0033&labelColor=0d0d0d)
 
-### 🛡️ SECURITY & COMPLIANCE
-![Trivy](https://img.shields.io/badge/Trivy-FF0033?style=for-the-badge&logo=aqua&logoColor=white&labelColor=0d0d0d)
-![Nessus](https://img.shields.io/badge/Nessus-FF0033?style=for-the-badge&logo=tenable&logoColor=white&labelColor=0d0d0d)
-![Darktrace](https://img.shields.io/badge/Darktrace-FF0033?style=for-the-badge&logo=darktrace&logoColor=white&labelColor=0d0d0d)
+### 📊 SURVEILLANCE & MONITORING
+![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=FF0033&labelColor=0d0d0d)
+![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=FF0033&labelColor=0d0d0d)
+![OpenTelemetry](https://img.shields.io/badge/OTEL-000000?style=for-the-badge&logo=opentelemetry&logoColor=FF0033&labelColor=0d0d0d)
 
-### 🤖 AI & AUTOMATION
-![OpenAI](https://img.shields.io/badge/OpenAI-FF0033?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d0d)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-FF0033?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d0d0d)
-![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF0033?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d0d0d)
+### 🛡️ CYBER DEFENSE SYSTEMS
+![Trivy](https://img.shields.io/badge/TRIVY-1904DA?style=for-the-badge&logo=aqua&logoColor=FF0033&labelColor=0d0d0d)
+![XSOAR](https://img.shields.io/badge/XSOAR-00C176?style=for-the-badge&logo=paloaltonetworks&logoColor=FF0033&labelColor=0d0d0d)
+![Nessus](https://img.shields.io/badge/NESSUS-00C176?style=for-the-badge&logo=tenable&logoColor=FF0033&labelColor=0d0d0d)
+![Darktrace](https://img.shields.io/badge/DARKTRACE-E60012?style=for-the-badge&logo=darktrace&logoColor=FF0033&labelColor=0d0d0d)
+
+### 🤖 AI NEURAL NETWORKS
+![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=FF0033&labelColor=0d0d0d)
+![Gemini](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=google&logoColor=FF0033&labelColor=0d0d0d)
+![Vertex AI](https://img.shields.io/badge/VERTEX_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=FF0033&labelColor=0d0d0d)
+![Bedrock](https://img.shields.io/badge/BEDROCK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=FF0033&labelColor=0d0d0d)
+
+```
+╭─────────────────────────────────────────────────────────────╮
+│  💀 EXPLOIT METRICS: 40% Cost Reduction | 60% Uptime Boost  │
+╰─────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
 ---
 
-## 🎯 ACTIVE OPERATIONS
+## 🎯 ACTIVE EXPLOITS
 
-```yaml
-current_projects:
-  - name: "Opswork.cloud"
-    type: "Cloud & DevOps Portfolio"
-    status: "Production Ready"
-    
-  - name: "FreestackToolsea AI"
-    type: "AI-Powered DevOps Toolkit"
-    status: "Beta Testing"
-    
-  - name: "DawnFit App"
-    type: "Cloud-Native Mobile Platform"
-    status: "Scaling Phase"
-    
-  - name: "Hackunderroot"
-    type: "Security Research Blog"
-    status: "Active Publishing"
+```
+┌─[CLASSIFIED OPERATIONS]─────────────────────────────────────┐
+│                                                             │
+│  📡 opswork.cloud                    [████████████] LIVE    │
+│     └─ Cloud & DevOps Command Center                       │
+│                                                             │
+│  🤖 FreestackToolsea AI             [██████████░░] BETA    │
+│     └─ AI-Powered Infrastructure Hacking Suite             │
+│                                                             │
+│  📱 DawnFit App                      [████████░░░░] DEPLOY  │
+│     └─ Cloud-Native Mobile Infiltration Platform           │
+│                                                             │
+│  🔍 Hackunderroot                    [████████████] ACTIVE │
+│     └─ Security Research & Vulnerability Database          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+[root@mainframe ~]# tail -f /var/log/projects.log
+2025-01-18 23:42:15 [INFO] Multi-cloud migration: 99.9% uptime achieved
+2025-01-18 23:42:16 [SUCCESS] Terraform deployment: 847 resources created
+2025-01-18 23:42:17 [ALERT] Cost optimization: $50K/month saved
+2025-01-18 23:42:18 [HACK] Zero-downtime deployment: Mission accomplished
 ```
 
 ---
 
-## 🧠 CONTINUOUS LEARNING
+## 🧠 NEURAL NETWORK TRAINING
 
-**CURRENT FOCUS:**
-- 🔬 **MLOps & AIOps** → Intelligent infrastructure automation
-- 🤖 **Machine Learning** → Applied AI for cloud operations
-- 🔍 **AI-Driven Security** → Automated threat detection and response
-- ⚡ **Edge Computing** → Distributed cloud architectures
+```
+┌─[SKILL ACQUISITION PROTOCOL]────────────────────────────────┐
+│                                                             │
+│  🔬 MLOps & AIOps           [▓▓▓▓▓▓▓▓▓░] 90% COMPLETE      │
+│  🤖 Machine Learning        [▓▓▓▓▓▓▓░░░] 75% COMPLETE      │
+│  🔍 AI-Driven Security      [▓▓▓▓▓▓▓▓░░] 85% COMPLETE      │
+│  ⚡ Edge Computing          [▓▓▓▓▓░░░░░] 55% COMPLETE      │
+│                                                             │
+│  📊 LEARNING VELOCITY: Exponential                         │
+│  🎯 NEXT TARGET: Quantum Cloud Computing                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+[root@mainframe ~]# cat /proc/brain/current_focus
+> Weaponizing AI for infrastructure automation
+> Teaching machines to predict and prevent system failures  
+> Building self-healing cloud architectures
+> Quantum-resistant security implementations
+```
 
 ---
 
-## 🤝 COLLABORATION PROTOCOLS
+## 🤝 ALLIANCE PROTOCOLS
 
-**SEEKING ALLIANCE FOR:**
-- ☁️ **Cloud Platform Engineering** → Multi-cloud, hybrid architectures
-- 🔄 **DevOps & MLOps Pipelines** → End-to-end automation workflows  
-- 🛡️ **Security Engineering** → Zero-trust, compliance automation
-- 🤖 **AI Infrastructure** → ML model deployment, observability
+```
+┌─[COLLABORATION MATRIX]──────────────────────────────────────┐
+│                                                             │
+│  SEEKING PARTNERS FOR:                                      │
+│                                                             │
+│  ☁️  Multi-Cloud Domination     │  🔄  MLOps Pipelines     │
+│  🛡️  Security Engineering       │  🤖  AI Infrastructure   │
+│  🔥  DevOps Automation          │  ⚡  Performance Hacking │
+│                                                             │
+│  COMPATIBILITY: Open Source Enthusiasts Welcome            │
+│  CLEARANCE LEVEL: All levels accepted                      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## ⚡ CLASSIFIED INTEL
+## ⚡ CLASSIFIED INTELLIGENCE
 
-*I leverage **Vibe Coding** as a rapid prototyping method for DevOps workflows and cloud automation—turning complex infrastructure ideas into working solutions faster than traditional approaches.*
+```
+┌─[TOP SECRET]────────────────────────────────────────────────┐
+│                                                             │
+│  🎭 CODENAME: "Vibe Coding"                                │
+│                                                             │
+│  📋 MISSION: Rapid prototyping of DevOps workflows using   │
+│              unconventional creative methodologies that    │
+│              accelerate infrastructure development cycles   │
+│              beyond traditional approaches.                 │
+│                                                             │
+│  ⚠️  CLASSIFICATION: Need-to-know basis only              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
 
-### 📡 SECURE CHANNELS
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    � SECURE COMMUNICATION CHANNELS 🔴        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/hacrex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/opswork)
-[![Email](https://img.shields.io/badge/Email-FF0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:kashvit@live.in)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FF0033&labelColor=0d0d0d)](https://github.com/hacrex)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FF0033&labelColor=0d0d0d)](https://linkedin.com/in/opswork)
+[![Email](https://img.shields.io/badge/ENCRYPTED_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FF0033&labelColor=0d0d0d)](mailto:kashvit@live.in)
 
----
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│           "BREAK SYSTEMS. BUILD EMPIRES. REPEAT."          │
+│                                                             │
+│  [root@mainframe ~]# echo "Connection terminated..."       │
+│  Connection terminated...                                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-**`BUILD. SECURE. AUTOMATE. REPEAT.`**
+<img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=333333&hide_border=true" alt="GitHub Stats" />
 
 </div>
