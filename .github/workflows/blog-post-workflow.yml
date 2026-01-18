@@ -17,4 +17,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://opswork.cloud/feed" # Replace with your actual RSS feed URL if different
+          feed_list: "https://hackunderroot.blogspot.com/feeds/posts/default?alt=rss"
