@@ -7,6 +7,7 @@
 ██║     ██║     ██║   ██║██║   ██║██║  ██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝██║   ██║██╔═══╝ ╚════██║
 ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝    ██████╔╝███████╗ ╚████╔╝ ╚██████╔╝██║     ███████║
  ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
+
 SENIOR CLOUD & DEVOPS ENGINEER
 ```
 
@@ -63,46 +64,42 @@ MISSION: Architect. Deploy. Scale. Optimize.
 
 ## PROFESSIONAL EXPERIENCE & ACHIEVEMENTS
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          CLOUD ENGINEERING EXPERTISE                         ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  ARCHITECTURE DESIGN                                                         ║
-║  └─ Conceptual, logical & physical design for public cloud solutions        ║
-║                                                                              ║
-║  CONTAINERIZATION                                                            ║
-║  └─ Docker containerization enabling seamless multi-environment deployment  ║
-║                                                                              ║
-║  CLOUDOPS IMPLEMENTATION                                                     ║
-║  └─ Hands-on GCP & Azure operations (IaaS: VMs, Networking, Storage)       ║
-║                                                                              ║
-║  OSS INTEGRATIONS                                                            ║
-║  └─ Multiple open-source solutions for enhanced platform functionality      ║
-║                                                                              ║
-║  DEVOPS AUTOMATION                                                           ║
-║  └─ Shell Scripts & Python automation, full CI/CD pipelines                ║
-║                                                                              ║
-║  DATABASE ADMINISTRATION                                                     ║
-║  └─ Multi-database management, containerized DBs for cost reduction        ║
-║                                                                              ║
-║  SERVER ADMINISTRATION                                                       ║
-║  └─ Multi-environment server management for seamless operations            ║
-║                                                                              ║
-║  MONITORING & TROUBLESHOOTING                                                ║
-║  └─ Multi-cloud monitoring, production issue resolution                     ║
-║                                                                              ║
-║  CLOUD MIGRATION                                                             ║
-║  └─ Hands-on on-premises to cloud migrations (GCP to Azure)                ║
-║                                                                              ║
-║  DISASTER RECOVERY                                                           ║
-║  └─ Backup Vaults, DR plans, multisite data replication                    ║
-║                                                                              ║
-║  AUTOMATION ENVIRONMENT MANAGEMENT                                           ║
-║  └─ Shell Script automation for various services                            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+**CLOUD ENGINEERING EXPERTISE:**
 
+**🏗️ ARCHITECTURE DESIGN**
+- Conceptual, logical & physical design for public cloud solutions (infrastructure & platforms)
+
+**🐳 CONTAINERIZATION** 
+- Containerized multiple applications using Docker enabling seamless deployment across environments
+
+**☁️ CLOUDOPS IMPLEMENTATION**
+- Hands-on GCP & Azure operations (IaaS: VMs, Networking, Storage) and application deployment
+
+**🔧 OSS INTEGRATIONS**
+- Implemented multiple open-source solutions to enhance platform functionality & streamline ops
+
+**🔄 DEVOPS AUTOMATION**
+- Automated environments with Shell Scripts & Python, Full CI/CD pipelines: Jenkins, Git, Docker, K8s
+
+**🗄️ DATABASE ADMINISTRATION**
+- Managed multiple databases, containerized DBs for cost reduction, optimal performance & reliability
+
+**🖥️ SERVER ADMINISTRATION**
+- Oversaw server administration across multiple environments ensuring seamless operations
+
+**📊 MONITORING & TROUBLESHOOTING**
+- Multi-cloud monitoring for performance/reliability, Production issue resolution to avoid end-user impact
+
+**🔄 CLOUD MIGRATION**
+- Hands-on migration of on-premises workloads from GCP to Azure environments
+
+**🛡️ DISASTER RECOVERY**
+- Implemented Backup Vaults & DR plans on GCP/Azure, Multisite data replication, minimizing downtime
+
+**⚙️ AUTOMATION ENVIRONMENT MANAGEMENT**
+- Setup & maintenance of automated environments using Shell Scripts for various services
+
+```bash
 [hacrex@cloud-ops ~]$ grep -i "impact" /var/log/achievements.log
 > Reduced infrastructure costs by 40% through optimization
 > Achieved 99.9% uptime across multi-cloud deployments  
@@ -114,14 +111,6 @@ MISSION: Architect. Deploy. Scale. Optimize.
 ---
 
 ## TECHNICAL EXPERTISE & TOOLKIT
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                      INFRASTRUCTURE ENGINEERING STACK                        ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
 ### PROGRAMMING & SCRIPTING
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -183,41 +172,31 @@ MISSION: Architect. Deploy. Scale. Optimize.
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-```
-╭─────────────────────────────────────────────────────────────────────────────╮
-│    IMPACT METRICS: 40% Cost Reduction | 99.9% Uptime | 60% Faster Deployments    │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
-
-</div>
+**IMPACT METRICS:** 40% Cost Reduction | 99.9% Uptime | 60% Faster Deployments
 
 ---
 
 ## ACTIVE PROJECTS & DEPLOYMENTS
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                            PRODUCTION SYSTEMS                                ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  opswork.cloud                       [████████████] PRODUCTION              ║
-║  └─ Multi-Cloud DevOps Portfolio & Automation Hub                           ║
-║  └─ Stack: AWS EKS, Terraform, GitLab CI/CD                                ║
-║                                                                              ║
-║  FreestackToolsea AI                  [██████████░░] SCALING                ║
-║  └─ AI-Powered Cloud Management Platform                                     ║
-║  └─ Stack: GCP Vertex AI, Kubernetes, ArgoCD                               ║
-║                                                                              ║
-║  DawnFit App                          [████████░░░░] DEPLOYMENT             ║
-║  └─ Cloud-Native Fitness Platform                                           ║
-║  └─ Stack: Azure AKS, Docker, Prometheus                                   ║
-║                                                                              ║
-║  Hackunderroot Blog                   [████████████] ACTIVE                 ║
-║  └─ DevOps & Cloud Engineering Knowledge Base                               ║
-║  └─ Stack: Static Site, CloudFront CDN, S3                                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+**PRODUCTION SYSTEMS:**
 
+**☁️ opswork.cloud** - `PRODUCTION`
+- Multi-Cloud DevOps Portfolio & Automation Hub
+- Stack: AWS EKS, Terraform, GitLab CI/CD
+
+**🤖 FreestackToolsea AI** - `SCALING`
+- AI-Powered Cloud Management Platform
+- Stack: GCP Vertex AI, Kubernetes, ArgoCD
+
+**📱 DawnFit App** - `DEPLOYMENT`
+- Cloud-Native Fitness Platform
+- Stack: Azure AKS, Docker, Prometheus
+
+**📝 Hackunderroot Blog** - `ACTIVE`
+- DevOps & Cloud Engineering Knowledge Base
+- Stack: Static Site, CloudFront CDN, S3
+
+```bash
 [hacrex@cloud-ops ~]$ tail -f /var/log/deployments.log
 2025-01-18 23:42:15 [SUCCESS] Terraform apply: 847 resources deployed
 2025-01-18 23:42:16 [INFO] Kubernetes cluster: 99.9% uptime achieved  
@@ -230,21 +209,17 @@ MISSION: Architect. Deploy. Scale. Optimize.
 
 ## CONTINUOUS LEARNING & DEVELOPMENT
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          SKILL DEVELOPMENT PIPELINE                          ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  MLOps & AIOps                        [▓▓▓▓▓▓▓▓▓░] 90% Complete             ║
-║  Machine Learning                     [▓▓▓▓▓▓▓░░░] 75% Complete             ║
-║  AI-Driven DevOps                     [▓▓▓▓▓▓▓▓░░] 85% Complete             ║
-║  Serverless Architecture              [▓▓▓▓▓▓░░░░] 65% Complete             ║
-║                                                                              ║
-║  CURRENT FOCUS: Cloud-Native AI Integration                                  ║
-║  NEXT MILESTONE: Kubernetes AI Operator Development                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+**SKILL DEVELOPMENT PIPELINE:**
 
+- **MLOps & AIOps** - 90% Complete
+- **Machine Learning** - 75% Complete  
+- **AI-Driven DevOps** - 85% Complete
+- **Serverless Architecture** - 65% Complete
+
+**CURRENT FOCUS:** Cloud-Native AI Integration  
+**NEXT MILESTONE:** Kubernetes AI Operator Development
+
+```bash
 [hacrex@cloud-ops ~]$ cat /proc/learning/current_focus
 > Implementing MLOps pipelines on Kubernetes
 > AI-powered infrastructure cost optimization
@@ -256,68 +231,40 @@ MISSION: Architect. Deploy. Scale. Optimize.
 
 ## COLLABORATION & PARTNERSHIPS
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                           OPEN FOR COLLABORATION                             ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  SEEKING PARTNERSHIPS IN:                                                    ║
-║                                                                              ║
-║  Multi-Cloud Architecture     │  CI/CD Optimization                         ║
-║  Kubernetes Engineering       │  MLOps Implementation                       ║
-║  Infrastructure Automation    │  Observability Stack                        ║
-║  Cloud Security & Compliance  │  Cost Optimization                          ║
-║                                                                              ║
-║  COLLABORATION STYLE: Agile, Remote-First, Open Source                      ║
-║  AVAILABILITY: Open to consulting & full-time opportunities                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+**SEEKING PARTNERSHIPS IN:**
+
+- **Multi-Cloud Architecture** | **CI/CD Optimization**
+- **Kubernetes Engineering** | **MLOps Implementation**  
+- **Infrastructure Automation** | **Observability Stack**
+- **Cloud Security & Compliance** | **Cost Optimization**
+
+**COLLABORATION STYLE:** Agile, Remote-First, Open Source  
+**AVAILABILITY:** Open to consulting & full-time opportunities
 
 ---
 
 ## INNOVATION METHODOLOGY
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                            CREATIVE APPROACH                                 ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  TECHNIQUE: "Vibe Coding"                                                   ║
-║                                                                              ║
-║  APPLICATION: Rapid prototyping of cloud infrastructure and DevOps          ║
-║               workflows using creative problem-solving approaches that      ║
-║               accelerate development cycles beyond traditional methods.     ║
-║                                                                              ║
-║  RESULT: 3x faster infrastructure deployment cycles                         ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+**TECHNIQUE:** "Vibe Coding"
+
+**APPLICATION:** Rapid prototyping of cloud infrastructure and DevOps workflows using creative problem-solving approaches that accelerate development cycles beyond traditional methods.
+
+**RESULT:** 3x faster infrastructure deployment cycles
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         PROFESSIONAL CONTACT                                 ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacrex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opswork)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashvit@live.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://opswork.cloud)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/hacrex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/opswork)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:kashvit@live.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://opswork.cloud)
+**"ARCHITECT. DEPLOY. SCALE. OPTIMIZE. REPEAT."**
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                "ARCHITECT. DEPLOY. SCALE. OPTIMIZE. REPEAT."                ║
-║                                                                              ║
-║  [hacrex@cloud-ops ~]$ echo "Infrastructure as Art"                         ║
-║  Infrastructure as Art                                                       ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```bash
+[hacrex@cloud-ops ~]$ echo "Infrastructure as Art"
+Infrastructure as Art
 ```
 
 <img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=333333&hide_border=true" alt="GitHub Stats" />
