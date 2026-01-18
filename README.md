@@ -1,59 +1,132 @@
-# Hi 👋, I'm hacrex
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=600&height=70&lines=HACREX;CLOUD+ENGINEER;PLATFORM+%26+DEVOPS;KUBERNETES+%7C+TERRAFORM;AI+%26+SECURITY" alt="Typing SVG" />
+</div>
 
-### A Cloud & DevOps Engineer
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hacrex&label=PROFILE+VIEWS&color=ff0033&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hacrex&label=Profile views&color=0e75b6&style=flat" alt="hacrex" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacrex" alt="hacrex" /></a> </p>
+## ⚡ SYSTEM STATUS
 
-- 🌱 I'm currently learning **AIOps, MLOps, Machine Learning, and Artificial Intelligence, with a focus on applying AI to cloud infrastructure, automation, and observability.**
+```bash
+$ whoami
+hacrex@cloud:~$ Senior Cloud Engineer | 6+ Years Combat Experience
+hacrex@cloud:~$ Specialization: Platform Engineering • DevOps • Kubernetes • AI Security
+hacrex@cloud:~$ Status: Building bulletproof cloud infrastructure
+```
 
-- 👯 I'm looking to collaborate on **Cloud engineering projects, Kubernetes & Terraform automation, cloud migrations, DevOps/MLOps workflows, and AI-assisted infrastructure tools, Open Source Projects.**
+**MISSION CRITICAL EXPERTISE:**
+- ☁️ **Multi-Cloud Architect** → AWS | GCP | Azure production deployments
+- 🔧 **Infrastructure as Code** → Terraform automation at enterprise scale  
+- ⚙️ **Container Orchestration** → Kubernetes clusters, service mesh, GitOps
+- 🛡️ **Security-First Design** → Zero-trust architecture, compliance automation
+- 🤖 **AI-Driven Operations** → MLOps pipelines, intelligent monitoring, cost optimization
+- 📈 **Performance Engineering** → 40% cost reduction, 60% downtime elimination
 
-- 🤝 I'm looking for help with **Advanced MLOps pipelines, model deployment at scale, AI-driven monitoring, and production-grade AIOps use cases, Building AI agents Infrastructure on Cloud.**
+*Surgical precision in cloud migrations. Automation-first mindset. Reliability obsessed.*
 
-- 💬 Ask me about **Cloud migrations, Kubernetes, Terraform, DevOps automation, cloud cost optimization, disaster recovery, security best practices, and building real-world cloud systems.**
+---
 
-- 📫 How to reach me **LinkedIn: linkedin.com/in/opswork Email: kashvit@live.in**
+## 🔥 ARSENAL
 
-- ⚡ Fun fact **I enjoy breaking down complex cloud problems into simple, automated solutions—and often use Vibe Coding to explore ideas, prototype faster, and improve my DevOps workflows creatively.**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at **[https://www.xyz.com](https://www.xyz.com)**
+### ☁️ CLOUD PLATFORMS
+![AWS](https://img.shields.io/badge/AWS-FF0033?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d0d0d)
+![GCP](https://img.shields.io/badge/GCP-FF0033?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d0d0d)
+![Azure](https://img.shields.io/badge/Azure-FF0033?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0d0d0d)
 
-- 📝 I regularly write articles on **[https://hackunderroot.blogger.com](https://hackunderroot.blogger.com)**
+### 🐳 CONTAINERS & ORCHESTRATION
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FF0033?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d0d0d)
+![Docker](https://img.shields.io/badge/Docker-FF0033?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d)
+![EKS](https://img.shields.io/badge/EKS-FF0033?style=for-the-badge&logo=amazon-eks&logoColor=white&labelColor=0d0d0d)
 
-- 📄 Know about my experiences **[https://www.xyz.com](https://www.xyz.com)**
+### 🏗️ INFRASTRUCTURE AS CODE
+![Terraform](https://img.shields.io/badge/Terraform-FF0033?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0d0d0d)
+![Jenkins](https://img.shields.io/badge/Jenkins-FF0033?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0d0d0d)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FF0033?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0d0d0d)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FF0033?style=for-the-badge&logo=argo&logoColor=white&labelColor=0d0d0d)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://dev.to/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/opswork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="opswork" height="30" width="40" /></a>
-<a href="https://codepen.io/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://kaggle.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://codesandbox.io/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://fb.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://instagram.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://twitter.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://dribbble.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://behance.net/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://medium.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://youtube.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://codechef.com/users/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://hackerrank.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://leetcode.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://topcoder.com/members/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://hackerearth.com/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hacrex" height="30" width="40" /></a>
-<a href="https://discord.gg/hacrex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hacrex" height="30" width="40" /></a>
-</p>
+### 📊 OBSERVABILITY & MONITORING
+![Prometheus](https://img.shields.io/badge/Prometheus-FF0033?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=0d0d0d)
+![Grafana](https://img.shields.io/badge/Grafana-FF0033?style=for-the-badge&logo=grafana&logoColor=white&labelColor=0d0d0d)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FF0033?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=0d0d0d)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/circleci" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/circleci/555" alt="circleci" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ifttt" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ifttt" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kibana" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+### 🛡️ SECURITY & COMPLIANCE
+![Trivy](https://img.shields.io/badge/Trivy-FF0033?style=for-the-badge&logo=aqua&logoColor=white&labelColor=0d0d0d)
+![Nessus](https://img.shields.io/badge/Nessus-FF0033?style=for-the-badge&logo=tenable&logoColor=white&labelColor=0d0d0d)
+![Darktrace](https://img.shields.io/badge/Darktrace-FF0033?style=for-the-badge&logo=darktrace&logoColor=white&labelColor=0d0d0d)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hacrex&show_icons=true&locale=en&layout=compact" alt="hacrex" /></p>
+### 🤖 AI & AUTOMATION
+![OpenAI](https://img.shields.io/badge/OpenAI-FF0033?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0d0d)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-FF0033?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d0d0d)
+![Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF0033?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0d0d0d)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&locale=en" alt="hacrex" /></p>
+</div>
 
+---
+
+## 🎯 ACTIVE OPERATIONS
+
+```yaml
+current_projects:
+  - name: "Opswork.cloud"
+    type: "Cloud & DevOps Portfolio"
+    status: "Production Ready"
+    
+  - name: "FreestackToolsea AI"
+    type: "AI-Powered DevOps Toolkit"
+    status: "Beta Testing"
+    
+  - name: "DawnFit App"
+    type: "Cloud-Native Mobile Platform"
+    status: "Scaling Phase"
+    
+  - name: "Hackunderroot"
+    type: "Security Research Blog"
+    status: "Active Publishing"
+```
+
+---
+
+## 🧠 CONTINUOUS LEARNING
+
+**CURRENT FOCUS:**
+- 🔬 **MLOps & AIOps** → Intelligent infrastructure automation
+- 🤖 **Machine Learning** → Applied AI for cloud operations
+- 🔍 **AI-Driven Security** → Automated threat detection and response
+- ⚡ **Edge Computing** → Distributed cloud architectures
+
+---
+
+## 🤝 COLLABORATION PROTOCOLS
+
+**SEEKING ALLIANCE FOR:**
+- ☁️ **Cloud Platform Engineering** → Multi-cloud, hybrid architectures
+- 🔄 **DevOps & MLOps Pipelines** → End-to-end automation workflows  
+- 🛡️ **Security Engineering** → Zero-trust, compliance automation
+- 🤖 **AI Infrastructure** → ML model deployment, observability
+
+---
+
+## ⚡ CLASSIFIED INTEL
+
+*I leverage **Vibe Coding** as a rapid prototyping method for DevOps workflows and cloud automation—turning complex infrastructure ideas into working solutions faster than traditional approaches.*
+
+---
+
+<div align="center">
+
+### 📡 SECURE CHANNELS
+
+[![GitHub](https://img.shields.io/badge/GitHub-FF0033?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/hacrex)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0033?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/opswork)
+[![Email](https://img.shields.io/badge/Email-FF0033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:kashvit@live.in)
+
+---
+
+**`BUILD. SECURE. AUTOMATE. REPEAT.`**
+
+</div>
