@@ -279,9 +279,9 @@ graph LR
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=hacrex&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacrex&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical" alt="Trophies" />
 </div>
 
 <div align="center">
