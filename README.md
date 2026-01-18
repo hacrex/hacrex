@@ -279,9 +279,9 @@ graph LR
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=333333&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacrex&theme=dark&background=0d0d0d&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hacrex&theme=dark&background=0d0d0d&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=alduin&no-frame=true&margin-w=4" alt="Trophies" />
 </div>
 
 <div align="center">
