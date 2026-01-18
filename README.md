@@ -30,6 +30,10 @@
 Indore, India · +91-9823497600 · kashvit@live.in  
 **LinkedIn**: https://linkedin.com/in/kashvit9 · **Portfolio**: https://opswork.cloud  
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 **Cloud Engineer / DevOps & Platform Engineer with 6+ years of experience designing, automating, and optimizing cloud infrastructure on AWS, GCP, and Azure.** Proven track record of **reducing cloud costs by up to 40%, cutting downtime by 60%, and delivering zero-downtime migrations** using Kubernetes and Terraform. Strong in **cloud security, CI/CD, Kubernetes platforms, and scalable cloud-native architectures** for production workloads.
 
 ### Core Skills
@@ -159,67 +163,19 @@ MISSION: Architect. Deploy. Scale. Optimize.
 
 ---
 
-## TECHNICAL EXPERTISE & TOOLKIT
+### 🛠️ TECHNICAL ARSENAL
 
-### PROGRAMMING & SCRIPTING
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+| Category | Skills |
+|----------|--------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/On_Windows-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white) |
+| **IaC** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white) |
+| **CI/CD** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/ADO-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) |
+| **Databases** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **AI & ML** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) |
 
-### CLOUD PLATFORMS & SERVICES
-![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-
-### CONTAINERIZATION & ORCHESTRATION
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white)
-
-### INFRASTRUCTURE AS CODE
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### CI/CD & VERSION CONTROL
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![SonarQube](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-### MONITORING & OBSERVABILITY
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
-
-### DATABASE TECHNOLOGIES
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### WEB/APP SERVERS & PROXIES
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=black)
-
-### MIGRATION & COMPUTE TOOLS
-![Google Cloud](https://img.shields.io/badge/Velostrata-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure_Migrate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### AI & AUTOMATION TOOLS
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **IMPACT METRICS:** 40% Cost Reduction | 99.9% Uptime | 60% Faster Deployments
 
@@ -260,10 +216,10 @@ MISSION: Architect. Deploy. Scale. Optimize.
 
 **SKILL DEVELOPMENT PIPELINE:**
 
-- **MLOps & AIOps** - 90% Complete
-- **Machine Learning** - 75% Complete  
-- **AI-Driven DevOps** - 85% Complete
-- **Serverless Architecture** - 65% Complete
+- **MLOps & AIOps** ![90%](https://geps.dev/progress/90)
+- **Machine Learning** ![75%](https://geps.dev/progress/75)
+- **AI-Driven DevOps** ![85%](https://geps.dev/progress/85)
+- **Serverless Architecture** ![65%](https://geps.dev/progress/65)
 
 **CURRENT FOCUS:** Cloud-Native AI Integration  
 **NEXT MILESTONE:** Kubernetes AI Operator Development
@@ -303,23 +259,19 @@ MISSION: Architect. Deploy. Scale. Optimize.
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=333333&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacrex&theme=dark&background=0d0d0d&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hacrex)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opswork)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashvit@live.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://opswork.cloud)
-
-**"ARCHITECT. DEPLOY. SCALE. OPTIMIZE. REPEAT."**
-
-```bash
-[hacrex@cloud-ops ~]$ echo "Infrastructure as Art"
-Infrastructure as Art
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=333333&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hacrex&theme=dark&background=0d0d0d&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&hide_border=true" alt="Top Languages" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <br/>
+  <!-- Snake Animation Placeholder -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
