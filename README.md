@@ -36,42 +36,33 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 **Cloud Engineer / DevOps & Platform Engineer with 6+ years of experience designing, automating, and optimizing cloud infrastructure on AWS, GCP, and Azure.** Proven track record of **reducing cloud costs by up to 40%, cutting downtime by 60%, and delivering zero-downtime migrations** using Kubernetes and Terraform. Strong in **cloud security, CI/CD, Kubernetes platforms, and scalable cloud-native architectures** for production workloads.
 
-### Core Skills
+### 🚀 EXPERIENCE & ACHIEVEMENTS
 
-- **Cloud Platforms**: AWS, GCP, Azure  
-- **Containers & Orchestration**: Kubernetes (EKS), Docker, CapRover, Dockploy  
-- **Infrastructure as Code**: Terraform (modules, multi-env, reusable patterns)  
-- **CI/CD & Automation**: GitLab CI/CD, Jenkins, ArgoCD  
-- **Monitoring & Observability**: Prometheus, Grafana, Azure Monitor, OpenTelemetry  
-- **Security & Compliance**: IAM, SSL/TLS, Trivy, Cortex XSOAR, Nessus  
-- **Networking**: VPC, DNS, VPN, Load Balancers  
-- **Scripting & Automation**: Python, Bash  
-- **AI & Automation Tools**: ChatGPT, Google Gemini, GitHub Copilot, AWS Bedrock, GCP Vertex AI, Azure OpenAI, Darktrace, "Vibe Coding"
+| Company | Role | Impact Highlights |
+|:---:|:---:|:---|
+| **Anaxee Digital Runners** | **Cloud Engineer** | 💸 **40% Cost Reduction** via Spot Instances & Rightsizing<br>⚡ **99.9% Uptime** for critical services<br>🔄 **Zero-Downtime** Migrations |
+| **Freelance** | **Cloud Consultant** | 🌐 Delivered secure cloud solutions<br>📧 Migrated 50+ business email accounts<br>🛠️ Troubleshoot scale issues |
 
-### Professional Experience (Summary)
+### 🏆 CERTIFICATIONS & AWARDS
 
-- **Cloud Engineer | DevOps & Platform Engineer – Anaxee Digital Runners Pvt. Ltd (2018–Present)**  
-  Architect and manage multi-cloud infrastructure (AWS, GCP, Azure), lead on-prem and cloud-to-cloud migrations, modernize legacy apps to Kubernetes (EKS/CapRover/Dockploy), implement Terraform-based IaC, and optimize EKS workloads with Karpenter for 30–40% cost savings.  
-- **Freelance Cloud & Web Solutions Engineer (2016–2018)**  
-  Delivered secure cloud-hosted web and WordPress solutions, email migrations (Google Workspace, Outlook, Zoho), backend deployments, and troubleshooting for Firebase/Airtable integrations.  
-- **Cloud Engineer Intern – Anaxee Digital Runners Pvt. Ltd (2015–2016)**  
-  Assisted with AWS/GCP deployments, monitoring, backups, and Linux server administration.
+<div align="center">
 
-### Selected Projects
+![CEH](https://img.shields.io/badge/Certified-Ethical_Hacker_v8-FF0033?style=for-the-badge&logo=eccouncil&logoColor=white) 
+![RHCSA](https://img.shields.io/badge/Red_Hat-System_Administrator-EE0000?style=for-the-badge&logo=redhat&logoColor=white) 
+![HyperV](https://img.shields.io/badge/Microsoft-Server_Virtualization-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) 
+![CISE](https://img.shields.io/badge/Security-Certified_Info_Sec_Expert-black?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-- **Opswork.cloud** – Cloud & DevOps portfolio showcasing Kubernetes deployments, Terraform modules, and CI/CD workflows.  
-- **Freestack** – Cloud setup and automation for a community tech platform.  
-- **Toolsea AI** – Backend and cloud integration for an AI utilities platform.  
-- **DawnFit App** – Backend and cloud deployment support for a fitness application.  
-- **Crypto Price Tracker** – Real-time cryptocurrency dashboard using external APIs.  
-- **Hackunderroot** – Cybersecurity blog covering ethical hacking and cloud security topics.
+</div>
 
-### Certifications
+### 🔮 SELECTED PROJECTS
 
-- **Certified Ethical Hacker (CEH) v8 – EC-Council**  
-- **Red Hat Certified System Administrator (RHCSA)**  
-- **Microsoft Specialist – Server Virtualization (Hyper-V)**  
-- **Certified Information Security Expert (CISE)**  
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| **☁️ Opswork.cloud** | Multi-Cloud DevOps Portfolio & Automation Hub | `AWS EKS` `Terraform` `GitLab CI` |
+| **🤖 Toolsea AI** | AI-Powered Cloud Management Platform | `GCP Vertex AI` `K8s` `ArgoCD` |
+| **📱 DawnFit App** | Cloud-Native Fitness Platform | `Azure AKS` `Docker` `Prometheus` |
+| **📝 Hackunderroot** | Cybersecurity blog covering ethical hacking | `Static Site` `CloudFront` `S3` |
+| **💰 Crypto Tracker** | Real-time cryptocurrency dashboard | `Node.js` `React` `External APIs` |
 
 ---
 
@@ -83,83 +74,23 @@ Indore, India · +91-9823497600 · kashvit@live.in
 NAME                STATUS   ROLES    AGE     VERSION
 master-node-1       Ready    master   365d    v1.28.0
 worker-node-1       Ready    <none>   365d    v1.28.0
-worker-node-2       Ready    <none>   365d    v1.28.0
 
 ┌─[hacrex@cloud-ops]─[~/infrastructure]  
 └──╼ $ terraform plan | grep "Plan:"
 Plan: 847 to add, 23 to change, 12 to destroy.
 
 ┌─[hacrex@cloud-ops]─[~/infrastructure]
-└──╼ $ aws sts get-caller-identity
-{
-    "UserId": "AIDACKCEVSQ6C2EXAMPLE",
-    "Account": "123456789012", 
-    "Arn": "arn:aws:iam::123456789012:user/hacrex-cloud-engineer"
-}
-
-┌─[hacrex@cloud-ops]─[~/infrastructure]
 └──╼ $ echo "MISSION: Architect. Deploy. Scale. Optimize."
 MISSION: Architect. Deploy. Scale. Optimize.
 ```
 
-**CORE EXPERTISE:**
-- **Multi-Cloud Architecture** → AWS | GCP | Azure enterprise deployments
-- **Infrastructure as Code** → Terraform automation for scalable cloud resources
-- **Container Orchestration** → Kubernetes production clusters & microservices
-- **CI/CD Pipeline Engineering** → Jenkins, GitLab CI, ArgoCD automated workflows
-- **Cloud Monitoring & Observability** → Prometheus, Grafana, CloudWatch dashboards
-- **Cost Optimization** → 40% infrastructure cost reduction through right-sizing
-- **Security & Compliance** → IAM policies, VPC design, security best practices
+**CORE COMPETENCIES**
 
-*"Transforming complex cloud challenges into automated, scalable solutions."*
+> *"Transforming complex cloud challenges into automated, scalable solutions."*
 
----
+`Multi-Cloud Architecture` • `Infrastructure as Code` • `Container Orchestration`  
+`CI/CD Engineering` • `Observability` • `Cost Optimization` • `Security Compliance`
 
-## PROFESSIONAL EXPERIENCE & ACHIEVEMENTS
-
-**CLOUD ENGINEERING EXPERTISE:**
-
-**🏗️ ARCHITECTURE DESIGN**
-- Conceptual, logical & physical design for public cloud solutions (infrastructure & platforms)
-
-**🐳 CONTAINERIZATION** 
-- Containerized multiple applications using Docker enabling seamless deployment across environments
-
-**☁️ CLOUDOPS IMPLEMENTATION**
-- Hands-on GCP & Azure operations (IaaS: VMs, Networking, Storage) and application deployment
-
-**🔧 OSS INTEGRATIONS**
-- Implemented multiple open-source solutions to enhance platform functionality & streamline ops
-
-**🔄 DEVOPS AUTOMATION**
-- Automated environments with Shell Scripts & Python, Full CI/CD pipelines: Jenkins, Git, Docker, K8s
-
-**🗄️ DATABASE ADMINISTRATION**
-- Managed multiple databases, containerized DBs for cost reduction, optimal performance & reliability
-
-**🖥️ SERVER ADMINISTRATION**
-- Oversaw server administration across multiple environments ensuring seamless operations
-
-**📊 MONITORING & TROUBLESHOOTING**
-- Multi-cloud monitoring for performance/reliability, Production issue resolution to avoid end-user impact
-
-**🔄 CLOUD MIGRATION**
-- Hands-on migration of on-premises workloads from GCP to Azure environments
-
-**🛡️ DISASTER RECOVERY**
-- Implemented Backup Vaults & DR plans on GCP/Azure, Multisite data replication, minimizing downtime
-
-**⚙️ AUTOMATION ENVIRONMENT MANAGEMENT**
-- Setup & maintenance of automated environments using Shell Scripts for various services
-
-```bash
-[hacrex@cloud-ops ~]$ grep -i "impact" /var/log/achievements.log
-> Reduced infrastructure costs by 40% through optimization
-> Achieved 99.9% uptime across multi-cloud deployments  
-> Accelerated deployment cycles by 60% with automation
-> Zero-downtime migrations for critical business applications
-> Implemented disaster recovery reducing RTO from hours to minutes
-```
 
 ---
 
@@ -181,34 +112,7 @@ MISSION: Architect. Deploy. Scale. Optimize.
 
 ---
 
-## ACTIVE PROJECTS & DEPLOYMENTS
 
-**PRODUCTION SYSTEMS:**
-
-**☁️ opswork.cloud** - `PRODUCTION`
-- Multi-Cloud DevOps Portfolio & Automation Hub
-- Stack: AWS EKS, Terraform, GitLab CI/CD
-
-**🤖 FreestackToolsea AI** - `SCALING`
-- AI-Powered Cloud Management Platform
-- Stack: GCP Vertex AI, Kubernetes, ArgoCD
-
-**📱 DawnFit App** - `DEPLOYMENT`
-- Cloud-Native Fitness Platform
-- Stack: Azure AKS, Docker, Prometheus
-
-**📝 Hackunderroot Blog** - `ACTIVE`
-- DevOps & Cloud Engineering Knowledge Base
-- Stack: Static Site, CloudFront CDN, S3
-
-```bash
-[hacrex@cloud-ops ~]$ tail -f /var/log/deployments.log
-2025-01-18 23:42:15 [SUCCESS] Terraform apply: 847 resources deployed
-2025-01-18 23:42:16 [INFO] Kubernetes cluster: 99.9% uptime achieved  
-2025-01-18 23:42:17 [OPTIMIZE] Cost reduction: $50K/month infrastructure savings
-2025-01-18 23:42:18 [DEPLOY] Zero-downtime deployment: Mission accomplished
-2025-01-18 23:42:19 [SCALE] Auto-scaling triggered: Handling 10x traffic spike
-```
 
 ---
 
