@@ -22,6 +22,55 @@ SENIOR CLOUD & DEVOPS ENGINEER
 
 ---
 
+## ABOUT ME
+
+**Ashvit D. Khandare**
+
+**Cloud Engineer | DevOps & Platform Engineering**  
+Indore, India · +91-9823497600 · kashvit@live.in  
+**LinkedIn**: https://linkedin.com/in/kashvit9 · **Portfolio**: https://opswork.cloud  
+
+**Cloud Engineer / DevOps & Platform Engineer with 6+ years of experience designing, automating, and optimizing cloud infrastructure on AWS, GCP, and Azure.** Proven track record of **reducing cloud costs by up to 40%, cutting downtime by 60%, and delivering zero-downtime migrations** using Kubernetes and Terraform. Strong in **cloud security, CI/CD, Kubernetes platforms, and scalable cloud-native architectures** for production workloads.
+
+### Core Skills
+
+- **Cloud Platforms**: AWS, GCP, Azure  
+- **Containers & Orchestration**: Kubernetes (EKS), Docker, CapRover, Dockploy  
+- **Infrastructure as Code**: Terraform (modules, multi-env, reusable patterns)  
+- **CI/CD & Automation**: GitLab CI/CD, Jenkins, ArgoCD  
+- **Monitoring & Observability**: Prometheus, Grafana, Azure Monitor, OpenTelemetry  
+- **Security & Compliance**: IAM, SSL/TLS, Trivy, Cortex XSOAR, Nessus  
+- **Networking**: VPC, DNS, VPN, Load Balancers  
+- **Scripting & Automation**: Python, Bash  
+- **AI & Automation Tools**: ChatGPT, Google Gemini, GitHub Copilot, AWS Bedrock, GCP Vertex AI, Azure OpenAI, Darktrace, "Vibe Coding"
+
+### Professional Experience (Summary)
+
+- **Cloud Engineer | DevOps & Platform Engineer – Anaxee Digital Runners Pvt. Ltd (2018–Present)**  
+  Architect and manage multi-cloud infrastructure (AWS, GCP, Azure), lead on-prem and cloud-to-cloud migrations, modernize legacy apps to Kubernetes (EKS/CapRover/Dockploy), implement Terraform-based IaC, and optimize EKS workloads with Karpenter for 30–40% cost savings.  
+- **Freelance Cloud & Web Solutions Engineer (2016–2018)**  
+  Delivered secure cloud-hosted web and WordPress solutions, email migrations (Google Workspace, Outlook, Zoho), backend deployments, and troubleshooting for Firebase/Airtable integrations.  
+- **Cloud Engineer Intern – Anaxee Digital Runners Pvt. Ltd (2015–2016)**  
+  Assisted with AWS/GCP deployments, monitoring, backups, and Linux server administration.
+
+### Selected Projects
+
+- **Opswork.cloud** – Cloud & DevOps portfolio showcasing Kubernetes deployments, Terraform modules, and CI/CD workflows.  
+- **Freestack** – Cloud setup and automation for a community tech platform.  
+- **Toolsea AI** – Backend and cloud integration for an AI utilities platform.  
+- **DawnFit App** – Backend and cloud deployment support for a fitness application.  
+- **Crypto Price Tracker** – Real-time cryptocurrency dashboard using external APIs.  
+- **Hackunderroot** – Cybersecurity blog covering ethical hacking and cloud security topics.
+
+### Certifications
+
+- **Certified Ethical Hacker (CEH) v8 – EC-Council**  
+- **Red Hat Certified System Administrator (RHCSA)**  
+- **Microsoft Specialist – Server Virtualization (Hyper-V)**  
+- **Certified Information Security Expert (CISE)**  
+
+---
+
 ## CLOUD INFRASTRUCTURE COMMAND CENTER
 
 ```bash
@@ -270,5 +319,7 @@ Infrastructure as Art
 <img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&icon_color=ff0033&border_color=333333&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacrex&theme=dark&background=0d0d0d&ring=ff0033&fire=ff0033&currStreakLabel=ff0033&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&hide_border=true" alt="Top Languages" />
 
 </div>
