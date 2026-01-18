@@ -119,6 +119,40 @@ MISSION: Architect. Deploy. Scale. Optimize.
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
+### 💻 CORE PROGRAMMING & SCRIPTING
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d0d0d)
+![Bash](https://img.shields.io/badge/Linux_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d0d0d)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=0d0d0d)
+
+### 🗄️ DATABASE TECHNOLOGIES
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d0d0d)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0d0d)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white&labelColor=0d0d0d)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d0d0d)
+
+### 🌐 WEB/APP SERVERS & PROXIES
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black&labelColor=0d0d0d)
+![Apache HTTP](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=0d0d0d)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d0d0d)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white&labelColor=0d0d0d)
+
+### 🔄 ENHANCED CI/CD & VERSION CONTROL
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white&labelColor=0d0d0d)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=0d0d0d)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=0d0d0d)
+
+### 📊 ENHANCED MONITORING STACK
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white&labelColor=0d0d0d)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0d0d0d)
+
+### 🔄 MIGRATION & COMPUTE TOOLS
+![Velostrata](https://img.shields.io/badge/Velostrata-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d0d0d)
+![Azure Migrate](https://img.shields.io/badge/Azure_Migrate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0d0d0d)
+![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white&labelColor=0d0d0d)
+
 </div>
 
 ---
