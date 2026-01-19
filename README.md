@@ -47,7 +47,7 @@
 
 **Ashvit D. Khandare**
 
-**Cloud Engineer | DevOps & Platform Engineering**  
+**Cloud Engineer | DevOps & Platform Engineer**  
 Indore, India · +91-9823497600 · kashvit@live.in  
 **LinkedIn**: https://linkedin.com/in/kashvit9 · **Portfolio**: https://opswork.cloud  
 
