@@ -11,7 +11,7 @@
 **CLOUD & DEVOPS ENGINEER**
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=900&height=50&lines=SENIOR+CLOUD+%26+DEVOPS+ENGINEER+%7C+6%2B+YEARS;AWS+%7C+GCP+%7C+AZURE+MULTI-CLOUD+ARCHITECT;KUBERNETES+%7C+TERRAFORM+%7C+CI%2FCD+AUTOMATION;BUILDING+ENTERPRISE-GRADE+INFRASTRUCTURE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=900&height=50&lines=SENIOR+CLOUD+%26+DEVOPS+ENGINEER+%7C+6%2B+YEARS;AWS+%7C+GCP+%7C+AZURE+MULTI-CLOUD+ARCHITECT;DOCKER+%7C+TERRAFORM+%7C+CI%2FCD+AUTOMATION;BUILDING+ENTERPRISE-GRADE+INFRASTRUCTURE" alt="Typing SVG" />
 
 <div align="center">
   <a href="mailto:kashvit@live.in">
