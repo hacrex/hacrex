@@ -183,6 +183,7 @@ Indore, India · +91-9823497600 · kashvit@live.in
 | **OpenStack Services** | Nova, Neutron, Cinder, Swift, Keystone, Glance, Horizon |
 | **Apache CloudStack** | ![CloudStack](https://img.shields.io/badge/Apache_CloudStack-0d0d0d?style=for-the-badge&logo=apache&logoColor=ff0033) |
 | **CloudStack Services** | Compute, Storage, Network, User Management, API, Virtual Router |
+| **OpenStack vs CloudStack** | Both provide Infrastructure-as-a-Service (IaaS) cloud computing toolkits |
 | **AWS Core Services** | EC2, Lambda, S3, RDS, DynamoDB, VPC, EKS, CloudFront, IAM, CloudFormation |
 | **GCP Core Services** | Compute Engine, GKE, Cloud Storage, BigQuery, Cloud SQL, VPC, Cloud CDN, IAM |
 | **Azure Core Services** | Virtual Machines, AKS, Blob Storage, Cosmos DB, Virtual Network, Application Gateway, Azure SQL |
