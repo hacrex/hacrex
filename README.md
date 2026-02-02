@@ -11,27 +11,24 @@
 **CLOUD & DEVOPS ENGINEER**
 ```
 
-**SENIOR CLOUD & DEVOPS ENGINEER | 6+ YEARS**  
-**AWS | GCP | AZURE MULTI-CLOUD ARCHITECT**  
-**DOCKER | TERRAFORM | CI/CD AUTOMATION**  
-**BUILDING ENTERPRISE-GRADE INFRASTRUCTURE**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=900&height=50&lines=SENIOR+CLOUD+%26+DEVOPS+ENGINEER+%7C+6%2B+YEARS;AWS+%7C+GCP+%7C+AZURE+MULTI-CLOUD+ARCHITECT;DOCKER+%7C+TERRAFORM+%7C+CI%2FCD+AUTOMATION;BUILDING+ENTERPRISE-GRADE+INFRASTRUCTURE" alt="Typing SVG" />
 
 <div align="center">
-  <a href="mailto:kashvit@live.in" aria-label="Hire Me - Contact via email">
-    <img src="https://img.shields.io/badge/Hire_Me-0d0d0d?style=for-the-badge&logo=handshake&logoColor=ff0033" alt="Hire Me - Contact for opportunities"/>
+  <a href="mailto:kashvit@live.in">
+    <img src="https://img.shields.io/badge/Hire_Me-0d0d0d?style=for-the-badge&logo=handshake&logoColor=ff0033" alt="Hire Me"/>
   </a>
-  <a href="https://opswork.cloud" aria-label="Visit Portfolio Website">
-    <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=ff0033" alt="Portfolio - View my work at opswork.cloud"/>
+  <a href="https://opswork.cloud">
+    <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=ff0033" alt="Portfolio"/>
   </a>
-  <a href="https://www.credly.com/users/hacrex/" aria-label="Verify Professional Credentials on Credly">
-    <img src="https://img.shields.io/badge/Verify_Credentials-0d0d0d?style=for-the-badge&logo=credly&logoColor=ff0033" alt="Verify Credentials - Professional certifications"/>
+  <a href="https://www.credly.com/users/hacrex/">
+    <img src="https://img.shields.io/badge/Verify_Credentials-0d0d0d?style=for-the-badge&logo=credly&logoColor=ff0033" alt="Credly"/>
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=hacrex&label=Profile+Views&color=ff0033&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views Counter" />
-<img src="https://img.shields.io/badge/Role-Senior_Cloud_DevOps-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=amazonwebservices&logoColor=ff0033" alt="Current Role: Senior Cloud DevOps Engineer" />
-<img src="https://img.shields.io/badge/Experience-6%2B_Years-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=kubernetes&logoColor=ff0033" alt="Professional Experience: 6+ Years" />
-<img src="https://img.shields.io/badge/Status-Available-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00C851" alt="Availability Status: Available for opportunities" />
+<img src="https://komarev.com/ghpvc/?username=hacrex&label=Profile+Views&color=ff0033&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Role-Senior_Cloud_DevOps-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=amazonwebservices&logoColor=ff0033" alt="Role" />
+<img src="https://img.shields.io/badge/Experience-6%2B_Years-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=kubernetes&logoColor=ff0033" alt="Experience" />
+<img src="https://img.shields.io/badge/Status-Available-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00C851" alt="Status" />
 
 </div>
 
@@ -39,7 +36,9 @@
 
 ---
 
-## ABOUT ME
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=435&lines=ABOUT+ME" alt="ABOUT ME" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=header&text=&fontSize=0&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" style="width:100%;" />
@@ -61,7 +60,9 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <!-- BLOG-POST-LIST:END -->
 
 
-## CORE INTELLIGENCE
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CORE+INTELLIGENCE" alt="CORE INTELLIGENCE" />
+</div>
 
 ```diff
 ! [IDENTITY]: Ashvit D. Khandare
@@ -73,7 +74,9 @@ Indore, India · +91-9823497600 · kashvit@live.in
 - STACK: AWS, GCP, Azure, Kubernetes, Terraform.
 ```
 
-## EXPERIENCE & ACHIEVEMENTS
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=EXPERIENCE+%26+ACHIEVEMENTS" alt="EXPERIENCE & ACHIEVEMENTS" />
+</div>
 
 ```diff
 ! [SYSTEM_LOG]: Accessing Career Records...
@@ -91,19 +94,23 @@ Indore, India · +91-9823497600 · kashvit@live.in
 - IMPACT: Troubleshooting scale issues
 ```
 
-## CERTIFICATIONS & AWARDS
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CERTIFICATIONS+%26+AWARDS" alt="CERTIFICATIONS & AWARDS" />
+</div>
 
 
 <div align="center">
 
-<a href="https://www.credly.com/users/hacrex/" aria-label="Certified Ethical Hacker v8 Certification">![CEH](https://img.shields.io/badge/Certified-Ethical_Hacker_v8-0d0d0d?style=for-the-badge&logo=eccouncil&logoColor=ff0033)</a>
-<a href="https://www.credly.com/users/hacrex/" aria-label="Red Hat Certified System Administrator">![RHCSA](https://img.shields.io/badge/Red_Hat-System_Administrator-0d0d0d?style=for-the-badge&logo=redhat&logoColor=ff0033)</a>
-<a href="https://www.credly.com/users/hacrex/" aria-label="Microsoft Server Virtualization Certification">![HyperV](https://img.shields.io/badge/Microsoft-Server_Virtualization-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=ff0033)</a>
-<a href="https://www.credly.com/users/hacrex/" aria-label="Certified Information Security Expert">![CISE](https://img.shields.io/badge/Security-Certified_Info_Sec_Expert-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![CEH](https://img.shields.io/badge/Certified-Ethical_Hacker_v8-0d0d0d?style=for-the-badge&logo=eccouncil&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![RHCSA](https://img.shields.io/badge/Red_Hat-System_Administrator-0d0d0d?style=for-the-badge&logo=redhat&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![HyperV](https://img.shields.io/badge/Microsoft-Server_Virtualization-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![CISE](https://img.shields.io/badge/Security-Certified_Info_Sec_Expert-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033)</a>
 
 </div>
 
-## SELECTED PROJECTS
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=SELECTED+PROJECTS" alt="SELECTED PROJECTS" />
+</div>
 
 ```diff
 ! [MODULES]: Loading Project Profiles...
@@ -133,7 +140,9 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ---
 
-## CLOUD INFRASTRUCTURE COMMAND
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CLOUD+INFRASTRUCTURE+COMMAND" alt="CLOUD INFRASTRUCTURE COMMAND" />
+</div>
 
 ```diff
 ! [hacrex@cloud-ops]─[~/infrastructure]
@@ -166,9 +175,9 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python • Go • JavaScript • C++ • Shell Script |
-| **Cloud Platforms** | AWS • Google Cloud • Microsoft Azure • Oracle Cloud • Alibaba Cloud |
-| **Cloud OS & Virtualization** | OpenStack • Linux |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0033) ![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=ff0033) ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0033) ![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=c%2B%2B&logoColor=ff0033) ![Shell](https://img.shields.io/badge/Shell_Script-0d0d0d?style=for-the-badge&logo=gnu-bash&logoColor=ff0033) |
+| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff0033) ![GCP](https://img.shields.io/badge/Google_Cloud-0d0d0d?style=for-the-badge&logo=google-cloud&logoColor=ff0033) ![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge&logo=microsoft-azure&logoColor=ff0033) ![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=for-the-badge&logo=Oracle&logoColor=ff0033) ![Alibaba](https://img.shields.io/badge/Alibaba_Cloud-0d0d0d?style=for-the-badge&logo=alibaba-cloud&logoColor=ff0033) |
+| **Cloud OS & Virtualization** | ![OpenStack](https://img.shields.io/badge/OpenStack-0d0d0d?style=for-the-badge&logo=openstack&logoColor=ff0033) ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=ff0033) |
 | **OpenStack Services** | Nova, Neutron, Cinder, Swift, Keystone, Glance, Horizon |
 | **Apache CloudStack** | ![CloudStack](https://img.shields.io/badge/Apache_CloudStack-0d0d0d?style=for-the-badge&logo=apache&logoColor=ff0033) |
 | **CloudStack Services** | Compute, Storage, Network, User Management, API, Virtual Router |
@@ -177,13 +186,13 @@ Indore, India · +91-9823497600 · kashvit@live.in
 | **Azure Core Services** | Virtual Machines, AKS, Blob Storage, Cosmos DB, Virtual Network, Application Gateway, Azure SQL |
 | **Oracle Cloud** | OCI Compute, Object Storage, Autonomous Database, Virtual Cloud Networks |
 | **Alibaba Cloud** | ECS, Object Storage Service, ApsaraDB, Virtual Private Cloud |
-| **DevOps & IaC** | Terraform • Ansible • Packer • Chef |
-| **Containers** | Docker • Kubernetes • Helm • OpenShift |
-| **CI/CD** | Jenkins • GitLab CI • ArgoCD • GitHub Actions |
-| **DevSecOps** | Snyk • SonarQube • HashiCorp Vault • Kali Linux • OWASP ZAP |
-| **Observability** | Prometheus • Grafana • Datadog • Elastic Stack |
-| **AI & ML** | TensorFlow • PyTorch • Pandas • HuggingFace • OpenAI |
-| **Databases** | Oracle • PostgreSQL • MongoDB • Redis |
+| **DevOps & IaC** | ![Terraform](https://img.shields.io/badge/Terraform-0d0d0d?style=for-the-badge&logo=terraform&logoColor=ff0033) ![Ansible](https://img.shields.io/badge/Ansible-0d0d0d?style=for-the-badge&logo=ansible&logoColor=ff0033) ![Packer](https://img.shields.io/badge/Packer-0d0d0d?style=for-the-badge&logo=packer&logoColor=ff0033) ![Chef](https://img.shields.io/badge/Chef-0d0d0d?style=for-the-badge&logo=chef&logoColor=ff0033) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ff0033) ![K8s](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=ff0033) ![Helm](https://img.shields.io/badge/Helm-0d0d0d?style=for-the-badge&logo=helm&logoColor=ff0033) ![OpenShift](https://img.shields.io/badge/OpenShift-0d0d0d?style=for-the-badge&logo=redhatopenshift&logoColor=ff0033) |
+| **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-0d0d0d?style=for-the-badge&logo=jenkins&logoColor=ff0033) ![GitLab](https://img.shields.io/badge/GitLab-0d0d0d?style=for-the-badge&logo=gitlab&logoColor=ff0033) ![ArgoCD](https://img.shields.io/badge/ArgoCD-0d0d0d?style=for-the-badge&logo=argo&logoColor=ff0033) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=ff0033) |
+| **DevSecOps** | ![Snyk](https://img.shields.io/badge/Snyk-0d0d0d?style=for-the-badge&logo=snyk&logoColor=ff0033) ![SonarQube](https://img.shields.io/badge/SonarQube-0d0d0d?style=for-the-badge&logo=sonarqube&logoColor=ff0033) ![Vault](https://img.shields.io/badge/Vault-0d0d0d?style=for-the-badge&logo=vault&logoColor=ff0033) ![Kali](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033) ![OWASP](https://img.shields.io/badge/OWASP_ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=ff0033) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-0d0d0d?style=for-the-badge&logo=prometheus&logoColor=ff0033) ![Grafana](https://img.shields.io/badge/Grafana-0d0d0d?style=for-the-badge&logo=grafana&logoColor=ff0033) ![Datadog](https://img.shields.io/badge/Datadog-0d0d0d?style=for-the-badge&logo=datadog&logoColor=ff0033) ![Elk](https://img.shields.io/badge/Elastic_Stack-0d0d0d?style=for-the-badge&logo=elastic&logoColor=ff0033) |
+| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff0033) ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff0033) ![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ff0033) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=ff0033) ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ff0033) |
+| **Databases** | ![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=for-the-badge&logo=Oracle&logoColor=ff0033) ![Postgres](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff0033) ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ff0033) ![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ff0033) |
 
 
 **IMPACT METRICS:** 40% Cost Reduction | 99.9% Uptime | 60% Faster Deployments
@@ -270,19 +279,19 @@ graph LR
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=radical&hide_border=true" alt="Ashvit's GitHub Statistics - Contributions and repository stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacrex&theme=radical" alt="GitHub Contribution Streak - Consecutive days of contributions" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hacrex&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical" alt="GitHub Achievement Trophies - Recognition for contributions" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&hide_border=true" alt="Most Used Programming Languages - Based on GitHub repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0033&text_color=ffffff&hide_border=true" alt="Top Languages" />
   <br/>
   <!-- Snake Animation Placeholder -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation - Visual representation of contribution activity" src="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
