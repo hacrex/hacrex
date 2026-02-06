@@ -34,6 +34,31 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=435&lines=CONNECT" alt="CONNECT" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/kashvit9">
+    <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/>
+  </a>
+  <a href="https://hackunderroot.blogspot.com">
+    <img src="https://img.shields.io/badge/BLOG-0d0d0d?style=for-the-badge&logo=blogger&logoColor=ff0033" alt="Blog"/>
+  </a>
+  <a href="https://github.com/hacrex">
+    <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/hacrex">
+    <img src="https://img.shields.io/badge/TWITTER-0d0d0d?style=for-the-badge&logo=twitter&logoColor=ff0033" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/hacrex">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@hacrex">
+    <img src="https://img.shields.io/badge/TIKTOK-0d0d0d?style=for-the-badge&logo=tiktok&logoColor=ff0033" alt="TikTok"/>
+  </a>
+</div>
+
 ---
 
 <div align="center">
@@ -170,34 +195,266 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ---
 
-## TECHNICAL ARSENAL
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=TECHNICAL+ARSENAL" alt="TECHNICAL ARSENAL" />
+</div>
 
+<div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0033) ![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=ff0033) ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0033) ![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff0033) ![Shell](https://img.shields.io/badge/Shell_Script-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=ff0033) |
-| **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff0033) ![GCP](https://img.shields.io/badge/Google_Cloud-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=ff0033) ![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge&logo=microsoftazure&logoColor=ff0033) ![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=for-the-badge&logo=oracle&logoColor=ff0033) ![Alibaba](https://custom-icon-badges.demolab.com/badge/Alibaba_Cloud-0d0d0d?style=for-the-badge&logo=cloud&logoColor=ff0033) |
-| **Cloud OS & Virtualization** | ![OpenStack](https://img.shields.io/badge/OpenStack-0d0d0d?style=for-the-badge&logo=openstack&logoColor=ff0033) ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=ff0033) |
-| **OpenStack Services** | Nova, Neutron, Cinder, Swift, Keystone, Glance, Horizon |
-| **Apache CloudStack** | ![CloudStack](https://img.shields.io/badge/Apache_CloudStack-0d0d0d?style=for-the-badge&logo=apache&logoColor=ff0033) |
-| **CloudStack Services** | Compute, Storage, Network, User Management, API, Virtual Router |
-| **AWS Core Services** | EC2, Lambda, S3, RDS, DynamoDB, VPC, EKS, CloudFront, IAM, CloudFormation |
-| **GCP Core Services** | Compute Engine, GKE, Cloud Storage, BigQuery, Cloud SQL, VPC, Cloud CDN, IAM |
-| **Azure Core Services** | Virtual Machines, AKS, Blob Storage, Cosmos DB, Virtual Network, Application Gateway, Azure SQL |
-| **Oracle Cloud** | OCI Compute, Object Storage, Autonomous Database, Virtual Cloud Networks |
-| **Alibaba Cloud** | ECS, Object Storage Service, ApsaraDB, Virtual Private Cloud |
-| **DevOps & IaC** | ![Terraform](https://img.shields.io/badge/Terraform-0d0d0d?style=for-the-badge&logo=terraform&logoColor=ff0033) ![Ansible](https://img.shields.io/badge/Ansible-0d0d0d?style=for-the-badge&logo=ansible&logoColor=ff0033) ![Packer](https://img.shields.io/badge/Packer-0d0d0d?style=for-the-badge&logo=packer&logoColor=ff0033) ![Chef](https://img.shields.io/badge/Chef-0d0d0d?style=for-the-badge&logo=chef&logoColor=ff0033) |
-| **Containers** | ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ff0033) ![K8s](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=ff0033) ![Helm](https://img.shields.io/badge/Helm-0d0d0d?style=for-the-badge&logo=helm&logoColor=ff0033) ![OpenShift](https://img.shields.io/badge/OpenShift-0d0d0d?style=for-the-badge&logo=openshift&logoColor=ff0033) |
-| **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-0d0d0d?style=for-the-badge&logo=jenkins&logoColor=ff0033) ![GitLab](https://img.shields.io/badge/GitLab-0d0d0d?style=for-the-badge&logo=gitlab&logoColor=ff0033) ![ArgoCD](https://img.shields.io/badge/ArgoCD-0d0d0d?style=for-the-badge&logo=argo&logoColor=ff0033) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0033) |
-| **DevSecOps** | ![Snyk](https://img.shields.io/badge/Snyk-0d0d0d?style=for-the-badge&logo=snyk&logoColor=ff0033) ![SonarQube](https://img.shields.io/badge/SonarQube-0d0d0d?style=for-the-badge&logo=sonarqube&logoColor=ff0033) ![Vault](https://img.shields.io/badge/Vault-0d0d0d?style=for-the-badge&logo=hashicorp&logoColor=ff0033) ![Kali](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033) ![OWASP](https://img.shields.io/badge/OWASP_ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=ff0033) |
-| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-0d0d0d?style=for-the-badge&logo=prometheus&logoColor=ff0033) ![Grafana](https://img.shields.io/badge/Grafana-0d0d0d?style=for-the-badge&logo=grafana&logoColor=ff0033) ![Datadog](https://img.shields.io/badge/Datadog-0d0d0d?style=for-the-badge&logo=datadog&logoColor=ff0033) ![Elk](https://img.shields.io/badge/Elastic_Stack-0d0d0d?style=for-the-badge&logo=elastic&logoColor=ff0033) |
-| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff0033) ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff0033) ![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ff0033) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=ff0033) ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ff0033) |
-| **Databases** | ![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=for-the-badge&logo=oracle&logoColor=ff0033) ![Postgres](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff0033) ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ff0033) ![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ff0033) |
+```diff
+! ═══════════════════════════════════════════════════════════════════════════════
++ [SYSTEM]: LOADING TECHNICAL CAPABILITIES...
+! ═══════════════════════════════════════════════════════════════════════════════
+```
 
+</div>
 
-**IMPACT METRICS:** 40% Cost Reduction | 99.9% Uptime | 60% Faster Deployments
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**CLOUD PLATFORMS**
+
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff0033)
+![GCP](https://img.shields.io/badge/Google_Cloud-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=ff0033)
+![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge&logo=microsoftazure&logoColor=ff0033)
+![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=for-the-badge&logo=oracle&logoColor=ff0033)
+![Alibaba](https://img.shields.io/badge/Alibaba_Cloud-0d0d0d?style=for-the-badge&logoColor=ff0033)
+
+</td>
+<td align="center" width="50%">
+
+**CLOUD OS & VIRTUALIZATION**
+
+![OpenStack](https://img.shields.io/badge/OpenStack-0d0d0d?style=for-the-badge&logo=openstack&logoColor=ff0033)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=ff0033)
+![CloudStack](https://img.shields.io/badge/Apache_CloudStack-0d0d0d?style=for-the-badge&logo=apache&logoColor=ff0033)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**DEVOPS & IaC**
+
+![Terraform](https://img.shields.io/badge/Terraform-0d0d0d?style=for-the-badge&logo=terraform&logoColor=ff0033)
+![Ansible](https://img.shields.io/badge/Ansible-0d0d0d?style=for-the-badge&logo=ansible&logoColor=ff0033)
+![Packer](https://img.shields.io/badge/Packer-0d0d0d?style=for-the-badge&logo=packer&logoColor=ff0033)
+![Chef](https://img.shields.io/badge/Chef-0d0d0d?style=for-the-badge&logo=chef&logoColor=ff0033)
+
+</td>
+<td align="center">
+
+**CI/CD PIPELINES**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-0d0d0d?style=for-the-badge&logo=jenkins&logoColor=ff0033)
+![GitLab](https://img.shields.io/badge/GitLab-0d0d0d?style=for-the-badge&logo=gitlab&logoColor=ff0033)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0d0d0d?style=for-the-badge&logo=argo&logoColor=ff0033)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0033)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**CONTAINERS & ORCHESTRATION**
+
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ff0033)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=ff0033)
+![Helm](https://img.shields.io/badge/Helm-0d0d0d?style=for-the-badge&logo=helm&logoColor=ff0033)
+![OpenShift](https://img.shields.io/badge/OpenShift-0d0d0d?style=for-the-badge&logo=openshift&logoColor=ff0033)
+
+</td>
+<td align="center">
+
+**DEVSECOPS & SECURITY**
+
+![Snyk](https://img.shields.io/badge/Snyk-0d0d0d?style=for-the-badge&logo=snyk&logoColor=ff0033)
+![SonarQube](https://img.shields.io/badge/SonarQube-0d0d0d?style=for-the-badge&logo=sonarqube&logoColor=ff0033)
+![Vault](https://img.shields.io/badge/Vault-0d0d0d?style=for-the-badge&logo=hashicorp&logoColor=ff0033)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=ff0033)
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+**OBSERVABILITY & MONITORING**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-0d0d0d?style=for-the-badge&logo=prometheus&logoColor=ff0033)
+![Grafana](https://img.shields.io/badge/Grafana-0d0d0d?style=for-the-badge&logo=grafana&logoColor=ff0033)
+![Datadog](https://img.shields.io/badge/Datadog-0d0d0d?style=for-the-badge&logo=datadog&logoColor=ff0033)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-0d0d0d?style=for-the-badge&logo=elastic&logoColor=ff0033)
+
+</td>
+<td align="center">
+
+**AI & MACHINE LEARNING**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff0033)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff0033)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ff0033)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=ff0033)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ff0033)
+
+</td>
+</tr>
+
+<td align="center">
+
+**DATABASES**
+
+![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=for-the-badge&logo=oracle&logoColor=ff0033)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff0033)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ff0033)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ff0033)
+
+</td>
+<td align="center">
+
+**PROGRAMMING LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0033)
+![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=ff0033)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0033)
+![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff0033)
+![Shell](https://img.shields.io/badge/Shell_Script-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=ff0033)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**CLOUD SERVICES EXPERTISE**
+
+</div>
+
+<details>
+<summary><b>AWS Core Services</b></summary>
+<br>
+<div align="center">
+
+![EC2](https://img.shields.io/badge/EC2-0d0d0d?style=for-the-badge)
+![Lambda](https://img.shields.io/badge/Lambda-0d0d0d?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-0d0d0d?style=for-the-badge)
+![RDS](https://img.shields.io/badge/RDS-0d0d0d?style=for-the-badge)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0d0d0d?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
+![EKS](https://img.shields.io/badge/EKS-0d0d0d?style=for-the-badge)
+![CloudFront](https://img.shields.io/badge/CloudFront-0d0d0d?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-0d0d0d?style=for-the-badge)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
+<details>
+<summary><b>GCP Core Services</b></summary>
+<br>
+<div align="center">
+
+![Compute Engine](https://img.shields.io/badge/Compute%20Engine-0d0d0d?style=for-the-badge)
+![GKE](https://img.shields.io/badge/GKE-0d0d0d?style=for-the-badge)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-0d0d0d?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-0d0d0d?style=for-the-badge)
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-0d0d0d?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
+![Cloud CDN](https://img.shields.io/badge/Cloud%20CDN-0d0d0d?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
+<details>
+<summary><b>Azure Core Services</b></summary>
+<br>
+<div align="center">
+
+![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-0d0d0d?style=for-the-badge)
+![AKS](https://img.shields.io/badge/AKS-0d0d0d?style=for-the-badge)
+![Blob Storage](https://img.shields.io/badge/Blob%20Storage-0d0d0d?style=for-the-badge)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0d0d0d?style=for-the-badge)
+![Virtual Network](https://img.shields.io/badge/Virtual%20Network-0d0d0d?style=for-the-badge)
+![Application Gateway](https://img.shields.io/badge/Application%20Gateway-0d0d0d?style=for-the-badge)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
+<details>
+<summary><b>Oracle Cloud Services</b></summary>
+<br>
+<div align="center">
+
+![OCI Compute](https://img.shields.io/badge/OCI%20Compute-0d0d0d?style=for-the-badge)
+![Object Storage](https://img.shields.io/badge/Object%20Storage-0d0d0d?style=for-the-badge)
+![Autonomous Database](https://img.shields.io/badge/Autonomous%20Database-0d0d0d?style=for-the-badge)
+![Virtual Cloud Networks](https://img.shields.io/badge/Virtual%20Cloud%20Networks-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
+<details>
+<summary><b>Alibaba Cloud Services</b></summary>
+<br>
+<div align="center">
+
+![ECS](https://img.shields.io/badge/ECS-0d0d0d?style=for-the-badge)
+![Object Storage Service](https://img.shields.io/badge/Object%20Storage%20Service-0d0d0d?style=for-the-badge)
+![ApsaraDB](https://img.shields.io/badge/ApsaraDB-0d0d0d?style=for-the-badge)
+![Virtual Private Cloud](https://img.shields.io/badge/Virtual%20Private%20Cloud-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
+<details>
+<summary><b>OpenStack Services</b></summary>
+<br>
+<div align="center">
+
+![Nova](https://img.shields.io/badge/Nova-0d0d0d?style=for-the-badge)
+![Neutron](https://img.shields.io/badge/Neutron-0d0d0d?style=for-the-badge)
+![Cinder](https://img.shields.io/badge/Cinder-0d0d0d?style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-0d0d0d?style=for-the-badge)
+![Keystone](https://img.shields.io/badge/Keystone-0d0d0d?style=for-the-badge)
+![Glance](https://img.shields.io/badge/Glance-0d0d0d?style=for-the-badge)
+![Horizon](https://img.shields.io/badge/Horizon-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
+<details>
+<summary><b>CloudStack Services</b></summary>
+<br>
+<div align="center">
+
+![Compute](https://img.shields.io/badge/Compute-0d0d0d?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Storage-0d0d0d?style=for-the-badge)
+![Network](https://img.shields.io/badge/Network-0d0d0d?style=for-the-badge)
+![User Management](https://img.shields.io/badge/User%20Management-0d0d0d?style=for-the-badge)
+![API](https://img.shields.io/badge/API-0d0d0d?style=for-the-badge)
+![Virtual Router](https://img.shields.io/badge/Virtual%20Router-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
+<div align="center">
+
+```diff
+! ═══════════════════════════════════════════════════════════════════════════════
++ [IMPACT METRICS]: 40% Cost Reduction | 99.9% Uptime | 60% Faster Deployments
+! ═══════════════════════════════════════════════════════════════════════════════
+```
+
+</div>
 
 ---
+
 
 
 
