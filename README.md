@@ -405,9 +405,9 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <div align="center">
 
 ![ECS](https://img.shields.io/badge/ECS-0d0d0d?style=for-the-badge)
-![Object Storage Service](https://img.shields.io/badge/Object%20Storage%20Service-0d0d0d?style=for-the-badge)
+![OSS](https://img.shields.io/badge/OSS-0d0d0d?style=for-the-badge)
 ![ApsaraDB](https://img.shields.io/badge/ApsaraDB-0d0d0d?style=for-the-badge)
-![Virtual Private Cloud](https://img.shields.io/badge/Virtual%20Private%20Cloud-0d0d0d?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -449,7 +449,7 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <div align="center">
 
 ![Droplets](https://img.shields.io/badge/Droplets-0d0d0d?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge)
+![DOKS](https://img.shields.io/badge/DOKS-0d0d0d?style=for-the-badge)
 ![App Platform](https://img.shields.io/badge/App%20Platform-0d0d0d?style=for-the-badge)
 ![Spaces](https://img.shields.io/badge/Spaces-0d0d0d?style=for-the-badge)
 ![Managed Databases](https://img.shields.io/badge/Managed%20Databases-0d0d0d?style=for-the-badge)
@@ -465,7 +465,7 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ![CDN](https://img.shields.io/badge/CDN-0d0d0d?style=for-the-badge)
 ![Edge Computing](https://img.shields.io/badge/Edge%20Computing-0d0d0d?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Security-0d0d0d?style=for-the-badge)
+![App & API Protector](https://img.shields.io/badge/App%20%26%20API%20Protector-0d0d0d?style=for-the-badge)
 ![API Security](https://img.shields.io/badge/API%20Security-0d0d0d?style=for-the-badge)
 ![Bot Manager](https://img.shields.io/badge/Bot%20Manager-0d0d0d?style=for-the-badge)
 ![Image & Video Manager](https://img.shields.io/badge/Image%20%26%20Video%20Manager-0d0d0d?style=for-the-badge)
