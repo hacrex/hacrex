@@ -215,22 +215,22 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 **PROGRAMMING LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-ff0033?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-ff0033?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff0033?style=for-the-badge&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-ff0033?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-ff0033?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0033)
+![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=ff0033)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0033)
+![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff0033)
+![Shell](https://img.shields.io/badge/Shell_Script-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=ff0033)
 
 </td>
 <td align="center" width="50%">
 
 **CLOUD PLATFORMS**
 
-![AWS](https://img.shields.io/badge/AWS-ff0033?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-ff0033?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-ff0033?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-ff0033?style=for-the-badge&logo=oracle&logoColor=white)
-![Alibaba](https://img.shields.io/badge/Alibaba_Cloud-ff0033?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff0033)
+![GCP](https://img.shields.io/badge/Google_Cloud-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=ff0033)
+![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge&logo=microsoftazure&logoColor=ff0033)
+![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=for-the-badge&logo=oracle&logoColor=ff0033)
+![Alibaba](https://img.shields.io/badge/Alibaba_Cloud-0d0d0d?style=for-the-badge&logoColor=ff0033)
 
 </td>
 </tr>
@@ -240,19 +240,19 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 **CLOUD OS & VIRTUALIZATION**
 
-![OpenStack](https://img.shields.io/badge/OpenStack-ff0033?style=for-the-badge&logo=openstack&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-ff0033?style=for-the-badge&logo=linux&logoColor=white)
-![CloudStack](https://img.shields.io/badge/Apache_CloudStack-ff0033?style=for-the-badge&logo=apache&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-0d0d0d?style=for-the-badge&logo=openstack&logoColor=ff0033)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=ff0033)
+![CloudStack](https://img.shields.io/badge/Apache_CloudStack-0d0d0d?style=for-the-badge&logo=apache&logoColor=ff0033)
 
 </td>
 <td align="center">
 
 **DEVOPS & IaC**
 
-![Terraform](https://img.shields.io/badge/Terraform-ff0033?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-ff0033?style=for-the-badge&logo=ansible&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-ff0033?style=for-the-badge&logo=packer&logoColor=white)
-![Chef](https://img.shields.io/badge/Chef-ff0033?style=for-the-badge&logo=chef&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0d0d0d?style=for-the-badge&logo=terraform&logoColor=ff0033)
+![Ansible](https://img.shields.io/badge/Ansible-0d0d0d?style=for-the-badge&logo=ansible&logoColor=ff0033)
+![Packer](https://img.shields.io/badge/Packer-0d0d0d?style=for-the-badge&logo=packer&logoColor=ff0033)
+![Chef](https://img.shields.io/badge/Chef-0d0d0d?style=for-the-badge&logo=chef&logoColor=ff0033)
 
 </td>
 </tr>
@@ -262,20 +262,20 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 **CONTAINERS & ORCHESTRATION**
 
-![Docker](https://img.shields.io/badge/Docker-ff0033?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-ff0033?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-ff0033?style=for-the-badge&logo=helm&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-ff0033?style=for-the-badge&logo=openshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ff0033)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=ff0033)
+![Helm](https://img.shields.io/badge/Helm-0d0d0d?style=for-the-badge&logo=helm&logoColor=ff0033)
+![OpenShift](https://img.shields.io/badge/OpenShift-0d0d0d?style=for-the-badge&logo=openshift&logoColor=ff0033)
 
 </td>
 <td align="center">
 
 **CI/CD PIPELINES**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-ff0033?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-ff0033?style=for-the-badge&logo=gitlab&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-ff0033?style=for-the-badge&logo=argo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff0033?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d0d0d?style=for-the-badge&logo=jenkins&logoColor=ff0033)
+![GitLab](https://img.shields.io/badge/GitLab-0d0d0d?style=for-the-badge&logo=gitlab&logoColor=ff0033)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0d0d0d?style=for-the-badge&logo=argo&logoColor=ff0033)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0033)
 
 </td>
 </tr>
@@ -285,21 +285,21 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 **DEVSECOPS & SECURITY**
 
-![Snyk](https://img.shields.io/badge/Snyk-ff0033?style=for-the-badge&logo=snyk&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-ff0033?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-ff0033?style=for-the-badge&logo=hashicorp&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-ff0033?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_ZAP-ff0033?style=for-the-badge&logo=owasp&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-0d0d0d?style=for-the-badge&logo=snyk&logoColor=ff0033)
+![SonarQube](https://img.shields.io/badge/SonarQube-0d0d0d?style=for-the-badge&logo=sonarqube&logoColor=ff0033)
+![Vault](https://img.shields.io/badge/Vault-0d0d0d?style=for-the-badge&logo=hashicorp&logoColor=ff0033)
+![Kali](https://img.shields.io/badge/Kali_Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=ff0033)
 
 </td>
 <td align="center">
 
 **OBSERVABILITY & MONITORING**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-ff0033?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-ff0033?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-ff0033?style=for-the-badge&logo=datadog&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-ff0033?style=for-the-badge&logo=elastic&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d0d0d?style=for-the-badge&logo=prometheus&logoColor=ff0033)
+![Grafana](https://img.shields.io/badge/Grafana-0d0d0d?style=for-the-badge&logo=grafana&logoColor=ff0033)
+![Datadog](https://img.shields.io/badge/Datadog-0d0d0d?style=for-the-badge&logo=datadog&logoColor=ff0033)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-0d0d0d?style=for-the-badge&logo=elastic&logoColor=ff0033)
 
 </td>
 </tr>
@@ -309,21 +309,21 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 **AI & MACHINE LEARNING**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff0033?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ff0033?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ff0033?style=for-the-badge&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-ff0033?style=for-the-badge&logo=huggingface&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-ff0033?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff0033)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff0033)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ff0033)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=ff0033)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ff0033)
 
 </td>
 <td align="center">
 
 **DATABASES**
 
-![Oracle](https://img.shields.io/badge/Oracle-ff0033?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff0033?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-ff0033?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ff0033?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-0d0d0d?style=for-the-badge&logo=oracle&logoColor=ff0033)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff0033)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ff0033)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ff0033)
 
 </td>
 </tr>
@@ -340,16 +340,16 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <br>
 <div align="center">
 
-![EC2](https://img.shields.io/badge/EC2-ff0033?style=for-the-badge)
-![Lambda](https://img.shields.io/badge/Lambda-ff0033?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-ff0033?style=for-the-badge)
-![RDS](https://img.shields.io/badge/RDS-ff0033?style=for-the-badge)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-ff0033?style=for-the-badge)
-![VPC](https://img.shields.io/badge/VPC-ff0033?style=for-the-badge)
-![EKS](https://img.shields.io/badge/EKS-ff0033?style=for-the-badge)
-![CloudFront](https://img.shields.io/badge/CloudFront-ff0033?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-ff0033?style=for-the-badge)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-ff0033?style=for-the-badge)
+![EC2](https://img.shields.io/badge/EC2-0d0d0d?style=for-the-badge)
+![Lambda](https://img.shields.io/badge/Lambda-0d0d0d?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-0d0d0d?style=for-the-badge)
+![RDS](https://img.shields.io/badge/RDS-0d0d0d?style=for-the-badge)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0d0d0d?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
+![EKS](https://img.shields.io/badge/EKS-0d0d0d?style=for-the-badge)
+![CloudFront](https://img.shields.io/badge/CloudFront-0d0d0d?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-0d0d0d?style=for-the-badge)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -359,14 +359,14 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <br>
 <div align="center">
 
-![Compute Engine](https://img.shields.io/badge/Compute%20Engine-ff0033?style=for-the-badge)
-![GKE](https://img.shields.io/badge/GKE-ff0033?style=for-the-badge)
-![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-ff0033?style=for-the-badge)
-![BigQuery](https://img.shields.io/badge/BigQuery-ff0033?style=for-the-badge)
-![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-ff0033?style=for-the-badge)
-![VPC](https://img.shields.io/badge/VPC-ff0033?style=for-the-badge)
-![Cloud CDN](https://img.shields.io/badge/Cloud%20CDN-ff0033?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-ff0033?style=for-the-badge)
+![Compute Engine](https://img.shields.io/badge/Compute%20Engine-0d0d0d?style=for-the-badge)
+![GKE](https://img.shields.io/badge/GKE-0d0d0d?style=for-the-badge)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-0d0d0d?style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-0d0d0d?style=for-the-badge)
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-0d0d0d?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
+![Cloud CDN](https://img.shields.io/badge/Cloud%20CDN-0d0d0d?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -376,13 +376,13 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <br>
 <div align="center">
 
-![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-ff0033?style=for-the-badge)
-![AKS](https://img.shields.io/badge/AKS-ff0033?style=for-the-badge)
-![Blob Storage](https://img.shields.io/badge/Blob%20Storage-ff0033?style=for-the-badge)
-![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-ff0033?style=for-the-badge)
-![Virtual Network](https://img.shields.io/badge/Virtual%20Network-ff0033?style=for-the-badge)
-![Application Gateway](https://img.shields.io/badge/Application%20Gateway-ff0033?style=for-the-badge)
-![Azure SQL](https://img.shields.io/badge/Azure%20SQL-ff0033?style=for-the-badge)
+![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-0d0d0d?style=for-the-badge)
+![AKS](https://img.shields.io/badge/AKS-0d0d0d?style=for-the-badge)
+![Blob Storage](https://img.shields.io/badge/Blob%20Storage-0d0d0d?style=for-the-badge)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0d0d0d?style=for-the-badge)
+![Virtual Network](https://img.shields.io/badge/Virtual%20Network-0d0d0d?style=for-the-badge)
+![Application Gateway](https://img.shields.io/badge/Application%20Gateway-0d0d0d?style=for-the-badge)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -392,10 +392,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <br>
 <div align="center">
 
-![OCI Compute](https://img.shields.io/badge/OCI%20Compute-ff0033?style=for-the-badge)
-![Object Storage](https://img.shields.io/badge/Object%20Storage-ff0033?style=for-the-badge)
-![Autonomous Database](https://img.shields.io/badge/Autonomous%20Database-ff0033?style=for-the-badge)
-![Virtual Cloud Networks](https://img.shields.io/badge/Virtual%20Cloud%20Networks-ff0033?style=for-the-badge)
+![OCI Compute](https://img.shields.io/badge/OCI%20Compute-0d0d0d?style=for-the-badge)
+![Object Storage](https://img.shields.io/badge/Object%20Storage-0d0d0d?style=for-the-badge)
+![Autonomous Database](https://img.shields.io/badge/Autonomous%20Database-0d0d0d?style=for-the-badge)
+![Virtual Cloud Networks](https://img.shields.io/badge/Virtual%20Cloud%20Networks-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -405,10 +405,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <br>
 <div align="center">
 
-![ECS](https://img.shields.io/badge/ECS-ff0033?style=for-the-badge)
-![Object Storage Service](https://img.shields.io/badge/Object%20Storage%20Service-ff0033?style=for-the-badge)
-![ApsaraDB](https://img.shields.io/badge/ApsaraDB-ff0033?style=for-the-badge)
-![Virtual Private Cloud](https://img.shields.io/badge/Virtual%20Private%20Cloud-ff0033?style=for-the-badge)
+![ECS](https://img.shields.io/badge/ECS-0d0d0d?style=for-the-badge)
+![Object Storage Service](https://img.shields.io/badge/Object%20Storage%20Service-0d0d0d?style=for-the-badge)
+![ApsaraDB](https://img.shields.io/badge/ApsaraDB-0d0d0d?style=for-the-badge)
+![Virtual Private Cloud](https://img.shields.io/badge/Virtual%20Private%20Cloud-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -418,13 +418,13 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <br>
 <div align="center">
 
-![Nova](https://img.shields.io/badge/Nova-ff0033?style=for-the-badge)
-![Neutron](https://img.shields.io/badge/Neutron-ff0033?style=for-the-badge)
-![Cinder](https://img.shields.io/badge/Cinder-ff0033?style=for-the-badge)
-![Swift](https://img.shields.io/badge/Swift-ff0033?style=for-the-badge)
-![Keystone](https://img.shields.io/badge/Keystone-ff0033?style=for-the-badge)
-![Glance](https://img.shields.io/badge/Glance-ff0033?style=for-the-badge)
-![Horizon](https://img.shields.io/badge/Horizon-ff0033?style=for-the-badge)
+![Nova](https://img.shields.io/badge/Nova-0d0d0d?style=for-the-badge)
+![Neutron](https://img.shields.io/badge/Neutron-0d0d0d?style=for-the-badge)
+![Cinder](https://img.shields.io/badge/Cinder-0d0d0d?style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-0d0d0d?style=for-the-badge)
+![Keystone](https://img.shields.io/badge/Keystone-0d0d0d?style=for-the-badge)
+![Glance](https://img.shields.io/badge/Glance-0d0d0d?style=for-the-badge)
+![Horizon](https://img.shields.io/badge/Horizon-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -434,12 +434,12 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <br>
 <div align="center">
 
-![Compute](https://img.shields.io/badge/Compute-ff0033?style=for-the-badge)
-![Storage](https://img.shields.io/badge/Storage-ff0033?style=for-the-badge)
-![Network](https://img.shields.io/badge/Network-ff0033?style=for-the-badge)
-![User Management](https://img.shields.io/badge/User%20Management-ff0033?style=for-the-badge)
-![API](https://img.shields.io/badge/API-ff0033?style=for-the-badge)
-![Virtual Router](https://img.shields.io/badge/Virtual%20Router-ff0033?style=for-the-badge)
+![Compute](https://img.shields.io/badge/Compute-0d0d0d?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Storage-0d0d0d?style=for-the-badge)
+![Network](https://img.shields.io/badge/Network-0d0d0d?style=for-the-badge)
+![User Management](https://img.shields.io/badge/User%20Management-0d0d0d?style=for-the-badge)
+![API](https://img.shields.io/badge/API-0d0d0d?style=for-the-badge)
+![Virtual Router](https://img.shields.io/badge/Virtual%20Router-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
