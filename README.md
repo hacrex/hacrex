@@ -213,17 +213,6 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <tr>
 <td align="center" width="50%">
 
-**PROGRAMMING LANGUAGES**
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0033)
-![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=ff0033)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0033)
-![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff0033)
-![Shell](https://img.shields.io/badge/Shell_Script-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=ff0033)
-
-</td>
-<td align="center" width="50%">
-
 **CLOUD PLATFORMS**
 
 ![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff0033)
@@ -233,10 +222,7 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![Alibaba](https://img.shields.io/badge/Alibaba_Cloud-0d0d0d?style=for-the-badge&logoColor=ff0033)
 
 </td>
-</tr>
-
-<tr>
-<td align="center">
+<td align="center" width="50%">
 
 **CLOUD OS & VIRTUALIZATION**
 
@@ -245,6 +231,9 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![CloudStack](https://img.shields.io/badge/Apache_CloudStack-0d0d0d?style=for-the-badge&logo=apache&logoColor=ff0033)
 
 </td>
+</tr>
+
+<tr>
 <td align="center">
 
 **DEVOPS & IaC**
@@ -324,6 +313,17 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff0033)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=ff0033)
 ![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ff0033)
+
+</td>
+<td align="center">
+
+**PROGRAMMING LANGUAGES**
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0033)
+![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=ff0033)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0033)
+![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff0033)
+![Shell](https://img.shields.io/badge/Shell_Script-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=ff0033)
 
 </td>
 </tr>
