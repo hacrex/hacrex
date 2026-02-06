@@ -34,6 +34,31 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=435&lines=CONNECT" alt="CONNECT" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/kashvit9">
+    <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/>
+  </a>
+  <a href="https://hackunderroot.blogspot.com">
+    <img src="https://img.shields.io/badge/BLOG-0d0d0d?style=for-the-badge&logo=blogger&logoColor=ff0033" alt="Blog"/>
+  </a>
+  <a href="https://github.com/hacrex">
+    <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/hacrex">
+    <img src="https://img.shields.io/badge/TWITTER-0d0d0d?style=for-the-badge&logo=twitter&logoColor=ff0033" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/hacrex">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="Instagram"/>
+  </a>
+  <a href="https://tiktok.com/@hacrex">
+    <img src="https://img.shields.io/badge/TIKTOK-0d0d0d?style=for-the-badge&logo=tiktok&logoColor=ff0033" alt="TikTok"/>
+  </a>
+</div>
+
 ---
 
 <div align="center">
