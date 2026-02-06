@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 ```
  ██████╗██╗      ██████╗ ██╗   ██╗██████╗     ██████╗ ███████╗██╗   ██╗ ██████╗ ██████╗ ███████╗
@@ -244,19 +244,6 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![Chef](https://img.shields.io/badge/Chef-0d0d0d?style=for-the-badge&logo=chef&logoColor=ff0033)
 
 </td>
-</tr>
-
-<tr>
-<td align="center">
-
-**CONTAINERS & ORCHESTRATION**
-
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ff0033)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=ff0033)
-![Helm](https://img.shields.io/badge/Helm-0d0d0d?style=for-the-badge&logo=helm&logoColor=ff0033)
-![OpenShift](https://img.shields.io/badge/OpenShift-0d0d0d?style=for-the-badge&logo=openshift&logoColor=ff0033)
-
-</td>
 <td align="center">
 
 **CI/CD PIPELINES**
@@ -272,6 +259,16 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <tr>
 <td align="center">
 
+**CONTAINERS & ORCHESTRATION**
+
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ff0033)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=ff0033)
+![Helm](https://img.shields.io/badge/Helm-0d0d0d?style=for-the-badge&logo=helm&logoColor=ff0033)
+![OpenShift](https://img.shields.io/badge/OpenShift-0d0d0d?style=for-the-badge&logo=openshift&logoColor=ff0033)
+
+</td>
+<td align="center">
+
 **DEVSECOPS & SECURITY**
 
 ![Snyk](https://img.shields.io/badge/Snyk-0d0d0d?style=for-the-badge&logo=snyk&logoColor=ff0033)
@@ -281,6 +278,9 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![OWASP](https://img.shields.io/badge/OWASP_ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=ff0033)
 
 </td>
+</tr>
+
+<tr>
 <td align="center">
 
 **OBSERVABILITY & MONITORING**
@@ -291,9 +291,6 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-0d0d0d?style=for-the-badge&logo=elastic&logoColor=ff0033)
 
 </td>
-</tr>
-
-<tr>
 <td align="center">
 
 **AI & MACHINE LEARNING**
@@ -305,6 +302,8 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ff0033)
 
 </td>
+</tr>
+
 <td align="center">
 
 **DATABASES**
@@ -315,10 +314,7 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ff0033)
 
 </td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
+<td align="center">
 
 **PROGRAMMING LANGUAGES**
 
