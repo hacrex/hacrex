@@ -315,7 +315,10 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=ff0033)
 
 </td>
-<td align="center">
+</tr>
+
+<tr>
+<td align="center" colspan="2">
 
 **PROGRAMMING LANGUAGES**
 
