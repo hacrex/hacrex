@@ -346,9 +346,21 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-0d0d0d?style=for-the-badge)
 ![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
 ![EKS](https://img.shields.io/badge/EKS-0d0d0d?style=for-the-badge)
+![ECS](https://img.shields.io/badge/ECS-0d0d0d?style=for-the-badge)
 ![CloudFront](https://img.shields.io/badge/CloudFront-0d0d0d?style=for-the-badge)
+![Route 53](https://img.shields.io/badge/Route_53-0d0d0d?style=for-the-badge)
 ![IAM](https://img.shields.io/badge/IAM-0d0d0d?style=for-the-badge)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-0d0d0d?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-0d0d0d?style=for-the-badge)
+![ELB](https://img.shields.io/badge/ELB-0d0d0d?style=for-the-badge)
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-0d0d0d?style=for-the-badge)
+![SNS](https://img.shields.io/badge/SNS-0d0d0d?style=for-the-badge)
+![SQS](https://img.shields.io/badge/SQS-0d0d0d?style=for-the-badge)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-0d0d0d?style=for-the-badge)
+![EBS](https://img.shields.io/badge/EBS-0d0d0d?style=for-the-badge)
+![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-0d0d0d?style=for-the-badge)
+![Systems Manager](https://img.shields.io/badge/Systems_Manager-0d0d0d?style=for-the-badge)
+![ECR](https://img.shields.io/badge/ECR-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -360,12 +372,23 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ![Compute Engine](https://img.shields.io/badge/Compute%20Engine-0d0d0d?style=for-the-badge)
 ![GKE](https://img.shields.io/badge/GKE-0d0d0d?style=for-the-badge)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-0d0d0d?style=for-the-badge)
+![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-0d0d0d?style=for-the-badge)
 ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-0d0d0d?style=for-the-badge)
 ![BigQuery](https://img.shields.io/badge/BigQuery-0d0d0d?style=for-the-badge)
 ![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-0d0d0d?style=for-the-badge)
+![Cloud Spanner](https://img.shields.io/badge/Cloud%20Spanner-0d0d0d?style=for-the-badge)
 ![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
+![Cloud Load Balancing](https://img.shields.io/badge/Cloud%20Load%20Balancing-0d0d0d?style=for-the-badge)
 ![Cloud CDN](https://img.shields.io/badge/Cloud%20CDN-0d0d0d?style=for-the-badge)
+![Cloud DNS](https://img.shields.io/badge/Cloud%20DNS-0d0d0d?style=for-the-badge)
 ![IAM](https://img.shields.io/badge/IAM-0d0d0d?style=for-the-badge)
+![Cloud Monitoring](https://img.shields.io/badge/Cloud%20Monitoring-0d0d0d?style=for-the-badge)
+![Cloud Logging](https://img.shields.io/badge/Cloud%20Logging-0d0d0d?style=for-the-badge)
+![Artifact Registry](https://img.shields.io/badge/Artifact%20Registry-0d0d0d?style=for-the-badge)
+![Secret Manager](https://img.shields.io/badge/Secret%20Manager-0d0d0d?style=for-the-badge)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-0d0d0d?style=for-the-badge)
+![Memorystore](https://img.shields.io/badge/Memorystore-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -377,11 +400,23 @@ Indore, India · +91-9823497600 · kashvit@live.in
 
 ![Virtual Machines](https://img.shields.io/badge/Virtual%20Machines-0d0d0d?style=for-the-badge)
 ![AKS](https://img.shields.io/badge/AKS-0d0d0d?style=for-the-badge)
+![Container Instances](https://img.shields.io/badge/Container%20Instances-0d0d0d?style=for-the-badge)
+![App Service](https://img.shields.io/badge/App%20Service-0d0d0d?style=for-the-badge)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0d0d0d?style=for-the-badge)
 ![Blob Storage](https://img.shields.io/badge/Blob%20Storage-0d0d0d?style=for-the-badge)
+![Azure Files](https://img.shields.io/badge/Azure%20Files-0d0d0d?style=for-the-badge)
 ![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0d0d0d?style=for-the-badge)
-![Virtual Network](https://img.shields.io/badge/Virtual%20Network-0d0d0d?style=for-the-badge)
-![Application Gateway](https://img.shields.io/badge/Application%20Gateway-0d0d0d?style=for-the-badge)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0d0d0d?style=for-the-badge)
+![Virtual Network](https://img.shields.io/badge/Virtual%20Network-0d0d0d?style=for-the-badge)
+![Load Balancer](https://img.shields.io/badge/Load%20Balancer-0d0d0d?style=for-the-badge)
+![Application Gateway](https://img.shields.io/badge/Application%20Gateway-0d0d0d?style=for-the-badge)
+![Azure DNS](https://img.shields.io/badge/Azure%20DNS-0d0d0d?style=for-the-badge)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0d0d0d?style=for-the-badge)
+![Key Vault](https://img.shields.io/badge/Key%20Vault-0d0d0d?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0d0d0d?style=for-the-badge)
+![Container Registry](https://img.shields.io/badge/Container%20Registry-0d0d0d?style=for-the-badge)
+![Service Bus](https://img.shields.io/badge/Service%20Bus-0d0d0d?style=for-the-badge)
+![Redis Cache](https://img.shields.io/badge/Redis%20Cache-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -392,9 +427,19 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <div align="center">
 
 ![OCI Compute](https://img.shields.io/badge/OCI%20Compute-0d0d0d?style=for-the-badge)
+![Container Engine](https://img.shields.io/badge/Container%20Engine-0d0d0d?style=for-the-badge)
+![Functions](https://img.shields.io/badge/Functions-0d0d0d?style=for-the-badge)
 ![Object Storage](https://img.shields.io/badge/Object%20Storage-0d0d0d?style=for-the-badge)
+![Block Volume](https://img.shields.io/badge/Block%20Volume-0d0d0d?style=for-the-badge)
+![File Storage](https://img.shields.io/badge/File%20Storage-0d0d0d?style=for-the-badge)
 ![Autonomous Database](https://img.shields.io/badge/Autonomous%20Database-0d0d0d?style=for-the-badge)
+![MySQL Database](https://img.shields.io/badge/MySQL%20Database-0d0d0d?style=for-the-badge)
 ![Virtual Cloud Networks](https://img.shields.io/badge/Virtual%20Cloud%20Networks-0d0d0d?style=for-the-badge)
+![Load Balancer](https://img.shields.io/badge/Load%20Balancer-0d0d0d?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-0d0d0d?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-0d0d0d?style=for-the-badge)
+![Vault](https://img.shields.io/badge/Vault-0d0d0d?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -405,9 +450,18 @@ Indore, India · +91-9823497600 · kashvit@live.in
 <div align="center">
 
 ![ECS](https://img.shields.io/badge/ECS-0d0d0d?style=for-the-badge)
+![Container Service](https://img.shields.io/badge/Container%20Service-0d0d0d?style=for-the-badge)
+![Function Compute](https://img.shields.io/badge/Function%20Compute-0d0d0d?style=for-the-badge)
 ![OSS](https://img.shields.io/badge/OSS-0d0d0d?style=for-the-badge)
-![ApsaraDB](https://img.shields.io/badge/ApsaraDB-0d0d0d?style=for-the-badge)
+![NAS](https://img.shields.io/badge/NAS-0d0d0d?style=for-the-badge)
+![ApsaraDB RDS](https://img.shields.io/badge/ApsaraDB%20RDS-0d0d0d?style=for-the-badge)
+![PolarDB](https://img.shields.io/badge/PolarDB-0d0d0d?style=for-the-badge)
 ![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
+![SLB](https://img.shields.io/badge/SLB-0d0d0d?style=for-the-badge)
+![CDN](https://img.shields.io/badge/CDN-0d0d0d?style=for-the-badge)
+![RAM](https://img.shields.io/badge/RAM-0d0d0d?style=for-the-badge)
+![CloudMonitor](https://img.shields.io/badge/CloudMonitor-0d0d0d?style=for-the-badge)
+![Container Registry](https://img.shields.io/badge/Container%20Registry-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
@@ -451,9 +505,15 @@ Indore, India · +91-9823497600 · kashvit@live.in
 ![Droplets](https://img.shields.io/badge/Droplets-0d0d0d?style=for-the-badge)
 ![DOKS](https://img.shields.io/badge/DOKS-0d0d0d?style=for-the-badge)
 ![App Platform](https://img.shields.io/badge/App%20Platform-0d0d0d?style=for-the-badge)
+![Functions](https://img.shields.io/badge/Functions-0d0d0d?style=for-the-badge)
 ![Spaces](https://img.shields.io/badge/Spaces-0d0d0d?style=for-the-badge)
+![Volumes](https://img.shields.io/badge/Volumes-0d0d0d?style=for-the-badge)
 ![Managed Databases](https://img.shields.io/badge/Managed%20Databases-0d0d0d?style=for-the-badge)
+![VPC](https://img.shields.io/badge/VPC-0d0d0d?style=for-the-badge)
 ![Load Balancers](https://img.shields.io/badge/Load%20Balancers-0d0d0d?style=for-the-badge)
+![Firewalls](https://img.shields.io/badge/Firewalls-0d0d0d?style=for-the-badge)
+![Container Registry](https://img.shields.io/badge/Container%20Registry-0d0d0d?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-0d0d0d?style=for-the-badge)
 
 </div>
 </details>
