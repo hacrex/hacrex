@@ -443,6 +443,36 @@ Indore, India · +91-9823497600 · kashvit@live.in
 </div>
 </details>
 
+<details>
+<summary><b>DigitalOcean Services</b></summary>
+<br>
+<div align="center">
+
+![Droplets](https://img.shields.io/badge/Droplets-0d0d0d?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge)
+![App Platform](https://img.shields.io/badge/App%20Platform-0d0d0d?style=for-the-badge)
+![Spaces](https://img.shields.io/badge/Spaces-0d0d0d?style=for-the-badge)
+![Managed Databases](https://img.shields.io/badge/Managed%20Databases-0d0d0d?style=for-the-badge)
+![Load Balancers](https://img.shields.io/badge/Load%20Balancers-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
+<details>
+<summary><b>Akamai Services</b></summary>
+<br>
+<div align="center">
+
+![CDN](https://img.shields.io/badge/CDN-0d0d0d?style=for-the-badge)
+![Edge Computing](https://img.shields.io/badge/Edge%20Computing-0d0d0d?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web%20Security-0d0d0d?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API%20Security-0d0d0d?style=for-the-badge)
+![Bot Manager](https://img.shields.io/badge/Bot%20Manager-0d0d0d?style=for-the-badge)
+![Image & Video Manager](https://img.shields.io/badge/Image%20%26%20Video%20Manager-0d0d0d?style=for-the-badge)
+
+</div>
+</details>
+
 <div align="center">
 
 ```diff
