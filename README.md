@@ -30,7 +30,7 @@
 
 ---
 
-> ### 👨‍💻 **Hi, I'm Ashvit D. Khandare** 
+> ### 👨‍💻 **Hi, I'm Ashvit  Khandare** 
 >
 > Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
 > 
