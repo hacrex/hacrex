@@ -84,7 +84,7 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| [☁️ OpsWork](https://opswork.netlify.app/) | Comprehensive resource for DevOps, SRE, and cloud expertise. | [Live Demo](https://opswork.netlify.app/) |
+| [🕸️ Netspidey](https://netspidey.vercel.app/) | Network & Infrastructure Diagnostics DNS resolution, IP Geo, SSL inspection, email security policy checks, and CIDR subnet calculations in a high-performance toolbox. | [Live Demo](https://netspidey.vercel.app/) |
 | [🤖 Toolsea AI](https://toolseaai.netlify.app/) | A curated list of cutting-edge AI Tools and performance benchmarks. | [Live Demo](https://toolseaai.netlify.app/) |
 | [📈 Market Metrica](https://cmetrica.netlify.app/) | Real-time Cryptocurrency price tracker with integrated external APIs. | [Live Demo](https://cmetrica.netlify.app/) |
 | [📚 Freestacks](https://freestacks.netlify.app/) | A beautifully curated directory of free developer resources for cloud hosting. | [Live Demo](https://freestacks.netlify.app/) |
