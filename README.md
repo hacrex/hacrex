@@ -85,7 +85,7 @@
 | Project | Description | Link |
 |---------|-------------|------|
 | [🕸️ Netspidey](https://netspidey.vercel.app/) | Network & Infrastructure Diagnostics DNS resolution, IP Geo, SSL inspection, email security policy checks, and CIDR subnet calculations in a high-performance toolbox. | [Live Demo](https://netspidey.vercel.app/) |
-| [🚀 Memebyte](https://memebyte.fun/) | Zero-coding platform for launching Solana Meme tokens. | [Live Demo](https://memebyte.netlify.app/) |
+| [🚀 Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana Meme tokens. | [Live Demo](https://memebyte.netlify.app/) |
 | [🤖 Toolsea AI](https://toolseaai.netlify.app/) | A curated list of cutting-edge AI Tools and performance benchmarks. | [Live Demo](https://toolseaai.netlify.app/) |
 | [📚 Freestacks](https://freestacks.netlify.app/) | A beautifully curated directory of free developer resources for cloud hosting. | [Live Demo](https://freestacks.netlify.app/) |
 | [☁️ WxLive](https://wxlive.netlify.app/) | A real-time weather information platform tracking global climate data. | [Live Demo](https://wxlive.netlify.app/) |
