@@ -90,7 +90,7 @@
 | [📚 Freestacks](https://freestacks.netlify.app/) | A beautifully curated directory of free developer resources for cloud hosting. | [Live Demo](https://freestacks.netlify.app/) |
 | [☁️ WxLive](https://wxlive.netlify.app/) | A real-time weather information platform tracking global climate data. | [Live Demo](https://wxlive.netlify.app/) |
 | [🔒 Hackunderroot](https://hackunderroot.blogspot.com/) | A cybersecurity and cloud security blog detailing ethical hacking & architecture. | [Read Here](https://hackunderroot.blogspot.com/) |
-| [🎵 Star Lyrix](https://starlyrix.netlify.app/) | AI-powered Lyric Generation application built for creative workflows. | [Live Demo](https://starlyrix.netlify.app/) |
+| [🎵 Star Lyrix](https://starlyrix.vercel.app/) | AI-powered Lyric Generation application built for creative workflows. | [Live Demo](https://starlyrix.netlify.app/) |
 | [📱 WappReader](https://wappreader.netlify.app/) | Read exported WhatsApp Chat logs efficiently over a cleanly parsed dashboard. | [Live Demo](https://wappreader.netlify.app/) |
 | [🚀 Memebyte](https://memebyte.fun/) | Zero-coding platform for launching Solana Meme tokens. | [Live Demo](https://memebyte.fun/) |
 | [🏋️ DawnFit App](#) | Cloud-Native wellness and productivity application (Azure AKS, Prometheus). | `Under Dev` |
