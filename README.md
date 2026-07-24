@@ -240,15 +240,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacrex&bg_color=0d0d0d&color=ff0033&line=ff0033&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </picture>
 
-<br/><br/>
 
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
