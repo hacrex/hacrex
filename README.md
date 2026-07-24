@@ -26,13 +26,19 @@
 
 ---
 
+<div align="center">
+
 ### Hi, I'm Ashvit Khandare
+
+<table><tr><td>
 
 Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
 
 My core expertise lies in **Linux Administration**, **Cloud Automation**, **Infrastructure Migration**, and **Cloud Security**. I have a proven track record of reducing downtime by **80%** and cutting cloud costs by **40%** through intelligent architecture and automation.
 
 Passionate about solving complex infrastructure challenges, enabling engineering teams through automation-first strategies, and actively leveraging modern AI tools & Vibe Coding for next-level productivity.
+
+</td></tr></table>
 
 </div>
 
@@ -154,12 +160,9 @@ Passionate about solving complex infrastructure challenges, enabling engineering
 <a href="https://www.credly.com/users/hacrex/">![RHCSA](https://img.shields.io/badge/Red_Hat-System_Administrator-0d0d0d?style=for-the-badge&logo=redhat&logoColor=ff0033)</a>
 <a href="https://www.credly.com/users/hacrex/">![HyperV](https://img.shields.io/badge/Microsoft-Server_Virtualization-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=ff0033)</a>
 <a href="https://www.credly.com/users/hacrex/">![CISE](https://img.shields.io/badge/Security-Certified_Info_Sec_Expert-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033)</a>
-
-<br/><br/>
-
-**Kaggle AI Agents Intensive Course** with Google
-<br/>
-**Google Cloud Skill Boost:** Multiple badges across GCP & Generative AI technologies
+<a href="https://www.credly.com/users/hacrex/">![Kaggle](https://img.shields.io/badge/Kaggle-AI_Agents_Intensive_Course-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![GCP Skill Boost](https://img.shields.io/badge/Google_Cloud-Skill_Boost-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=ff0033)</a>
+<a href="https://www.credly.com/users/hacrex/">![Google AI Leader](https://img.shields.io/badge/Google-AI_Leader_Certificate-0d0d0d?style=for-the-badge&logo=google&logoColor=ff0033)</a>
 
 </div>
 
@@ -183,22 +186,9 @@ Passionate about solving complex infrastructure challenges, enabling engineering
 
 ## GitHub Metrics & Analytics
 
-### GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-<br/>
-
 ### Current Streak
 
 <img src="https://streak-stats.demolab.com/?user=hacrex&theme=radical" alt="GitHub Streak Stats" />
-
-<br/><br/>
-
-### GitHub Rank & Languages
-
-<img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
