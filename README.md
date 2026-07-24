@@ -106,7 +106,7 @@
 **AI & ML**
 <br/>
 
-**🤖 AI Models & Assistants:**
+** AI Models & Assistants **
 <br/>
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
@@ -122,7 +122,7 @@
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-0d0d0d?style=flat-square&logo=google&logoColor=ff0033)
 <br/><br/>
 
-**🛠️ AI Dev Tools & IDEs:**
+** AI Dev Tools & IDEs **
 <br/>
 ![Cursor](https://img.shields.io/badge/Cursor-0d0d0d?style=flat-square&logo=cursor&logoColor=ff0033)
 ![Kiro](https://img.shields.io/badge/Kiro-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
@@ -134,7 +134,7 @@
 ![Qoder](https://img.shields.io/badge/Qoder-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=ff0033)
 <br/><br/>
 
-**☁️ Cloud AI Platforms:**
+** Cloud AI Platforms **
 <br/>
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
 ![Amazon Q](https://img.shields.io/badge/Amazon_Q-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
@@ -145,7 +145,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=chainlink&logoColor=ff0033)
 <br/><br/>
 
-**🏠 Local & Open Source AI:**
+** Local & Open Source AI**
 <br/>
 ![Ollama](https://img.shields.io/badge/Ollama-0d0d0d?style=flat-square&logo=ollama&logoColor=ff0033)
 ![Open WebUI](https://img.shields.io/badge/Open_WebUI-0d0d0d?style=flat-square&logo=htmx&logoColor=ff0033)
