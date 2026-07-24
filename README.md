@@ -146,12 +146,9 @@ Passionate about solving complex infrastructure challenges, enabling engineering
 
 </div>
 
-<details>
-<summary align="center"><h3 style="display: inline;">Security, Cloud & AI Certifications (Click to Expand)</h3></summary>
-
-<br/>
-
 <div align="center">
+
+### Security, Cloud & AI Certifications
 
 <a href="https://www.credly.com/users/hacrex/">![CEH](https://img.shields.io/badge/Certified-Ethical_Hacker_v8-0d0d0d?style=for-the-badge&logo=eccouncil&logoColor=ff0033)</a>
 <a href="https://www.credly.com/users/hacrex/">![RHCSA](https://img.shields.io/badge/Red_Hat-System_Administrator-0d0d0d?style=for-the-badge&logo=redhat&logoColor=ff0033)</a>
@@ -160,40 +157,13 @@ Passionate about solving complex infrastructure challenges, enabling engineering
 
 <br/><br/>
 
-- **Kaggle AI Agents Intensive Course** with Google
-- **Google Cloud Skill Boost:** Multiple badges across GCP & Generative AI technologies
+**Kaggle AI Agents Intensive Course** with Google
+<br/>
+**Google Cloud Skill Boost:** Multiple badges across GCP & Generative AI technologies
 
 </div>
 
-</details>
-
 ---
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CLOUD+INFRASTRUCTURE+COMMAND" alt="CLOUD INFRASTRUCTURE COMMAND" />
-
-</div>
-
-```diff
-! [hacrex@cloud-ops]─[~/infrastructure]
-- $ kubectl get nodes --all-namespaces
-# NAME                STATUS   ROLES    AGE     VERSION
-# master-node-1       Ready    master   365d    v1.28.0
-# worker-node-1       Ready    <none>   365d    v1.28.0
-
-! [hacrex@cloud-ops]─[~/infrastructure]
-- $ terraform plan | grep "Plan:"
-+ Plan: 847 to add, 23 to change, 12 to destroy.
-
-! [hacrex@cloud-ops]─[~/infrastructure]
-- $ echo "MISSION: Architect. Deploy. Scale. Optimize."
-- MISSION: Architect. Deploy. Scale. Optimize.
-```
-
----
-
-<div align="center">
 
 ## Recent Blog Posts
 
