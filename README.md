@@ -138,11 +138,6 @@
 
 ---
 
-<div align="center">
-
-## Certifications & Training
-
-</div>
 
 <div align="center">
 
@@ -160,7 +155,7 @@
 
 ---
 
-## Recent Blog Posts
+## Blog Posts
 
 </div>
 
@@ -176,7 +171,6 @@
 
 <div align="center">
 
-## GitHub Metrics & Analytics
 
 ### Current Streak
 
@@ -184,7 +178,6 @@
 
 <br/><br/>
 
-### Contribution Snake
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake-dark.svg" />
 
