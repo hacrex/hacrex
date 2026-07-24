@@ -148,6 +148,7 @@
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
 ![Amazon Q](https://img.shields.io/badge/Amazon_Q-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
 ![Vertex AI](https://img.shields.io/badge/GCP_Vertex_AI-0d0d0d?style=flat-square&logo=googlecloud&logoColor=ff0033)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-0d0d0d?style=flat-square&logo=google&logoColor=ff0033)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0d0d0d?style=flat-square&logo=microsoftazure&logoColor=ff0033)
 ![Nvidia NIM](https://img.shields.io/badge/Nvidia_NIM-0d0d0d?style=flat-square&logo=nvidia&logoColor=ff0033)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
@@ -173,6 +174,9 @@
 ![n8n](https://img.shields.io/badge/n8n_AI-0d0d0d?style=flat-square&logo=n8n&logoColor=ff0033)
 ![Dify](https://img.shields.io/badge/Dify-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
 ![PrivateGPT](https://img.shields.io/badge/PrivateGPT-0d0d0d?style=flat-square&logo=gnuprivacyguard&logoColor=ff0033)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-0d0d0d?style=flat-square&logo=claws-mail&logoColor=ff0033)
+![Agent Zero](https://img.shields.io/badge/Agent_Zero-0d0d0d?style=flat-square&logo=probot&logoColor=ff0033)
+![AutoClaw](https://img.shields.io/badge/AutoClaw-0d0d0d?style=flat-square&logo=claws-mail&logoColor=ff0033)
 
 </div>
 
