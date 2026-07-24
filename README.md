@@ -33,6 +33,8 @@
 > My core expertise lies in **Linux Administration**, **Cloud Automation**, **Infrastructure Migration**, and **Cloud Security**. I have a proven track record of reducing downtime by **80%** and cutting cloud costs by **40%** through intelligent architecture and automation.
 >
 > Passionate about solving complex infrastructure challenges, enabling engineering teams through automation-first strategies, and actively leveraging modern AI tools & Vibe Coding for next-level productivity.
+>
+> An **AI enthusiast** passionate about **AI infrastructure**, open-source technologies, **Local AI**, and building secure, scalable, cloud-native AI platforms.
 
 <br/>
 
@@ -96,20 +98,69 @@
 
 ## Tech Stack, CI/CD & AI Tooling
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux&perline=11" alt="Cloud & DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux,nginx,grafana&perline=13" alt="Cloud & DevOps" />
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,bash,js,mysql,postgres,mongodb,redis&perline=9" alt="Languages & Databases" />
+<img src="https://skillicons.dev/icons?i=helm,git,github,firebase,vercel,netlify,python,bash,js,mysql,postgres,mongodb,redis&perline=13" alt="Tools, Languages & Databases" />
 <br/><br/>
 
 **AI & Vibe Coding Arsenal:**
 <br/>
+
+**🤖 AI Models & Assistants:**
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
-![Gemini](https://img.shields.io/badge/Google_Gemini-0d0d0d?style=flat-square&logo=google&logoColor=ff0033)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-0d0d0d?style=flat-square&logo=cursor&logoColor=ff0033)
-![Claude AI](https://img.shields.io/badge/Claude_AI-0d0d0d?style=flat-square&logo=anthropic&logoColor=ff0033)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-0d0d0d?style=flat-square&logo=anthropic&logoColor=ff0033)
+![Gemini](https://img.shields.io/badge/Google_Gemini-0d0d0d?style=flat-square&logo=googlegemini&logoColor=ff0033)
+![Grok](https://img.shields.io/badge/Grok_xAI-0d0d0d?style=flat-square&logo=x&logoColor=ff0033)
+![Deepseek](https://img.shields.io/badge/DeepSeek-0d0d0d?style=flat-square&logo=deepseek&logoColor=ff0033)
+![Qwen](https://img.shields.io/badge/Qwen_Alibaba-0d0d0d?style=flat-square&logo=alibabacloud&logoColor=ff0033)
+![GLM](https://img.shields.io/badge/GLM_ChatGLM-0d0d0d?style=flat-square&logo=zhihu&logoColor=ff0033)
+![Kimi](https://img.shields.io/badge/Kimi_Moonshot-0d0d0d?style=flat-square&logo=moonshot&logoColor=ff0033)
+![Perplexity](https://img.shields.io/badge/Perplexity_AI-0d0d0d?style=flat-square&logo=perplexity&logoColor=ff0033)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-0d0d0d?style=flat-square&logo=google&logoColor=ff0033)
+<br/><br/>
+
+**🛠️ AI Dev Tools & IDEs:**
+<br/>
+![Cursor](https://img.shields.io/badge/Cursor-0d0d0d?style=flat-square&logo=cursor&logoColor=ff0033)
+![Kiro](https://img.shields.io/badge/Kiro-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-0d0d0d?style=flat-square&logo=githubcopilot&logoColor=ff0033)
+![Warp](https://img.shields.io/badge/Warp_Terminal-0d0d0d?style=flat-square&logo=warp&logoColor=ff0033)
+![Antigravity](https://img.shields.io/badge/Antigravity-0d0d0d?style=flat-square&logo=rocket&logoColor=ff0033)
+![Bolt](https://img.shields.io/badge/Bolt.new-0d0d0d?style=flat-square&logo=stackblitz&logoColor=ff0033)
+![v0](https://img.shields.io/badge/v0_by_Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=ff0033)
+![Qoder](https://img.shields.io/badge/Qoder-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=ff0033)
+<br/><br/>
+
+**☁️ Cloud AI Platforms:**
+<br/>
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
 ![Vertex AI](https://img.shields.io/badge/GCP_Vertex_AI-0d0d0d?style=flat-square&logo=googlecloud&logoColor=ff0033)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=chainlink&logoColor=ff0033)
+<br/><br/>
+
+**🏠 Local & Open Source AI:**
+<br/>
+![Ollama](https://img.shields.io/badge/Ollama-0d0d0d?style=flat-square&logo=ollama&logoColor=ff0033)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-0d0d0d?style=flat-square&logo=htmx&logoColor=ff0033)
+![LocalAI](https://img.shields.io/badge/LocalAI-0d0d0d?style=flat-square&logo=serverless&logoColor=ff0033)
+![LM Studio](https://img.shields.io/badge/LM_Studio-0d0d0d?style=flat-square&logo=files&logoColor=ff0033)
+![Jan AI](https://img.shields.io/badge/Jan_AI-0d0d0d?style=flat-square&logo=electron&logoColor=ff0033)
+![GPT4All](https://img.shields.io/badge/GPT4All-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
+![Text Generation WebUI](https://img.shields.io/badge/Text_Gen_WebUI-0d0d0d?style=flat-square&logo=gradio&logoColor=ff0033)
+![AnythingLLM](https://img.shields.io/badge/AnythingLLM-0d0d0d?style=flat-square&logo=bookstack&logoColor=ff0033)
+![Msty](https://img.shields.io/badge/Msty-0d0d0d?style=flat-square&logo=probot&logoColor=ff0033)
+![Llama.cpp](https://img.shields.io/badge/Llama.cpp-0d0d0d?style=flat-square&logo=meta&logoColor=ff0033)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0d0d?style=flat-square&logo=huggingface&logoColor=ff0033)
+![vLLM](https://img.shields.io/badge/vLLM-0d0d0d?style=flat-square&logo=speedtest&logoColor=ff0033)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0d0d0d?style=flat-square&logo=lightning&logoColor=ff0033)
+![Flowise](https://img.shields.io/badge/Flowise-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=ff0033)
+![n8n](https://img.shields.io/badge/n8n_AI-0d0d0d?style=flat-square&logo=n8n&logoColor=ff0033)
+![Dify](https://img.shields.io/badge/Dify-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
+![PrivateGPT](https://img.shields.io/badge/PrivateGPT-0d0d0d?style=flat-square&logo=gnuprivacyguard&logoColor=ff0033)
 
 </div>
 
