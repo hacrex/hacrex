@@ -103,7 +103,7 @@
 <img src="https://skillicons.dev/icons?i=helm,git,github,firebase,vercel,netlify,python,bash,js,mysql,postgres,mongodb,redis&perline=13" alt="Tools, Languages & Databases" />
 <br/><br/>
 
-**AI & Vibe Coding Arsenal:**
+**AI & ML**
 <br/>
 
 **🤖 AI Models & Assistants:**
@@ -139,6 +139,9 @@
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
 ![Amazon Q](https://img.shields.io/badge/Amazon_Q-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=ff0033)
 ![Vertex AI](https://img.shields.io/badge/GCP_Vertex_AI-0d0d0d?style=flat-square&logo=googlecloud&logoColor=ff0033)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0d0d0d?style=flat-square&logo=microsoftazure&logoColor=ff0033)
+![Nvidia NIM](https://img.shields.io/badge/Nvidia_NIM-0d0d0d?style=flat-square&logo=nvidia&logoColor=ff0033)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
 ![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=chainlink&logoColor=ff0033)
 <br/><br/>
 
