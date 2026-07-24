@@ -13,30 +13,26 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hacrex&label=Profile+Views&color=ff0033&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hacrex?label=Followers&style=for-the-badge&color=ff0033&labelColor=0d0d0d" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Experience-6%2B_Years-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=kubernetes&logoColor=ff0033" alt="Experience" />
-  <img src="https://img.shields.io/badge/Status-Available-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00C851" alt="Status" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=hacrex&label=Profile+Views&color=ff0033&style=for-the-badge&labelColor=0d0d0d" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/hacrex?label=Followers&style=for-the-badge&color=ff0033&labelColor=0d0d0d" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Experience-6%2B_Years-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=kubernetes&logoColor=ff0033" alt="Experience" />
+<img src="https://img.shields.io/badge/Status-Available-0d0d0d?style=for-the-badge&labelColor=0d0d0d&logo=statuspage&logoColor=00C851" alt="Status" />
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <a href="mailto:kashvit@live.in"><img src="https://img.shields.io/badge/Hire_Me-0d0d0d?style=for-the-badge&logo=handshake&logoColor=ff0033" alt="Hire Me"/></a>
-  <a href="https://opswork.cloud"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=ff0033" alt="Portfolio"/></a>
-  <a href="https://www.credly.com/users/hacrex/"><img src="https://img.shields.io/badge/Verify_Credentials-0d0d0d?style=for-the-badge&logo=credly&logoColor=ff0033" alt="Credly"/></a>
-</div>
+<a href="mailto:kashvit@live.in"><img src="https://img.shields.io/badge/Hire_Me-0d0d0d?style=for-the-badge&logo=handshake&logoColor=ff0033" alt="Hire Me"/></a>
+<a href="https://opswork.cloud"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=firefox&logoColor=ff0033" alt="Portfolio"/></a>
+<a href="https://www.credly.com/users/hacrex/"><img src="https://img.shields.io/badge/Verify_Credentials-0d0d0d?style=for-the-badge&logo=credly&logoColor=ff0033" alt="Credly"/></a>
 
 ---
 
-> ### 👨‍💻 **Hi, I'm Ashvit Khandare**
->
-> Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
->
-> My core expertise lies in **Linux Administration**, **Cloud Automation**, **Infrastructure Migration**, and **Cloud Security**. I have a proven track record of reducing downtime by **80%** and cutting cloud costs by **40%** through intelligent architecture and automation.
->
-> Passionate about solving complex infrastructure challenges, enabling engineering teams through automation-first strategies, and actively leveraging modern AI tools & Vibe Coding for next-level productivity.
+### Hi, I'm Ashvit Khandare
+
+Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
+
+My core expertise lies in **Linux Administration**, **Cloud Automation**, **Infrastructure Migration**, and **Cloud Security**. I have a proven track record of reducing downtime by **80%** and cutting cloud costs by **40%** through intelligent architecture and automation.
+
+Passionate about solving complex infrastructure challenges, enabling engineering teams through automation-first strategies, and actively leveraging modern AI tools & Vibe Coding for next-level productivity.
 
 </div>
 
@@ -44,18 +40,24 @@
 
 ---
 
-## 🔗 Connect With Me
-
 <div align="center">
-  <a href="https://linkedin.com/in/hacrex"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/></a>
-  <a href="https://hackunderroot.blogspot.com"><img src="https://img.shields.io/badge/BLOG-0d0d0d?style=for-the-badge&logo=blogger&logoColor=ff0033" alt="Blog"/></a>
-  <a href="https://github.com/hacrex"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/></a>
-  <a href="https://x.com/hac_rex"><img src="https://img.shields.io/badge/TWITTER-0d0d0d?style=for-the-badge&logo=x&logoColor=ff0033" alt="Twitter"/></a>
+
+## Connect With Me
+
+<a href="https://linkedin.com/in/hacrex"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/></a>
+<a href="https://hackunderroot.blogspot.com"><img src="https://img.shields.io/badge/BLOG-0d0d0d?style=for-the-badge&logo=blogger&logoColor=ff0033" alt="Blog"/></a>
+<a href="https://github.com/hacrex"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/></a>
+<a href="https://x.com/hac_rex"><img src="https://img.shields.io/badge/TWITTER-0d0d0d?style=for-the-badge&logo=x&logoColor=ff0033" alt="Twitter"/></a>
+
 </div>
 
 ---
 
-## 🧭 Experience
+<div align="center">
+
+## Experience
+
+</div>
 
 ```diff
 ! [SYSTEM_LOG]: Accessing Career Records...
@@ -92,16 +94,16 @@
 
 ---
 
-## 💻 Tech Stack, CI/CD & AI Tooling
-
 <div align="center">
+
+## Tech Stack, CI/CD & AI Tooling
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux&perline=11" alt="Cloud & DevOps" />
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,js,mysql,postgres,mongodb,redis&perline=9" alt="Languages & Databases" />
 <br/><br/>
 
-**🤖 AI & Vibe Coding Arsenal:**
+**AI & Vibe Coding Arsenal:**
 <br/>
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0d0d0d?style=flat-square&logo=openai&logoColor=ff0033)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-0d0d0d?style=flat-square&logo=google&logoColor=ff0033)
@@ -117,27 +119,35 @@
 
 ---
 
-## 🗂️ Featured Projects
+<div align="center">
+
+## Featured Projects
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| [🕸️ Netspidey](https://netspidey.vercel.app/) | Network & infrastructure diagnostics — DNS, IP Geo, SSL, email security & CIDR tools. | Next.js, Vercel, DNS APIs | [Live Demo](https://netspidey.vercel.app/) |
-| [🚀 Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana meme tokens. | React, Solana Web3.js | [Live Demo](https://memebyte.netlify.app/) |
-| [🤖 Toolsea AI](https://toolseaai.netlify.app/) | Curated directory of cutting-edge AI tools with performance benchmarks. | React, Netlify | [Live Demo](https://toolseaai.netlify.app/) |
-| [📚 Freestacks](https://freestacks.netlify.app/) | Curated directory of free developer resources for cloud hosting. | React, Netlify | [Live Demo](https://freestacks.netlify.app/) |
-| [☁️ WxLive](https://wxlive.netlify.app/) | Real-time global weather tracking platform. | React, Weather API | [Live Demo](https://wxlive.netlify.app/) |
-| [🔒 Hackunderroot](https://hackunderroot.blogspot.com/) | Cybersecurity & cloud security blog — ethical hacking & architecture. | Blogger, CloudFront | [Read Here](https://hackunderroot.blogspot.com/) |
-| [📈 Market Metrica](https://cmetrica.netlify.app/) | Real-time cryptocurrency price tracker with external API integrations. | React, CoinGecko API | [Live Demo](https://cmetrica.netlify.app/) |
-| [🎵 Star Lyrix](https://starlyrix.vercel.app/) | AI-powered lyric generation app built for creative workflows. | React, OpenAI API | [Live Demo](https://starlyrix.vercel.app/) |
-| [📱 WappReader](https://wappreader.netlify.app/) | Parse and visualize exported WhatsApp chat logs on a clean dashboard. | React, Netlify | [Live Demo](https://wappreader.netlify.app/) |
-| [🏋️ DawnFit App](#) | Cloud-native wellness & productivity app (Azure AKS, Prometheus). | Azure AKS, Docker, Prometheus | `Under Dev` |
+| [Netspidey](https://netspidey.vercel.app/) | Network & infrastructure diagnostics — DNS, IP Geo, SSL, email security & CIDR tools. | Next.js, Vercel, DNS APIs | [Live Demo](https://netspidey.vercel.app/) |
+| [Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana meme tokens. | React, Solana Web3.js | [Live Demo](https://memebyte.netlify.app/) |
+| [Toolsea AI](https://toolseaai.netlify.app/) | Curated directory of cutting-edge AI tools with performance benchmarks. | React, Netlify | [Live Demo](https://toolseaai.netlify.app/) |
+| [Freestacks](https://freestacks.netlify.app/) | Curated directory of free developer resources for cloud hosting. | React, Netlify | [Live Demo](https://freestacks.netlify.app/) |
+| [WxLive](https://wxlive.netlify.app/) | Real-time global weather tracking platform. | React, Weather API | [Live Demo](https://wxlive.netlify.app/) |
+| [Hackunderroot](https://hackunderroot.blogspot.com/) | Cybersecurity & cloud security blog — ethical hacking & architecture. | Blogger, CloudFront | [Read Here](https://hackunderroot.blogspot.com/) |
+| [Market Metrica](https://cmetrica.netlify.app/) | Real-time cryptocurrency price tracker with external API integrations. | React, CoinGecko API | [Live Demo](https://cmetrica.netlify.app/) |
+| [Star Lyrix](https://starlyrix.vercel.app/) | AI-powered lyric generation app built for creative workflows. | React, OpenAI API | [Live Demo](https://starlyrix.vercel.app/) |
+| [WappReader](https://wappreader.netlify.app/) | Parse and visualize exported WhatsApp chat logs on a clean dashboard. | React, Netlify | [Live Demo](https://wappreader.netlify.app/) |
+| [DawnFit App](#) | Cloud-native wellness & productivity app (Azure AKS, Prometheus). | Azure AKS, Docker, Prometheus | `Under Dev` |
+
+</div>
 
 ---
 
-## 🏆 Certifications & Training
+<div align="center">
+
+## Certifications & Training
+
+</div>
 
 <details>
-<summary align="center"><h3 style="display: inline;">🛡️ Security, Cloud & AI Certifications (Click to Expand)</h3></summary>
+<summary align="center"><h3 style="display: inline;">Security, Cloud & AI Certifications (Click to Expand)</h3></summary>
 
 <br/>
 
@@ -148,19 +158,21 @@
 <a href="https://www.credly.com/users/hacrex/">![HyperV](https://img.shields.io/badge/Microsoft-Server_Virtualization-0d0d0d?style=for-the-badge&logo=microsoft&logoColor=ff0033)</a>
 <a href="https://www.credly.com/users/hacrex/">![CISE](https://img.shields.io/badge/Security-Certified_Info_Sec_Expert-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=ff0033)</a>
 
-</div>
-
-<br/>
+<br/><br/>
 
 - **Kaggle AI Agents Intensive Course** with Google
 - **Google Cloud Skill Boost:** Multiple badges across GCP & Generative AI technologies
+
+</div>
 
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CLOUD+INFRASTRUCTURE+COMMAND" alt="CLOUD INFRASTRUCTURE COMMAND" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=10000&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=CLOUD+INFRASTRUCTURE+COMMAND" alt="CLOUD INFRASTRUCTURE COMMAND" />
+
 </div>
 
 ```diff
@@ -181,7 +193,11 @@
 
 ---
 
-## ⚡ Recent Blog Posts
+<div align="center">
+
+## Recent Blog Posts
+
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 - [Virtualization vs Containerization: Understanding the Key Differences](https://hackunderroot.blogspot.com/2014/09/virtualization-vs-containerization.html)
@@ -193,52 +209,32 @@
 
 ---
 
-## 📊 GitHub Metrics & Analytics
-
 <div align="center">
 
-### 🏆 GitHub Trophies
+## GitHub Metrics & Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hacrex&theme=flat&no-frame=true&row=1&column=7&margin-w=15" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</picture>
+### GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=hacrex&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 <br/>
 
-### 🔥 Current Streak
+### Current Streak
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hacrex&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hacrex&theme=default" />
-  <img src="https://streak-stats.demolab.com/?user=hacrex&theme=radical" alt="GitHub Streak Stats" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=hacrex&theme=radical" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-### 📈 GitHub Rank & Languages
+### GitHub Rank & Languages
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=radical&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&langs_count=8&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=hacrex&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacrex&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
-### � Contribution Snake
+### Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hacrex/hacrex/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
