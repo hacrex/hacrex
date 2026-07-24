@@ -26,21 +26,13 @@
 
 ---
 
-<div align="center">
-
 ### Hi, I'm Ashvit Khandare
 
-<table><tr><td>
-
-Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
-
-My core expertise lies in **Linux Administration**, **Cloud Automation**, **Infrastructure Migration**, and **Cloud Security**. I have a proven track record of reducing downtime by **80%** and cutting cloud costs by **40%** through intelligent architecture and automation.
-
-Passionate about solving complex infrastructure challenges, enabling engineering teams through automation-first strategies, and actively leveraging modern AI tools & Vibe Coding for next-level productivity.
-
-</td></tr></table>
-
-</div>
+> Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
+>
+> My core expertise lies in **Linux Administration**, **Cloud Automation**, **Infrastructure Migration**, and **Cloud Security**. I have a proven track record of reducing downtime by **80%** and cutting cloud costs by **40%** through intelligent architecture and automation.
+>
+> Passionate about solving complex infrastructure challenges, enabling engineering teams through automation-first strategies, and actively leveraging modern AI tools & Vibe Coding for next-level productivity.
 
 <br/>
 
