@@ -103,7 +103,7 @@
 <img src="https://skillicons.dev/icons?i=helm,git,github,firebase,vercel,netlify,python,bash,js,cpp,mysql,postgres,mongodb,redis&perline=14" alt="Tools, Languages & Databases" />
 <br/>
 ![Apache](https://img.shields.io/badge/Apache-0d0d0d?style=flat-square&logo=apache&logoColor=ff0033)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d0d0d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3JhY2xlPC90aXRsZT48cGF0aCBkPSJNMTYuMTQyIDMuNTYySDcuODU4YTguNDM4IDguNDM4IDAgMCAwIDAgMTYuODc2aDguMjg0YTguNDM4IDguNDM4IDAgMCAwIDAtMTYuODc2em0tLjIzNCAxMy42NzVINy45OTJhNS4yMzcgNS4yMzcgMCAwIDEgMC0xMC40NzJoNy45MTZhNS4yMzcgNS4yMzcgMCAwIDEgMCAxMC40NzJ6Ii8+PC9zdmc+&logoColor=ff0033)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d0d0d?style=flat-square&logo=oracle&logoColor=ff0033)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-0d0d0d?style=flat-square&logo=alibabacloud&logoColor=ff0033)
 ![Akamai](https://img.shields.io/badge/Akamai-0d0d0d?style=flat-square&logo=akamai&logoColor=ff0033)
 ![AlloyDB](https://img.shields.io/badge/AlloyDB-0d0d0d?style=flat-square&logo=googlecloud&logoColor=ff0033)
