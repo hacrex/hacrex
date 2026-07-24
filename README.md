@@ -83,16 +83,16 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| [🕸️ Netspidey](https://netspidey.vercel.app/) | Network & Infrastructure Diagnostics DNS resolution, IP Geo, SSL inspection, email security policy checks, and CIDR subnet calculations in a high-performance toolbox. | [Live Demo](https://netspidey.vercel.app/) |
-| [🚀 Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana Meme tokens. | [Live Demo](https://memebyte.netlify.app/) |
-| [🤖 Toolsea AI](https://toolseaai.netlify.app/) | A curated list of cutting-edge AI Tools and performance benchmarks. | [Live Demo](https://toolseaai.netlify.app/) |
-| [📚 Freestacks](https://freestacks.netlify.app/) | A beautifully curated directory of free developer resources for cloud hosting. | [Live Demo](https://freestacks.netlify.app/) |
-| [☁️ WxLive](https://wxlive.netlify.app/) | A real-time weather information platform tracking global climate data. | [Live Demo](https://wxlive.netlify.app/) |
-| [🔒 Hackunderroot](https://hackunderroot.blogspot.com/) | A cybersecurity and cloud security blog detailing ethical hacking & architecture. | [Read Here](https://hackunderroot.blogspot.com/) |
-| [📈 Market Metrica](https://cmetrica.netlify.app/) | Real-time Cryptocurrency price tracker with integrated external APIs. | [Live Demo](https://cmetrica.netlify.app/) |
-| [🎵 Star Lyrix](https://starlyrix.netlify.app/) | AI-powered Lyric Generation application built for creative workflows. | [Live Demo](https://starlyrix.netlify.app/) |
-| [📱 WappReader](https://wappreader.netlify.app/) | Read exported WhatsApp Chat logs efficiently over a cleanly parsed dashboard. | [Live Demo](https://wappreader.netlify.app/) |
-| [🏋️ DawnFit App](#) | Cloud-Native wellness and productivity application (Azure AKS, Prometheus). | `Under Dev` |
+| [ Netspidey](https://netspidey.vercel.app/) | Network & Infrastructure Diagnostics DNS resolution, IP Geo, SSL inspection, email security policy checks, and CIDR subnet calculations in a high-performance toolbox. | [Live Demo](https://netspidey.vercel.app/) |
+| [ Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana Meme tokens. | [Live Demo](https://memebyte.netlify.app/) |
+| [ Toolsea AI](https://toolseaai.netlify.app/) | A curated list of cutting-edge AI Tools and performance benchmarks. | [Live Demo](https://toolseaai.netlify.app/) |
+| [ Freestacks](https://freestacks.netlify.app/) | A beautifully curated directory of free developer resources for cloud hosting. | [Live Demo](https://freestacks.netlify.app/) |
+| [ WxLive](https://wxlive.netlify.app/) | A real-time weather information platform tracking global climate data. | [Live Demo](https://wxlive.netlify.app/) |
+| [ Hackunderroot](https://hackunderroot.blogspot.com/) | A cybersecurity and cloud security blog detailing ethical hacking & architecture. | [Read Here](https://hackunderroot.blogspot.com/) |
+| [ Market Metrica](https://cmetrica.netlify.app/) | Real-time Cryptocurrency price tracker with integrated external APIs. | [Live Demo](https://cmetrica.netlify.app/) |
+| [ Star Lyrix](https://starlyrix.vercel.app/) | AI-powered Lyric Generation application built for creative workflows. | [Live Demo](https://starlyrix.vercel.app/) |
+| [ WappReader](https://wappreader.netlify.app/) | Read exported WhatsApp Chat logs efficiently over a cleanly parsed dashboard. | [Live Demo](https://wappreader.netlify.app/) |
+| [ DawnFit App](#) | Cloud-Native wellness and productivity application (Azure AKS, Prometheus). | `Under Dev` |
 
 ---
 
