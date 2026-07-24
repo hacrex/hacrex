@@ -100,14 +100,17 @@
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux,nginx,grafana,openstack&perline=14" alt="Cloud & DevOps" />
 <br/>
-<img src="https://skillicons.dev/icons?i=helm,git,github,firebase,vercel,netlify,python,bash,js,cpp,mysql,postgres,mongodb,redis&perline=14" alt="Tools, Languages & Databases" />
+<img src="https://skillicons.dev/icons?i=supabase,helm,git,github,firebase,vercel,netlify,python,bash,js,cpp,mysql,postgres,mongodb,redis&perline=14" alt="Tools, Languages & Databases" />
+
 <br/>
+
 ![Apache](https://img.shields.io/badge/Apache-0d0d0d?style=flat-square&logo=apache&logoColor=ff0033)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d0d0d?style=flat-square&logo=oracle&logoColor=ff0033)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-0d0d0d?style=flat-square&logo=alibabacloud&logoColor=ff0033)
 ![Akamai](https://img.shields.io/badge/Akamai-0d0d0d?style=flat-square&logo=akamai&logoColor=ff0033)
 ![AlloyDB](https://img.shields.io/badge/AlloyDB-0d0d0d?style=flat-square&logo=googlecloud&logoColor=ff0033)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d0d0d?style=flat-square&logo=databricks&logoColor=ff0033)
+
 <br/><br/>
 
 **AI & ML**
