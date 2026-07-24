@@ -26,7 +26,7 @@
 
 ---
 
-### Hi, I'm Ashvit Khandare
+### Hi, I'm HacRex
 
 > Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
 >
