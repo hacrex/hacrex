@@ -125,7 +125,7 @@
 ![Grok](https://img.shields.io/badge/Grok_xAI-0d0d0d?style=flat-square&logo=x&logoColor=ff0033)
 ![Deepseek](https://img.shields.io/badge/DeepSeek-0d0d0d?style=flat-square&logo=deepseek&logoColor=ff0033)
 ![Qwen](https://img.shields.io/badge/Qwen_Alibaba-0d0d0d?style=flat-square&logo=alibabacloud&logoColor=ff0033)
-![GLM](https://img.shields.io/badge/GLM_ChatGLM-0d0d0d?style=flat-square&logo=zhihu&logoColor=ff0033)
+![GLM](https://img.shields.io/badge/GLM_Z.AI-0d0d0d?style=flat-square&logo=zhihu&logoColor=ff0033)
 ![Kimi](https://img.shields.io/badge/Kimi_Moonshot-0d0d0d?style=flat-square&logo=moonshot&logoColor=ff0033)
 ![Perplexity](https://img.shields.io/badge/Perplexity_AI-0d0d0d?style=flat-square&logo=perplexity&logoColor=ff0033)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-0d0d0d?style=flat-square&logo=google&logoColor=ff0033)
@@ -177,6 +177,7 @@
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-0d0d0d?style=flat-square&logo=claws-mail&logoColor=ff0033)
 ![Agent Zero](https://img.shields.io/badge/Agent_Zero-0d0d0d?style=flat-square&logo=probot&logoColor=ff0033)
 ![AutoClaw](https://img.shields.io/badge/AutoClaw-0d0d0d?style=flat-square&logo=claws-mail&logoColor=ff0033)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-0d0d0d?style=flat-square&logo=hermez&logoColor=ff0033)
 
 </div>
 
