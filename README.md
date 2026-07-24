@@ -100,7 +100,7 @@
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux,nginx,grafana,openstack&perline=14" alt="Cloud & DevOps" />
 <br/>
-<img src="https://skillicons.dev/icons?i=supabase,helm,git,github,firebase,vercel,netlify,python,bash,js,cpp,mysql,postgres,mongodb,redis&perline=14" alt="Tools, Languages & Databases" />
+<img src="https://skillicons.dev/icons?i=supabase,git,github,firebase,vercel,netlify,python,bash,js,cpp,mysql,postgres,mongodb,redis&perline=14" alt="Tools, Languages & Databases" />
 
 <br/>
 
@@ -110,8 +110,7 @@
 ![Akamai](https://img.shields.io/badge/Akamai-0d0d0d?style=flat-square&logo=akamai&logoColor=ff0033)
 ![AlloyDB](https://img.shields.io/badge/AlloyDB-0d0d0d?style=flat-square&logo=googlecloud&logoColor=ff0033)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d0d0d?style=flat-square&logo=databricks&logoColor=ff0033)
-
-<br/><br/>
+<br/>
 
 **AI & ML**
 <br/>
