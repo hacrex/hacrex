@@ -9,7 +9,7 @@
  ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=900&height=50&lines=SENIOR+CLOUD+%26+DEVOPS+ENGINEER+%7C+6%2B+YEARS;AWS+%7C+GCP+%7C+AZURE+MULTI-CLOUD+ARCHITECT;DOCKER+%7C+TERRAFORM+%7C+CI%2FCD+AUTOMATION;AI-DRIVEN+CLOUD+OPTIMIZATION+%26+VIBE+CODING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=900&height=50&lines=SENIOR+CLOUD+PLATFORM+DEVOPS+ENGINEER+%7C+6%2B+YEARS;AWS+%7C+GCP+%7C+AZURE+MULTI-CLOUD+ARCHITECT;DOCKER+%7C+TERRAFORM+%7C+CI%2FCD+AUTOMATION;AI-DRIVEN+CLOUD+OPTIMIZATION+%26+VIBE+CODING" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 > ### 👨‍💻 **Hi, I'm Ashvit  Khandare** 
 >
-> Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
+> Results-driven **Cloud Platform DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
 > 
 > My core expertise lies in **Linux Administration**, **Cloud Automation**, **Infrastructure Migration**, and **Cloud Security**. I have a proven track record of reducing downtime by **80%** and cutting cloud costs by **40%** through intelligent architecture and automation.
 > 
@@ -45,11 +45,10 @@
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/kashvit9"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/hacrex"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff0033" alt="LinkedIn"/></a>
   <a href="https://hackunderroot.blogspot.com"><img src="https://img.shields.io/badge/BLOG-0d0d0d?style=for-the-badge&logo=blogger&logoColor=ff0033" alt="Blog"/></a>
   <a href="https://github.com/hacrex"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=ff0033" alt="GitHub"/></a>
-  <a href="https://twitter.com/hacrex"><img src="https://img.shields.io/badge/TWITTER-0d0d0d?style=for-the-badge&logo=x&logoColor=ff0033" alt="Twitter"/></a>
-  <a href="https://instagram.com/hacrex"><img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=ff0033" alt="Instagram"/></a>
+  <a href="https://x.com/hac_rex"><img src="https://img.shields.io/badge/TWITTER-0d0d0d?style=for-the-badge&logo=x&logoColor=ff0033" alt="Twitter"/></a>
 </div>
 
 ---
@@ -84,16 +83,16 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| [ OpsWork](https://opswork.netlify.app/) | Comprehensive resource for DevOps, SRE, and cloud expertise. | [Live Demo](https://opswork.netlify.app/) |
-| [ Toolsea AI](https://toolseaai.netlify.app/) | A curated list of cutting-edge AI Tools and performance benchmarks. | [Live Demo](https://toolseaai.netlify.app/) |
-| [ Market Metrica](https://cmetrica.netlify.app/) | Real-time Cryptocurrency price tracker with integrated external APIs. | [Live Demo](https://cmetrica.netlify.app/) |
-| [ Freestacks](https://freestacks.netlify.app/) | A beautifully curated directory of free developer resources for cloud hosting. | [Live Demo](https://freestacks.netlify.app/) |
-| [ WxLive](https://wxlive.netlify.app/) | A real-time weather information platform tracking global climate data. | [Live Demo](https://wxlive.netlify.app/) |
-| [ Hackunderroot](https://hackunderroot.blogspot.com/) | A cybersecurity and cloud security blog detailing ethical hacking & architecture. | [Read Here](https://hackunderroot.blogspot.com/) |
-| [ Star Lyrix](https://starlyrix.vercel.app/) | AI-powered Lyric Generation application built for creative workflows. | [Live Demo](https://starlyrix.vercel.app/) |
-| [ WappReader](https://wappreader.netlify.app/) | Read exported WhatsApp Chat logs efficiently over a cleanly parsed dashboard. | [Live Demo](https://wappreader.netlify.app/) |
-| [ Memebyte](https://memebyte.fun/) | Zero-coding platform for launching Solana Meme tokens. | [Live Demo](https://memebyte.fun/) |
-| [ DawnFit App](#) | Cloud-Native wellness and productivity application (Azure AKS, Prometheus). | `Under Dev` |
+| [🕸️ Netspidey](https://netspidey.vercel.app/) | Network & Infrastructure Diagnostics DNS resolution, IP Geo, SSL inspection, email security policy checks, and CIDR subnet calculations in a high-performance toolbox. | [Live Demo](https://netspidey.vercel.app/) |
+| [🚀 Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana Meme tokens. | [Live Demo](https://memebyte.netlify.app/) |
+| [🤖 Toolsea AI](https://toolseaai.netlify.app/) | A curated list of cutting-edge AI Tools and performance benchmarks. | [Live Demo](https://toolseaai.netlify.app/) |
+| [📚 Freestacks](https://freestacks.netlify.app/) | A beautifully curated directory of free developer resources for cloud hosting. | [Live Demo](https://freestacks.netlify.app/) |
+| [☁️ WxLive](https://wxlive.netlify.app/) | A real-time weather information platform tracking global climate data. | [Live Demo](https://wxlive.netlify.app/) |
+| [🔒 Hackunderroot](https://hackunderroot.blogspot.com/) | A cybersecurity and cloud security blog detailing ethical hacking & architecture. | [Read Here](https://hackunderroot.blogspot.com/) |
+| [📈 Market Metrica](https://cmetrica.netlify.app/) | Real-time Cryptocurrency price tracker with integrated external APIs. | [Live Demo](https://cmetrica.netlify.app/) |
+| [🎵 Star Lyrix](https://starlyrix.netlify.app/) | AI-powered Lyric Generation application built for creative workflows. | [Live Demo](https://starlyrix.netlify.app/) |
+| [📱 WappReader](https://wappreader.netlify.app/) | Read exported WhatsApp Chat logs efficiently over a cleanly parsed dashboard. | [Live Demo](https://wappreader.netlify.app/) |
+| [🏋️ DawnFit App](#) | Cloud-Native wellness and productivity application (Azure AKS, Prometheus). | `Under Dev` |
 
 ---
 
