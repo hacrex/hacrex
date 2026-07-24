@@ -9,7 +9,7 @@
  ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝     ╚═════╝ ╚══════╝  ╚═══╝   ╚═════╝ ╚═╝     ╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=900&height=50&lines=SENIOR+CLOUD+PLATFORM+DEVOPS+ENGINEER+%7C+6%2B+YEARS;AWS+%7C+GCP+%7C+AZURE+MULTI-CLOUD+ARCHITECT;DOCKER+%7C+TERRAFORM+%7C+CI%2FCD+AUTOMATION;AI-DRIVEN+CLOUD+OPTIMIZATION+%26+VIBE+CODING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0033&background=0D0D0D00&center=true&vCenter=true&width=900&height=50&lines=SENIOR+CLOUD+%26+DEVOPS+ENGINEER+%7C+6%2B+YEARS;AWS+%7C+GCP+%7C+AZURE+MULTI-CLOUD+ARCHITECT;DOCKER+%7C+TERRAFORM+%7C+CI%2FCD+AUTOMATION;AI-DRIVEN+CLOUD+OPTIMIZATION+%26+VIBE+CODING" alt="Typing SVG" />
 
 <br/>
 
@@ -30,17 +30,19 @@
 
 ---
 
-> ### 👨‍💻 **Hi, I'm Ashvit  Khandare** 
+> ### 👨‍💻 **Hi, I'm Ashvit Khandare**
 >
-> Results-driven **Cloud Platform DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
-> 
+> Results-driven **Cloud & DevOps Engineer** with 6+ years of experience designing, automating, and optimizing cloud infrastructure across AWS, GCP & Azure.
+>
 > My core expertise lies in **Linux Administration**, **Cloud Automation**, **Infrastructure Migration**, and **Cloud Security**. I have a proven track record of reducing downtime by **80%** and cutting cloud costs by **40%** through intelligent architecture and automation.
-> 
+>
 > Passionate about solving complex infrastructure challenges, enabling engineering teams through automation-first strategies, and actively leveraging modern AI tools & Vibe Coding for next-level productivity.
 
 </div>
 
 <br/>
+
+---
 
 ## 🔗 Connect With Me
 
@@ -53,6 +55,43 @@
 
 ---
 
+## 🧭 Experience
+
+```diff
+! [SYSTEM_LOG]: Accessing Career Records...
+
++ [2019 – 2025]  Cloud & DevOps Engineer @ Anaxee Digital Runners Pvt. Ltd., Indore
+# STACK: AWS · GCP · Azure · Kubernetes · Terraform · BigQuery · CapRover · Dockploy
+- ✦ Led end-to-end on-prem to cloud & cloud-to-cloud migrations, reducing downtime by 60%
+- ✦ Modernized monolithic systems to containerized deployments via CapRover & Dockploy
+- ✦ Migrated analytics workloads to BigQuery & Cloud SQL — improved reporting speed by 45%
+- ✦ Delivered zero-downtime CRM migration to GCP then Azure, boosting performance by 30%
+- ✦ Reduced Azure + GCP cloud costs by 30% through autoscaling & resource right-sizing
+- ✦ Managed DNS, domains & SSL certificates ensuring uninterrupted service delivery
+- ✦ Maintained object storage (S3/GCS) with automated retention & compliance policies
+- ✦ Trained and onboarded new DevOps & Cloud interns on tools, workflows & best practices
+
++ [2019 – 2025]  IT Support & Security Executive @ Anaxee Digital Runners Pvt. Ltd., Indore
+# STACK: SugarCRM · Firewall · Network Security · Windows/Linux Administration
+- ✦ Streamlined IT support delivery and resolution processes across the organization
+- ✦ Designed and installed handheld units, network equipment & security infrastructure
+- ✦ Maintained firewall configurations, user permissions & network security systems
+
++ [2016 – 2018]  IT Support Executive @ Micron Systems Pvt. Ltd., Buldhana
+# STACK: Networking · Windows Server · Routers · Firewalls · Desktop Support
+- ✦ Provided desktop & technical support across hardware, software & networking
+- ✦ Configured routers, firewalls, printers & OS installations for enterprise environments
+
++ [FREELANCE]  Cloud & Web Solutions Engineer @ Independent
+# STACK: GCP · AWS · WordPress · Google Workspace · Microsoft 365 · Zoho · Firebase
+- ✦ Delivered web development, WordPress setup & technical writing for multiple clients
+- ✦ Handled email migrations across Google Workspace, Outlook & Zoho with DNS management
+- ✦ Deployed web/app hosting servers and supported Google Play Store release workflows
+- ✦ Resolved Firebase Studio, Airtable & backend integration issues for client projects
+```
+
+---
+
 ## 💻 Tech Stack, CI/CD & AI Tooling
 
 <div align="center">
@@ -60,8 +99,7 @@
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,gitlab,githubactions,linux&perline=11" alt="Cloud & DevOps" />
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,bash,js,mysql,postgres,mongodb,redis&perline=9" alt="Languages & Databases" />
-<br/>
-<br/>
+<br/><br/>
 
 **🤖 AI & Vibe Coding Arsenal:**
 <br/>
@@ -81,18 +119,18 @@
 
 ## 🗂️ Featured Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| [ Netspidey](https://netspidey.vercel.app/) | Network & Infrastructure Diagnostics DNS resolution, IP Geo, SSL inspection, email security policy checks, and CIDR subnet calculations in a high-performance toolbox. | [Live Demo](https://netspidey.vercel.app/) |
-| [ Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana Meme tokens. | [Live Demo](https://memebyte.netlify.app/) |
-| [ Toolsea AI](https://toolseaai.netlify.app/) | A curated list of cutting-edge AI Tools and performance benchmarks. | [Live Demo](https://toolseaai.netlify.app/) |
-| [ Freestacks](https://freestacks.netlify.app/) | A beautifully curated directory of free developer resources for cloud hosting. | [Live Demo](https://freestacks.netlify.app/) |
-| [ WxLive](https://wxlive.netlify.app/) | A real-time weather information platform tracking global climate data. | [Live Demo](https://wxlive.netlify.app/) |
-| [ Hackunderroot](https://hackunderroot.blogspot.com/) | A cybersecurity and cloud security blog detailing ethical hacking & architecture. | [Read Here](https://hackunderroot.blogspot.com/) |
-| [ Market Metrica](https://cmetrica.netlify.app/) | Real-time Cryptocurrency price tracker with integrated external APIs. | [Live Demo](https://cmetrica.netlify.app/) |
-| [ Star Lyrix](https://starlyrix.vercel.app/) | AI-powered Lyric Generation application built for creative workflows. | [Live Demo](https://starlyrix.vercel.app/) |
-| [ WappReader](https://wappreader.netlify.app/) | Read exported WhatsApp Chat logs efficiently over a cleanly parsed dashboard. | [Live Demo](https://wappreader.netlify.app/) |
-| [ DawnFit App](#) | Cloud-Native wellness and productivity application (Azure AKS, Prometheus). | `Under Dev` |
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| [🕸️ Netspidey](https://netspidey.vercel.app/) | Network & infrastructure diagnostics — DNS, IP Geo, SSL, email security & CIDR tools. | Next.js, Vercel, DNS APIs | [Live Demo](https://netspidey.vercel.app/) |
+| [🚀 Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana meme tokens. | React, Solana Web3.js | [Live Demo](https://memebyte.netlify.app/) |
+| [🤖 Toolsea AI](https://toolseaai.netlify.app/) | Curated directory of cutting-edge AI tools with performance benchmarks. | React, Netlify | [Live Demo](https://toolseaai.netlify.app/) |
+| [📚 Freestacks](https://freestacks.netlify.app/) | Curated directory of free developer resources for cloud hosting. | React, Netlify | [Live Demo](https://freestacks.netlify.app/) |
+| [☁️ WxLive](https://wxlive.netlify.app/) | Real-time global weather tracking platform. | React, Weather API | [Live Demo](https://wxlive.netlify.app/) |
+| [🔒 Hackunderroot](https://hackunderroot.blogspot.com/) | Cybersecurity & cloud security blog — ethical hacking & architecture. | Blogger, CloudFront | [Read Here](https://hackunderroot.blogspot.com/) |
+| [📈 Market Metrica](https://cmetrica.netlify.app/) | Real-time cryptocurrency price tracker with external API integrations. | React, CoinGecko API | [Live Demo](https://cmetrica.netlify.app/) |
+| [🎵 Star Lyrix](https://starlyrix.vercel.app/) | AI-powered lyric generation app built for creative workflows. | React, OpenAI API | [Live Demo](https://starlyrix.vercel.app/) |
+| [📱 WappReader](https://wappreader.netlify.app/) | Parse and visualize exported WhatsApp chat logs on a clean dashboard. | React, Netlify | [Live Demo](https://wappreader.netlify.app/) |
+| [🏋️ DawnFit App](#) | Cloud-native wellness & productivity app (Azure AKS, Prometheus). | Azure AKS, Docker, Prometheus | `Under Dev` |
 
 ---
 
@@ -112,8 +150,10 @@
 
 </div>
 
+<br/>
+
 - **Kaggle AI Agents Intensive Course** with Google
-- **Google Cloud Skill Boost:** Multiple badges demonstrating proficiency in various GCP & Gen AI technologies
+- **Google Cloud Skill Boost:** Multiple badges across GCP & Generative AI technologies
 
 </details>
 
@@ -130,7 +170,7 @@
 # master-node-1       Ready    master   365d    v1.28.0
 # worker-node-1       Ready    <none>   365d    v1.28.0
 
-! [hacrex@cloud-ops]─[~/infrastructure]  
+! [hacrex@cloud-ops]─[~/infrastructure]
 - $ terraform plan | grep "Plan:"
 + Plan: 847 to add, 23 to change, 12 to destroy.
 
@@ -192,6 +232,16 @@
 
 <br/><br/>
 
+### 📅 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hacrex&bg_color=0d0d0d&color=ff0033&line=ff0033&point=ffffff&area=true&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hacrex&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hacrex&bg_color=0d0d0d&color=ff0033&line=ff0033&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</picture>
+
+<br/><br/>
+
 ### 🐍 Contribution Graph
 
 <picture>
@@ -205,5 +255,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=80&section=footer&text=&fontSize=0&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" style="width:100%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&text=&fontSize=0&animation=fadeIn" style="width:100%;" />
 </div>
