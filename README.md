@@ -187,6 +187,18 @@
 
 <div align="center">
 
+## Cloud & DevOps Projects
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| [OpsSentinel](https://github.com/hacrex/OpsSentinel) | Lightweight, GitHub-native CI/CD observability platform for real-time failure insights and centralized pipeline visibility. | GitHub Actions, Python, API | [Source Code](https://github.com/hacrex/OpsSentinel) |
+| [DevOps-Projects-Master-K8s](https://github.com/hacrex/DevOps-Projects-Master-K8s) | Production-grade K8s path: multi-tier app deployment, GitOps (ArgoCD), CI/CD (Jenkins), AIOps (K8sGPT), and Observability. | Kubernetes, ArgoCD, Jenkins, Prometheus | [Source Code](https://github.com/hacrex/DevOps-Projects-Master-K8s) |
+| [Autonomous-Zero-Trust-Cloud-Platform](https://github.com/hacrex/Autonomous-Zero-Trust-Cloud-Platform) | Autonomous Zero-Trust Cloud Platform featuring GitOps, AI-driven self-healing, and FinOps for advanced DevOps scenarios. | Terraform, AWS/Azure, AI Agents, FinOps | [Source Code](https://github.com/hacrex/Autonomous-Zero-Trust-Cloud-Platform) |
+| [devops-ai-engineer-roadmap](https://github.com/hacrex/devops-ai-engineer-roadmap) | Comprehensive AI Infrastructure & DevOps roadmap covering Kubernetes, RAG, AI Observability, and AI platform engineering. | Kubernetes, RAG, AI Observability, Local LLMs | [Source Code](https://github.com/hacrex/devops-ai-engineer-roadmap) |
+| [the-vibe-coding-handbook](https://github.com/hacrex/the-vibe-coding-handbook) | Zero-to-Hero Guide for AI-Native Software Engineering, Vibe Coding, and modern Cloud/DevOps deployment strategies. | AI-Assisted Dev, DevOps, Cloud, Hosting | [Source Code](https://github.com/hacrex/the-vibe-coding-handbook) |
+
+---
+
 ## Featured Projects
 
 | Project | Description | Stack | Link |
