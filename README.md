@@ -191,6 +191,7 @@
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| [TraceWolf](https://github.com/hacrex/TraceWolf_OSINT) | AI-assisted OSINT platform for unified search, entity correlation, and investigation management. | React, FastAPI, Supabase, Neo4j | [Source Code](https://github.com/hacrex/TraceWolf_OSINT) |
 | [Netspidey](https://netspidey.vercel.app/) | Network & infrastructure diagnostics — DNS, IP Geo, SSL, email security & CIDR tools. | Next.js, Vercel, DNS APIs | [Live Demo](https://netspidey.vercel.app/) |
 | [Memebyte](https://memebyte.netlify.app/) | Zero-coding platform for launching Solana meme tokens. | React, Solana Web3.js | [Live Demo](https://memebyte.netlify.app/) |
 | [Toolsea AI](https://toolseaai.netlify.app/) | Curated directory of cutting-edge AI tools with performance benchmarks. | React, Netlify | [Live Demo](https://toolseaai.netlify.app/) |
