@@ -191,6 +191,7 @@
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| [OpsSentinel](opssentinel.vercel.app) | The open-source GitOps control plane for cloud, infrastructure, application delivery, and operational reliability. And a lightweight observability platform for real-time failure insights and centralized pipeline visibility. | Gitops, ANsible, Opentofu | [Source Code](https://github.com/hacrex/OpsSentinel) |
 | [Unified-Observability-Stack](https://github.com/hacrex/Unified-Observability-Stack) | Comprehensive monitoring project integrating Grafana, Datadog, ELK, Netdata, SigNoz, Splunk, and New Relic. | Grafana, ELK, Datadog, SigNoz | [Source Code](https://github.com/hacrex/Unified-Observability-Stack) |
 | [Multi-Cloud-Nexus-Governance](https://github.com/hacrex/Multi-Cloud-Nexus-Governance) | Enterprise Multi-Cloud Landing Zone & Governance Framework for AWS, GCP, Azure, and Oracle Cloud (OCI) using Terraform. | AWS, GCP, Azure, OCI, Terraform | [Source Code](https://github.com/hacrex/Multi-Cloud-Nexus-Governance) |
 | [Secure-OTT-Streaming-Platform](https://github.com/hacrex/Secure-OTT-Streaming-Platform) | Enterprise-grade Netflix/Hotstar clone deployed via automated DevSecOps pipeline with Terraform, AWS EKS, Jenkins, Trivy, and ArgoCD. | Terraform, AWS EKS, Jenkins, ArgoCD, Trivy | [Source Code](https://github.com/hacrex/Secure-OTT-Streaming-Platform) |
