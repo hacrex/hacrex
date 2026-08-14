@@ -244,6 +244,7 @@
 | [Star Lyrix](https://starlyrix.vercel.app/) | AI-powered lyric generation app built for creative workflows. | React, OpenAI API | [Live Demo](https://starlyrix.vercel.app/) |
 | [WappReader](https://wappreader.netlify.app/) | Parse and visualize exported WhatsApp chat logs on a clean dashboard. | React, Netlify | [Live Demo](https://wappreader.netlify.app/) |
 | [DawnFit App](#) | Cloud-native wellness & productivity app (Azure AKS, Prometheus). | Azure AKS, Docker, Prometheus | `Under Dev` |
+| [Revia](https://github.com/hacrex/Revia) | Rehabilitation and wellbeing platform; currently a product-definition and architecture repository for a mobile-first recovery experience. | Flutter, Firebase, Next.js | [Source Code](https://github.com/hacrex/Revia) |
 
 </div>
 
