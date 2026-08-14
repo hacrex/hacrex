@@ -274,19 +274,7 @@
 
 ---
 
-## Blog Posts
 
-</div>
-
-<!-- BLOG-POST-LIST:START -->
-- [Virtualization vs Containerization: Understanding the Key Differences](https://hackunderroot.blogspot.com/2014/09/virtualization-vs-containerization.html)
-- [Containerization: Revolutionizing the Way Applications are Deployed and Managed](https://hackunderroot.blogspot.com/2014/09/containerization-revolutionizing-way.html)
-- [Virtualization 2.0: The Future of IT Infrastructure](https://hackunderroot.blogspot.com/2013/05/virtualization-20-future-of-it.html)
-- [V12N in Detail....](https://hackunderroot.blogspot.com/2014/01/v12n-in-detail.html)
-- [Virtualization](https://hackunderroot.blogspot.com/2014/01/virtualization.html)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
 
