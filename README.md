@@ -197,6 +197,13 @@
 | [Multi-Cloud-DR-Orchestrator](https://github.com/hacrex/Multi-Cloud-DR-Orchestrator) | Automated multi-cloud disaster recovery and failover orchestrator ensuring zero-downtime business continuity across AWS and Azure. | Terraform, AWS, Azure, Ansible, Python | [Source Code](https://github.com/hacrex/Multi-Cloud-DR-Orchestrator) |
 | [Autonomous-Zero-Trust-Cloud-Platform](https://github.com/hacrex/Autonomous-Zero-Trust-Cloud-Platform) | Autonomous Zero-Trust Cloud Platform featuring GitOps, AI-driven self-healing, and FinOps for advanced DevOps scenarios. | Terraform, AWS/Azure, AI Agents, FinOps | [Source Code](https://github.com/hacrex/Autonomous-Zero-Trust-Cloud-Platform) |
 
+### FinOps & Cost Optimization
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| [AI-FinOps-PlayBook](https://github.com/hacrex/AI-FinOps-PlayBook) | AI-driven FinOps playbook for cloud cost visibility, governance, and optimization. | AI, FinOps, Cloud Cost Management | [Source Code](https://github.com/hacrex/AI-FinOps-PlayBook) |
+| [Cloud-Finops-Playbook](https://github.com/hacrex/Cloud-Finops-Playbook) | A practical FinOps guide covering cost visibility, tagging strategies, and optimization for compute, storage, and AI workloads. | FinOps, Cloud Cost Management, Compute, Storage, AI | [Source Code](https://github.com/hacrex/Cloud-Finops-Playbook) |
+
 ### Platform Engineering, Kubernetes & Delivery
 
 | Project | Description | Stack | Link |
