@@ -189,22 +189,26 @@
 
 ## Cloud & DevOps Projects
 
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| [OpsSentinel](opssentinel.vercel.app) | The open-source GitOps control plane for cloud, infrastructure, application delivery, and operational reliability. And a lightweight observability platform for real-time failure insights and centralized pipeline visibility. | Git, Ansible, Opentofu, Terraform | [Source Code](https://github.com/hacrex/OpsSentinel) |
-| [Unified-Observability-Stack](https://github.com/hacrex/Unified-Observability-Stack) | Comprehensive monitoring project integrating Grafana, Datadog, ELK, Netdata, SigNoz, Splunk, and New Relic. | Grafana, ELK, Datadog, SigNoz | [Source Code](https://github.com/hacrex/Unified-Observability-Stack) |
-| [Multi-Cloud-Nexus-Governance](https://github.com/hacrex/Multi-Cloud-Nexus-Governance) | Enterprise Multi-Cloud Landing Zone & Governance Framework for AWS, GCP, Azure, and Oracle Cloud (OCI) using Terraform. | AWS, GCP, Azure, OCI, Terraform | [Source Code](https://github.com/hacrex/Multi-Cloud-Nexus-Governance) |
-| [Secure-OTT-Streaming-Platform](https://github.com/hacrex/Secure-OTT-Streaming-Platform) | Enterprise-grade Netflix/Hotstar clone deployed via automated DevSecOps pipeline with Terraform, AWS EKS, Jenkins, Trivy, and ArgoCD. | Terraform, AWS EKS, Jenkins, ArgoCD, Trivy | [Source Code](https://github.com/hacrex/Secure-OTT-Streaming-Platform) |
-| [Cloud-Native-Microservices-Boutique](https://github.com/hacrex/Cloud-Native-Microservices-Boutique) | 10-tier microservices e-commerce application (Google Online Boutique clone) showcasing gRPC, Istio Service Mesh, and OpenTelemetry. | Kubernetes, Istio, gRPC, Prometheus, Helm | [Source Code](https://github.com/hacrex/Cloud-Native-Microservices-Boutique) |
-| [AI-Infra-Ollama-K8s](https://github.com/hacrex/AI-Infra-Ollama-K8s) | Production-ready AI infrastructure for hosting local LLMs (Ollama) and vector databases on Kubernetes with vCluster and RAG. | Kubernetes, vCluster, Ollama, Open WebUI | [Source Code](https://github.com/hacrex/AI-Infra-Ollama-K8s) |
-| [Multi-Cloud-DR-Orchestrator](https://github.com/hacrex/Multi-Cloud-DR-Orchestrator) | Automated multi-cloud disaster recovery and failover orchestrator ensuring zero-downtime business continuity across AWS and Azure. | Terraform, AWS, Azure, Ansible, Python | [Source Code](https://github.com/hacrex/Multi-Cloud-DR-Orchestrator) |
-| [Serverless-RealTime-Data-Ops](https://github.com/hacrex/Serverless-RealTime-Data-Ops) | Real-time serverless data operations pipeline using AWS Lambda, Kinesis, Glue, and automated CI/CD deployment. | AWS Lambda, Kinesis, Python, Terraform | [Source Code](https://github.com/hacrex/Serverless-RealTime-Data-Ops) |
-| [Internal-Developer-Platform-IDP](https://github.com/hacrex/Internal-Developer-Platform-IDP) | Self-service Internal Developer Platform (IDP) built with Backstage and Terraform for streamlined microservices onboarding. | Backstage, Terraform, Kubernetes, Helm | [Source Code](https://github.com/hacrex/Internal-Developer-Platform-IDP) |
-| [OpsSentinel](https://github.com/hacrex/OpsSentinel) | Lightweight, GitHub-native CI/CD observability platform for real-time failure insights and centralized pipeline visibility. | GitHub Actions, Python, API | [Source Code](https://github.com/hacrex/OpsSentinel) |
-| [DevOps-Projects-Master-K8s](https://github.com/hacrex/DevOps-Projects-Master-K8s) | Production-grade K8s path: multi-tier app deployment, GitOps (ArgoCD), CI/CD (Jenkins), AIOps (K8sGPT), and Observability. | Kubernetes, ArgoCD, Jenkins, Prometheus | [Source Code](https://github.com/hacrex/DevOps-Projects-Master-K8s) |
-| [Autonomous-Zero-Trust-Cloud-Platform](https://github.com/hacrex/Autonomous-Zero-Trust-Cloud-Platform) | Autonomous Zero-Trust Cloud Platform featuring GitOps, AI-driven self-healing, and FinOps for advanced DevOps scenarios. | Terraform, AWS/Azure, AI Agents, FinOps | [Source Code](https://github.com/hacrex/Autonomous-Zero-Trust-Cloud-Platform) |
-| [devops-ai-engineer-roadmap](https://github.com/hacrex/devops-ai-engineer-roadmap) | Comprehensive AI Infrastructure & DevOps roadmap covering Kubernetes, RAG, AI Observability, and AI platform engineering. | Kubernetes, RAG, AI Observability, Local LLMs | [Source Code](https://github.com/hacrex/devops-ai-engineer-roadmap) |
-| [the-vibe-coding-handbook](https://github.com/hacrex/the-vibe-coding-handbook) | Zero-to-Hero Guide for AI-Native Software Engineering, Vibe Coding, and modern Cloud/DevOps deployment strategies. | AI-Assisted Dev, DevOps, Cloud, Hosting | [Source Code](https://github.com/hacrex/the-vibe-coding-handbook) |
+### Flagship Projects
+
+> These are the repositories I use to demonstrate delivery, observability, and infrastructure-governance work. Each includes practical validation or review notes rather than untested production claims.
+
+| Project | What it demonstrates | Stack | Link |
+|---------|----------------------|-------|------|
+| **[Unified-Observability-Stack](https://github.com/hacrex/Unified-Observability-Stack)** | Local observability lab with an instrumented Flask service, Prometheus metrics, OTLP traces to Jaeger, and Grafana. | Flask, Prometheus, OpenTelemetry, Jaeger, Grafana | [Repository](https://github.com/hacrex/Unified-Observability-Stack) |
+| **[Secure-OTT-Streaming-Platform](https://github.com/hacrex/Secure-OTT-Streaming-Platform)** | DevSecOps delivery path: web build, container scan, Kubernetes deployment, and an in-cluster smoke test. | Terraform, Kubernetes, Jenkins, Trivy | [Repository](https://github.com/hacrex/Secure-OTT-Streaming-Platform) |
+| **[Multi-Cloud-Nexus-Governance](https://github.com/hacrex/Multi-Cloud-Nexus-Governance)** | Terraform reference for AWS, GCP, Azure, and OCI network foundations with governance validation scripts. | Terraform, AWS, GCP, Azure, OCI | [Repository](https://github.com/hacrex/Multi-Cloud-Nexus-Governance) |
+
+### Supporting Cloud & Platform Work
+
+| Project | Focus | Stack | Link |
+|---------|-------|-------|------|
+| [OpsSentinel](https://github.com/hacrex/OpsSentinel) | Operational observability and GitOps reference project. | Git, Ansible, OpenTofu, Terraform | [Repository](https://github.com/hacrex/OpsSentinel) |
+| [Cloud-Native-Microservices-Boutique](https://github.com/hacrex/Cloud-Native-Microservices-Boutique) | Kubernetes deployment work built around an upstream microservices-demo base; the original project remains attributed in the repository. | Kubernetes, gRPC, Prometheus, Helm | [Repository](https://github.com/hacrex/Cloud-Native-Microservices-Boutique) |
+| [AI-Infra-Ollama-K8s](https://github.com/hacrex/AI-Infra-Ollama-K8s) | Kubernetes manifests and operational notes for a local Ollama and Open WebUI deployment. | Kubernetes, Ollama, Open WebUI | [Repository](https://github.com/hacrex/AI-Infra-Ollama-K8s) |
+| [Multi-Cloud-DR-Orchestrator](https://github.com/hacrex/Multi-Cloud-DR-Orchestrator) | Terraform and runbook reference for reviewing recovery steps across AWS and Azure. | Terraform, AWS, Azure, Ansible, Python | [Repository](https://github.com/hacrex/Multi-Cloud-DR-Orchestrator) |
+| [Serverless-RealTime-Data-Ops](https://github.com/hacrex/Serverless-RealTime-Data-Ops) | Serverless data-pipeline reference based on an upstream implementation, with attribution retained in the repository. | AWS Lambda, Kinesis, Glue, Terraform | [Repository](https://github.com/hacrex/Serverless-RealTime-Data-Ops) |
+| [Internal-Developer-Platform-IDP](https://github.com/hacrex/Internal-Developer-Platform-IDP) | Backstage and Terraform reference for self-service service onboarding, with upstream source attribution retained. | Backstage, Terraform, Kubernetes, Helm | [Repository](https://github.com/hacrex/Internal-Developer-Platform-IDP) |
 
 ---
 
